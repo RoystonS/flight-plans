@@ -1,0 +1,11 @@
+{
+  "name": "@shufflies/pkg1",
+  "version": "0.0.0",
+  "private": true,
+  "volta": {
+    "extends": "../../package.json"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}

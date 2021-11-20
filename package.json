@@ -1,0 +1,17 @@
+{
+  "name": "@shufflies/flightplans",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Royston Shufflebotham <royston@shufflebotham.org>",
+  "license": "MIT",
+  "volta": {
+    "node": "16.13.0",
+    "yarn": "1.22.17"
+  }
+}

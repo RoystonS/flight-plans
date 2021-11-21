@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "ES2015",
+    "jsx": "react-jsx",
+    "strict": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "downlevelIteration": true,
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    "plugins": [{ "name": "typescript-plugin-css-modules" }]
+  },
+  "include": [
+    "src/**/*.tsx",
+
+    // This prevents rollup's TS complaining about .module.css files.
+    // Sadly whilst this stops it complaining about not being able to
+    // find them it also means we don't get compile-time checking.
+    "src/types.d.ts"
+  ],
+  "exclude": ["node_modules"]
+}

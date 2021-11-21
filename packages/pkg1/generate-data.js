@@ -208,11 +208,11 @@ function getRunways() {
       w: row.width,
       e1: {
         n: row.e1Name,
-        h: round(row.e1Heading - magvar, 0),
+        h: fixHeading(row.e1Heading - magvar),
       },
       e2: {
         n: row.e2Name,
-        h: round(row.e2Heading - magvar, 0),
+        h: fixHeading(row.e2Heading - magvar),
       },
     };
     if (row.e1Closed) {
@@ -238,6 +238,10 @@ function getRunways() {
     }
     airport.runways.push(runway);
   }
+}
+
+function fixHeading(heading) {
+  return round((360 + heading) % 360, 0);
 }
 
 getAirports();

@@ -1,0 +1,1529 @@
+{
+  "MXDL": {
+    "e": 3609,
+    "n": "Cereso Del Hongo Airport",
+    "mv": 11.03,
+    "c": "Cereso Del Hongo",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2576,
+        "w": 36,
+        "e1": {
+          "n": "23",
+          "h": 234
+        },
+        "e2": {
+          "n": "05",
+          "h": 54
+        }
+      }
+    ]
+  },
+  "MXSC": {
+    "e": 21,
+    "n": "Rodolfo Sanchez Taboada Airport",
+    "mv": 10.85,
+    "c": "Rodolfo Sanchez Taboada",
+    "runways": [
+      {
+        "s": "S",
+        "l": 889,
+        "w": 58,
+        "e1": {
+          "n": "19",
+          "h": 188
+        },
+        "e2": {
+          "n": "01",
+          "h": 8
+        }
+      }
+    ]
+  },
+  "MXFD": {
+    "e": 85,
+    "n": "Yucatan Airstrip",
+    "mv": 10.77,
+    "c": "Ejido Yucatan",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3126,
+        "w": 56,
+        "e1": {
+          "n": "26",
+          "h": 262
+        },
+        "e2": {
+          "n": "08",
+          "h": 82
+        }
+      }
+    ]
+  },
+  "MXTC": {
+    "e": 1399,
+    "n": "Sonoyta Airport",
+    "mv": 9.94,
+    "c": "Sonoyta",
+    "runways": [
+      {
+        "s": "A",
+        "l": 1951,
+        "w": 67,
+        "e1": {
+          "n": "36",
+          "h": -9
+        },
+        "e2": {
+          "n": "18",
+          "h": 171
+        }
+      }
+    ]
+  },
+  "MXTD": {
+    "e": 4275,
+    "n": "Santa Cruz Airport",
+    "mv": 9.11,
+    "c": "Santa Cruz",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1382,
+        "w": 50,
+        "e1": {
+          "n": "18",
+          "h": 178
+        },
+        "e2": {
+          "n": "36",
+          "h": -2
+        }
+      }
+    ]
+  },
+  "MXNB": {
+    "e": 1914,
+    "n": "Granados Airstrip",
+    "mv": 8.6,
+    "c": "Moctezuma",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2864,
+        "w": 82,
+        "e1": {
+          "n": "26",
+          "h": 261
+        },
+        "e2": {
+          "n": "08",
+          "h": 81
+        }
+      }
+    ]
+  },
+  "MXNC": {
+    "e": 2345,
+    "n": "Bacadehuachi Airport",
+    "mv": 8.56,
+    "c": "Moctezuma",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3631,
+        "w": 56,
+        "e1": {
+          "n": "35",
+          "h": 350
+        },
+        "e2": {
+          "n": "17",
+          "h": 170
+        }
+      }
+    ]
+  },
+  "MXTB": {
+    "e": 2703,
+    "n": "Nacori Chico Airport",
+    "mv": 8.35,
+    "c": "Sahuaripa",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3973,
+        "w": 114,
+        "e1": {
+          "n": "17",
+          "h": 168
+        },
+        "e2": {
+          "n": "35",
+          "h": 348
+        }
+      }
+    ]
+  },
+  "MXCA": {
+    "e": 10,
+    "n": "Bahia De Kino Airport",
+    "mv": 9.5,
+    "c": "Bahia De Kino",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4212,
+        "w": 140,
+        "e1": {
+          "n": "04",
+          "h": 44
+        },
+        "e2": {
+          "n": "22",
+          "h": 224
+        }
+      }
+    ]
+  },
+  "MXME": {
+    "e": 97,
+    "n": "Campo San Pablo Airstrip",
+    "mv": 8.67,
+    "c": "La Palma",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3667,
+        "w": 101,
+        "e1": {
+          "n": "18",
+          "h": 181
+        },
+        "e2": {
+          "n": "36",
+          "h": 1
+        }
+      }
+    ]
+  },
+  "MXND": {
+    "e": 32,
+    "n": "Punta Chivato Airport",
+    "mv": 8.76,
+    "c": "Mulege",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3319,
+        "w": 50,
+        "e1": {
+          "n": "10",
+          "h": 99
+        },
+        "e2": {
+          "n": "28",
+          "h": 279
+        }
+      },
+      {
+        "s": "D",
+        "l": 3927,
+        "w": 99,
+        "e1": {
+          "n": "31",
+          "h": 312
+        },
+        "e2": {
+          "n": "13",
+          "h": 132
+        }
+      }
+    ]
+  },
+  "MXNF": {
+    "e": 70,
+    "n": "Mulege Airport",
+    "mv": 9.01,
+    "c": "Mulege",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2368,
+        "w": 82,
+        "e1": {
+          "n": "18",
+          "h": 184
+        },
+        "e2": {
+          "n": "36",
+          "h": 4
+        }
+      }
+    ]
+  },
+  "MXNG": {
+    "e": 66,
+    "n": "Mulege Airport",
+    "mv": 8.9,
+    "c": "Mulege",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2692,
+        "w": 157,
+        "e1": {
+          "n": "33",
+          "h": 328
+        },
+        "e2": {
+          "n": "15",
+          "h": 148
+        }
+      }
+    ]
+  },
+  "MXMJ": {
+    "e": 162,
+    "n": "Ursulo Galvan Airstrip",
+    "mv": 8.69,
+    "c": "La Palma",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2753,
+        "w": 82,
+        "e1": {
+          "n": "36",
+          "h": 2
+        },
+        "e2": {
+          "n": "18",
+          "h": 182
+        }
+      }
+    ]
+  },
+  "MXDI": {
+    "e": 97,
+    "n": "Tigre Airport",
+    "mv": 8.31,
+    "c": "Cuauhtemoc (Campo Cinco)",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2566,
+        "w": 41,
+        "e1": {
+          "n": "17",
+          "h": 171
+        },
+        "e2": {
+          "n": "35",
+          "h": 351
+        }
+      }
+    ]
+  },
+  "MXFA": {
+    "e": 114,
+    "n": "Familia Baldenebro Jaimes Airport",
+    "mv": 8.3,
+    "c": "El Tobarito",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2506,
+        "w": 58,
+        "e1": {
+          "n": "26",
+          "h": 262
+        },
+        "e2": {
+          "n": "08",
+          "h": 82
+        }
+      }
+    ]
+  },
+  "MXFE": {
+    "e": 119,
+    "n": "El Crucero Airport",
+    "mv": 8.31,
+    "c": "El Tobarito",
+    "runways": [
+      {
+        "s": "A",
+        "l": 3050,
+        "w": 23,
+        "e1": {
+          "n": "08",
+          "h": 82
+        },
+        "e2": {
+          "n": "26",
+          "h": 262
+        }
+      }
+    ]
+  },
+  "MXQB": {
+    "e": 91,
+    "n": "San Joaquin Aitport",
+    "mv": 8.29,
+    "c": "Pueblo Yaqui",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1389,
+        "w": 51,
+        "e1": {
+          "n": "17",
+          "h": 171
+        },
+        "e2": {
+          "n": "35",
+          "h": 351
+        }
+      }
+    ]
+  },
+  "MXOC": {
+    "e": 137,
+    "n": "Navojoa Airport",
+    "mv": 8.26,
+    "c": "Navojoa",
+    "runways": [
+      {
+        "s": "A",
+        "l": 5559,
+        "w": 63,
+        "e1": {
+          "n": "21",
+          "h": 210,
+          "c": true
+        },
+        "e2": {
+          "n": "03",
+          "h": 30,
+          "c": true
+        }
+      }
+    ]
+  },
+  "MXDM": {
+    "e": 37,
+    "n": "Ciudad Insurgentes Airport",
+    "mv": 8.9,
+    "c": "Ciudad Insurgentes",
+    "runways": [
+      {
+        "s": "D",
+        "l": 5144,
+        "w": 109,
+        "e1": {
+          "n": "31",
+          "h": 306
+        },
+        "e2": {
+          "n": "13",
+          "h": 126
+        }
+      }
+    ]
+  },
+  "MXDD": {
+    "e": 77,
+    "n": "Cedros Airport",
+    "mv": 7.95,
+    "c": "Cerrillos (Campo 35)",
+    "runways": [
+      {
+        "s": "A",
+        "l": 2128,
+        "w": 31,
+        "e1": {
+          "n": "11",
+          "h": 109
+        },
+        "e2": {
+          "n": "29",
+          "h": 289
+        }
+      }
+    ]
+  },
+  "MXSA": {
+    "e": 31,
+    "n": "Guayparime Ii Airport",
+    "mv": 7.91,
+    "c": "Ricardo Flores Magon",
+    "runways": [
+      {
+        "s": "A",
+        "l": 3039,
+        "w": 35,
+        "e1": {
+          "n": "20",
+          "h": 204
+        },
+        "e2": {
+          "n": "02",
+          "h": 24
+        }
+      }
+    ]
+  },
+  "MXSB": {
+    "e": 38,
+    "n": "Farallon Airport",
+    "mv": 7.91,
+    "c": "Ricardo Flores Magon",
+    "runways": [
+      {
+        "s": "A",
+        "l": 2689,
+        "w": 55,
+        "e1": {
+          "n": "20",
+          "h": 204
+        },
+        "e2": {
+          "n": "02",
+          "h": 24
+        }
+      }
+    ]
+  },
+  "MXMK": {
+    "e": 45,
+    "n": "Las Veredas Airport",
+    "mv": 7.89,
+    "c": "Las Veredas",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3091,
+        "w": 78,
+        "e1": {
+          "n": "35",
+          "h": 347
+        },
+        "e2": {
+          "n": "17",
+          "h": 167
+        }
+      }
+    ]
+  },
+  "MXFC": {
+    "e": 7284,
+    "n": "Mesa Del Huracán Airport",
+    "mv": 8.25,
+    "c": "Ejido El Largo",
+    "runways": [
+      {
+        "s": "D",
+        "l": 6009,
+        "w": 115,
+        "e1": {
+          "n": "03",
+          "h": 34
+        },
+        "e2": {
+          "n": "21",
+          "h": 214
+        }
+      }
+    ]
+  },
+  "MXMC": {
+    "e": 7103,
+    "n": "Col. Alamillo Airport",
+    "mv": 7.89,
+    "c": "Las Varas (Estacion Babicora)",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3648,
+        "w": 144,
+        "e1": {
+          "n": "33",
+          "h": 326
+        },
+        "e2": {
+          "n": "15",
+          "h": 146
+        }
+      }
+    ]
+  },
+  "MXBF": {
+    "e": 6594,
+    "n": "Las Cartucheras Airport",
+    "mv": 7.97,
+    "c": "Adolfo Lopez Mateos",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3058,
+        "w": 60,
+        "e1": {
+          "n": "06",
+          "h": 63
+        },
+        "e2": {
+          "n": "24",
+          "h": 243
+        }
+      }
+    ]
+  },
+  "MXDE": {
+    "e": 6848,
+    "n": "Cahuisori Airport",
+    "mv": 8.16,
+    "c": "Creel",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3161,
+        "w": 59,
+        "e1": {
+          "n": "15",
+          "h": 146
+        },
+        "e2": {
+          "n": "33",
+          "h": 326
+        }
+      }
+    ]
+  },
+  "MXDG": {
+    "e": 3765,
+    "n": "Santo Niño Airport",
+    "mv": 7.04,
+    "c": "Congregacion Ortiz",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1870,
+        "w": 38,
+        "e1": {
+          "n": "31",
+          "h": 312
+        },
+        "e2": {
+          "n": "13",
+          "h": 132
+        }
+      }
+    ]
+  },
+  "MXHA": {
+    "e": 7109,
+    "n": "San Fernando Airstrip",
+    "mv": 7.62,
+    "c": "Guadalupe Y Calvo",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1734,
+        "w": 82,
+        "e1": {
+          "n": "30",
+          "h": 300
+        },
+        "e2": {
+          "n": "12",
+          "h": 120
+        }
+      }
+    ]
+  },
+  "MXBC": {
+    "e": 62,
+    "n": "Pista Morgan",
+    "mv": 7.87,
+    "c": "Adolfo Ruiz Cortines",
+    "runways": [
+      {
+        "s": "CE",
+        "l": 2141,
+        "w": 23,
+        "e1": {
+          "n": "29",
+          "h": 293
+        },
+        "e2": {
+          "n": "11",
+          "h": 113
+        }
+      }
+    ]
+  },
+  "MXMB": {
+    "e": 5126,
+    "n": "El Purgatorio Airstrip",
+    "mv": 7.17,
+    "c": "Las Yerbitas [Aserradero]",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1389,
+        "w": 47,
+        "e1": {
+          "n": "09",
+          "h": 88
+        },
+        "e2": {
+          "n": "27",
+          "h": 268
+        }
+      }
+    ]
+  },
+  "MXMD": {
+    "e": 4446,
+    "n": "Mesa De Los Toros Airport",
+    "mv": 7.16,
+    "c": "Las Yerbitas [Aserradero]",
+    "runways": [
+      {
+        "s": "D",
+        "l": 829,
+        "w": 15,
+        "e1": {
+          "n": "24",
+          "h": 239
+        },
+        "e2": {
+          "n": "06",
+          "h": 59
+        }
+      }
+    ]
+  },
+  "MXBG": {
+    "e": 173,
+    "n": "San António Airport",
+    "mv": 7.49,
+    "c": "Adolfo Lopez Mateos (El Tamarindo)",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1783,
+        "w": 40,
+        "e1": {
+          "n": "28",
+          "h": 287
+        },
+        "e2": {
+          "n": "10",
+          "h": 107
+        }
+      }
+    ]
+  },
+  "MXKA": {
+    "e": 87,
+    "n": "El Rodeo Airport",
+    "mv": 7.39,
+    "c": "Juan Aldama (El Tigre)",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1648,
+        "w": 38,
+        "e1": {
+          "n": "24",
+          "h": 245
+        },
+        "e2": {
+          "n": "06",
+          "h": 65
+        }
+      }
+    ]
+  },
+  "MXMI": {
+    "e": 227,
+    "n": "Aerofumigaciones La Nanchi Airport",
+    "mv": 7.41,
+    "c": "La Palmita Y Anexos (La Presita)",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2254,
+        "w": 33,
+        "e1": {
+          "n": "32",
+          "h": 320
+        },
+        "e2": {
+          "n": "14",
+          "h": 140
+        }
+      }
+    ]
+  },
+  "MXWA": {
+    "e": 28,
+    "n": "Lagarto Airport",
+    "mv": 7.42,
+    "c": "Villa Juarez",
+    "runways": [
+      {
+        "s": "A",
+        "l": 1990,
+        "w": 34,
+        "e1": {
+          "n": "35",
+          "h": 0
+        },
+        "e2": {
+          "n": "17",
+          "h": 180
+        }
+      }
+    ]
+  },
+  "MXFB": {
+    "e": 19,
+    "n": "El Dorado Airport",
+    "mv": 7.41,
+    "c": "Eldorado",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2291,
+        "w": 29,
+        "e1": {
+          "n": "26",
+          "h": 261
+        },
+        "e2": {
+          "n": "08",
+          "h": 81
+        }
+      }
+    ]
+  },
+  "MXDJ": {
+    "e": 7406,
+    "n": "El Bajío Airstrip",
+    "mv": 7.16,
+    "c": "Cosala",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1579,
+        "w": 69,
+        "e1": {
+          "n": "13",
+          "h": 134
+        },
+        "e2": {
+          "n": "31",
+          "h": 314
+        }
+      }
+    ]
+  },
+  "MXDK": {
+    "e": 7081,
+    "n": "La Cienega Airstrip",
+    "mv": 7.15,
+    "c": "Cosala",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1525,
+        "w": 77,
+        "e1": {
+          "n": "31",
+          "h": 314
+        },
+        "e2": {
+          "n": "13",
+          "h": 134
+        }
+      }
+    ]
+  },
+  "MXTA": {
+    "e": 2644,
+    "n": "Palmarejito Airstrip",
+    "mv": 7.09,
+    "c": "Sanalona",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1090,
+        "w": 31,
+        "e1": {
+          "n": "06",
+          "h": 65
+        },
+        "e2": {
+          "n": "24",
+          "h": 245
+        }
+      }
+    ]
+  },
+  "MXNA": {
+    "e": 2349,
+    "n": "Los Pintos Aurport",
+    "mv": 5.36,
+    "c": "Melchor Muzquiz",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3174,
+        "w": 149,
+        "e1": {
+          "n": "33",
+          "h": 329
+        },
+        "e2": {
+          "n": "15",
+          "h": 149
+        }
+      }
+    ]
+  },
+  "MXDC": {
+    "e": 1052,
+    "n": "Mirador Santa Rosa Airport",
+    "mv": 4.93,
+    "c": "Ciudad Sabinas",
+    "runways": [
+      {
+        "s": "CE",
+        "l": 3611,
+        "w": 123,
+        "e1": {
+          "n": "28",
+          "h": 285
+        },
+        "e2": {
+          "n": "10",
+          "h": 105
+        }
+      }
+    ]
+  },
+  "MXDH": {
+    "e": 885,
+    "n": "La Mezquitosa Airport",
+    "mv": 4.85,
+    "c": "Ciudad Anahuac",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3132,
+        "w": 201,
+        "e1": {
+          "n": "36",
+          "h": -1
+        },
+        "e2": {
+          "n": "18",
+          "h": 179
+        }
+      }
+    ]
+  },
+  "MXWB": {
+    "e": 887,
+    "n": "Las Cuevas Airport",
+    "mv": 4.9,
+    "c": "Villa Union",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4550,
+        "w": 76,
+        "e1": {
+          "n": "14",
+          "h": 138
+        },
+        "e2": {
+          "n": "32",
+          "h": 318
+        }
+      }
+    ]
+  },
+  "MXMA": {
+    "e": 998,
+    "n": "Monteverde Airport",
+    "mv": 4.82,
+    "c": "Lampazos De Naranjo",
+    "runways": [
+      {
+        "s": "A",
+        "l": 3951,
+        "w": 32,
+        "e1": {
+          "n": "29",
+          "h": 295
+        },
+        "e2": {
+          "n": "11",
+          "h": 115
+        }
+      }
+    ]
+  },
+  "MXBD": {
+    "e": 470,
+    "n": "El Centenario Airstrip",
+    "mv": 4.51,
+    "c": "Anahuac",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3145,
+        "w": 87,
+        "e1": {
+          "n": "35",
+          "h": 353
+        },
+        "e2": {
+          "n": "17",
+          "h": 173
+        }
+      }
+    ]
+  },
+  "MXDA": {
+    "e": 2737,
+    "n": "El Mito Airstrip",
+    "mv": 4.88,
+    "c": "Castanos",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3903,
+        "w": 93,
+        "e1": {
+          "n": "03",
+          "h": 31
+        },
+        "e2": {
+          "n": "21",
+          "h": 211
+        }
+      }
+    ]
+  },
+  "MXOD": {
+    "e": 348,
+    "n": "Nueva Ciudad Guerrero Airport",
+    "mv": 4.32,
+    "c": "Nueva Ciudad Guerrero",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2878,
+        "w": 36,
+        "e1": {
+          "n": "35",
+          "h": 347
+        },
+        "e2": {
+          "n": "17",
+          "h": 167
+        }
+      }
+    ]
+  },
+  "MXHB": {
+    "e": 344,
+    "n": "Rancho El Gato Airport",
+    "mv": 3.9,
+    "c": "Gustavo Diaz Ordaz",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2079,
+        "w": 24,
+        "e1": {
+          "n": "14",
+          "h": 139
+        },
+        "e2": {
+          "n": "32",
+          "h": 319
+        }
+      }
+    ]
+  },
+  "MXMH": {
+    "e": 1052,
+    "n": "Ganaderia 21 De Enero; S.A. De C.V. Airport",
+    "mv": 4.31,
+    "c": "La Reforma",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2887,
+        "w": 151,
+        "e1": {
+          "n": "22",
+          "h": 220
+        },
+        "e2": {
+          "n": "04",
+          "h": 40
+        }
+      }
+    ]
+  },
+  "MXML": {
+    "e": 1098,
+    "n": "Linares Airport",
+    "mv": 4.35,
+    "c": "Linares",
+    "runways": [
+      {
+        "s": "D",
+        "l": 5889,
+        "w": 127,
+        "e1": {
+          "n": "31",
+          "h": 314
+        },
+        "e2": {
+          "n": "13",
+          "h": 134
+        }
+      }
+    ]
+  },
+  "MXBB": {
+    "e": 729,
+    "n": "El Caracol Airport",
+    "mv": 3.88,
+    "c": "Abasolo",
+    "runways": [
+      {
+        "s": "CE",
+        "l": 2019,
+        "w": 50,
+        "e1": {
+          "n": "13",
+          "h": 129
+        },
+        "e2": {
+          "n": "31",
+          "h": 309
+        }
+      }
+    ]
+  },
+  "MXOA": {
+    "e": 485,
+    "n": "Rancho La Paloma Airport",
+    "mv": 3.77,
+    "c": "Nuevo Padilla",
+    "runways": [
+      {
+        "s": "A",
+        "l": 5052,
+        "w": 57,
+        "e1": {
+          "n": "36",
+          "h": 2
+        },
+        "e2": {
+          "n": "18",
+          "h": 182,
+          "o": 127
+        }
+      }
+    ]
+  },
+  "MXBA": {
+    "e": 85,
+    "n": "Zapotal Airport",
+    "mv": 3.78,
+    "c": "Aldama",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2845,
+        "w": 38,
+        "e1": {
+          "n": "08",
+          "h": 77
+        },
+        "e2": {
+          "n": "26",
+          "h": 257
+        }
+      }
+    ]
+  },
+  "MXOB": {
+    "e": 131,
+    "n": "El Paraiso Airport",
+    "mv": 3.27,
+    "c": "Nuevo Progreso",
+    "runways": [
+      {
+        "s": "A",
+        "l": 4105,
+        "w": 64,
+        "e1": {
+          "n": "14",
+          "h": 147
+        },
+        "e2": {
+          "n": "32",
+          "h": 327
+        }
+      }
+    ]
+  },
+  "MX85": {
+    "e": 19,
+    "n": "Penita De Jaltemba",
+    "mv": 6.63,
+    "runways": [
+      {
+        "s": "A",
+        "l": 3601,
+        "w": 54,
+        "e1": {
+          "n": "02",
+          "h": 20
+        },
+        "e2": {
+          "n": "20",
+          "h": 200
+        }
+      }
+    ]
+  },
+  "MXTE": {
+    "e": 6286,
+    "n": "San Luis Potosi Airport",
+    "mv": 5.31,
+    "c": "San Luis Potosi",
+    "runways": [
+      {
+        "s": "A",
+        "l": 1478,
+        "w": 66,
+        "e1": {
+          "n": "10",
+          "h": 102
+        },
+        "e2": {
+          "n": "28",
+          "h": 282
+        }
+      }
+    ]
+  },
+  "MXUC": {
+    "e": 1569,
+    "n": "Tlacoachistlahuaca Airport",
+    "mv": 4.05,
+    "c": "Tlacoachistlahuaca",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1177,
+        "w": 11,
+        "e1": {
+          "n": "23",
+          "h": 225
+        },
+        "e2": {
+          "n": "05",
+          "h": 45
+        }
+      }
+    ]
+  },
+  "MXBH": {
+    "e": 176,
+    "n": "Los Pipos Airport",
+    "mv": 3.54,
+    "c": "Agua Dulce",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1217,
+        "w": 19,
+        "e1": {
+          "n": "04",
+          "h": 36
+        },
+        "e2": {
+          "n": "22",
+          "h": 216
+        }
+      }
+    ]
+  },
+  "MXWC": {
+    "e": 154,
+    "n": "Vega De San Marcos Airport",
+    "mv": 2.91,
+    "c": "Vega De San Marcos",
+    "runways": [
+      {
+        "s": "A",
+        "l": 2195,
+        "w": 43,
+        "e1": {
+          "n": "34",
+          "h": 334
+        },
+        "e2": {
+          "n": "16",
+          "h": 154
+        }
+      }
+    ]
+  },
+  "MXDF": {
+    "e": 703,
+    "n": "Los Tuxtlas Regional Airport",
+    "mv": 2.72,
+    "c": "Cerro Las Iguanas",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1703,
+        "w": 54,
+        "e1": {
+          "n": "19",
+          "h": 190
+        },
+        "e2": {
+          "n": "01",
+          "h": 10
+        }
+      }
+    ]
+  },
+  "MXUB": {
+    "e": 16,
+    "n": "El Zopilote Airport",
+    "mv": 2.66,
+    "c": "Tesechoacan",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1899,
+        "w": 21,
+        "e1": {
+          "n": "36",
+          "h": 357
+        },
+        "e2": {
+          "n": "18",
+          "h": 177
+        }
+      }
+    ]
+  },
+  "MXDB": {
+    "e": 3859,
+    "n": "El Carrizal Airstrip",
+    "mv": 3.72,
+    "c": "Cieneguilla",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1496,
+        "w": 57,
+        "e1": {
+          "n": "11",
+          "h": 113
+        },
+        "e2": {
+          "n": "29",
+          "h": 293
+        }
+      }
+    ]
+  },
+  "MXTH": {
+    "e": 15,
+    "n": "San Luqueno Airport",
+    "mv": 2.09,
+    "c": "San Luqueno",
+    "runways": [
+      {
+        "s": "A",
+        "l": 2589,
+        "w": 52,
+        "e1": {
+          "n": "01",
+          "h": 5
+        },
+        "e2": {
+          "n": "19",
+          "h": 185
+        }
+      }
+    ]
+  },
+  "MXJA": {
+    "e": 2,
+    "n": "La Unión Airstrip",
+    "mv": 1.73,
+    "c": "Ignacio Zaragoza 1ra. Seccion",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1711,
+        "w": 82,
+        "e1": {
+          "n": "33",
+          "h": 325
+        },
+        "e2": {
+          "n": "15",
+          "h": 145
+        }
+      }
+    ]
+  },
+  "MXTI": {
+    "e": 217,
+    "n": "San Carlos Airport",
+    "mv": 0.25,
+    "c": "San Carlos",
+    "runways": [
+      {
+        "s": "A",
+        "l": 4905,
+        "w": 36,
+        "e1": {
+          "n": "09",
+          "h": 94
+        },
+        "e2": {
+          "n": "27",
+          "h": 274
+        }
+      }
+    ]
+  },
+  "MXMG": {
+    "e": 5163,
+    "n": "Yalcok Airport",
+    "mv": 0.84,
+    "c": "Las Margaritas",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3024,
+        "w": 45,
+        "e1": {
+          "n": "33",
+          "h": 332
+        },
+        "e2": {
+          "n": "15",
+          "h": 152
+        }
+      }
+    ]
+  },
+  "MXUA": {
+    "e": 82,
+    "n": "Murallas Airport",
+    "mv": 1.57,
+    "c": "Tinajas 1ra. Seccion",
+    "runways": [
+      {
+        "s": "A",
+        "l": 2267,
+        "w": 14,
+        "e1": {
+          "n": "21",
+          "h": 212
+        },
+        "e2": {
+          "n": "03",
+          "h": 32
+        }
+      }
+    ]
+  },
+  "MXQC": {
+    "e": 33,
+    "n": "Playa Del Carmen Airport",
+    "mv": -1.9,
+    "c": "Playa Del Carmen",
+    "runways": [
+      {
+        "s": "A",
+        "l": 2358,
+        "w": 42,
+        "e1": {
+          "n": "29",
+          "h": 286
+        },
+        "e2": {
+          "n": "11",
+          "h": 106
+        }
+      }
+    ]
+  },
+  "MXR": {
+    "e": 1001,
+    "n": "Moussoro Airport",
+    "mv": 2,
+    "c": "Moussoro",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3971,
+        "w": 60,
+        "e1": {
+          "n": "21",
+          "h": 208
+        },
+        "e2": {
+          "n": "03",
+          "h": 28
+        }
+      }
+    ]
+  },
+  "MXK": {
+    "e": 4192,
+    "n": "Mindik Airport",
+    "mv": 5.4,
+    "c": "Finschhafen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2096,
+        "w": 93,
+        "e1": {
+          "n": "36",
+          "h": 2
+        },
+        "e2": {
+          "n": "18",
+          "h": 182
+        }
+      }
+    ]
+  }
+}

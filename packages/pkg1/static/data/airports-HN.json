@@ -1,0 +1,40 @@
+{
+  "HNE": {
+    "e": 2959,
+    "n": "Tahneta Pass",
+    "mv": 16.3,
+    "c": "Tahneta Pass Lodge",
+    "freqs": [
+      {
+        "t": "FSS",
+        "f": 122.4,
+        "n": "KENAI"
+      },
+      {
+        "t": "UC",
+        "f": 123.05,
+        "n": "TAHNETAPASS"
+      },
+      {
+        "t": "CTAF",
+        "f": 123.05,
+        "n": "TAHNETAPASS"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 1562,
+        "w": 55,
+        "e1": {
+          "n": "22",
+          "h": 224
+        },
+        "e2": {
+          "n": "04",
+          "h": 44
+        }
+      }
+    ]
+  }
+}

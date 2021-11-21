@@ -1,0 +1,35 @@
+{
+  "JLA": {
+    "e": 463,
+    "n": "Quartz Creek",
+    "mv": 15.43,
+    "c": "Cooper Landing",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "QUARTZCREEK"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "QUARTZCREEK"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 2607,
+        "w": 141,
+        "e1": {
+          "n": "04",
+          "h": 41
+        },
+        "e2": {
+          "n": "22",
+          "h": 221
+        }
+      }
+    ]
+  }
+}

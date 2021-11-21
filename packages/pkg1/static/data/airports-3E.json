@@ -1,0 +1,145 @@
+{
+  "3E7": {
+    "e": 3715,
+    "n": "Pronger Bros Ranch",
+    "mv": 6.4,
+    "c": "Stratford",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "PRONGERBROSRANCH"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "PRONGERBROSRANCH"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 5637,
+        "w": 197,
+        "e1": {
+          "n": "14",
+          "h": 140
+        },
+        "e2": {
+          "n": "32",
+          "h": 320
+        }
+      }
+    ]
+  },
+  "3E0": {
+    "e": 2720,
+    "n": "Miami-Roberts Co",
+    "mv": 5.18,
+    "c": "Miami",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "MIAMI-ROBERTSCO"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "MIAMI-ROBERTSCO"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 4044,
+        "w": 45,
+        "e1": {
+          "n": "20",
+          "h": 208,
+          "o": 390
+        },
+        "e2": {
+          "n": "02",
+          "h": 28
+        }
+      }
+    ]
+  },
+  "3EX": {
+    "e": 995,
+    "n": "Excelsior Springs Memorial",
+    "mv": 1.38,
+    "c": "Excelsior Springs",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 119,
+        "n": "KANSASCITY"
+      },
+      {
+        "t": "D",
+        "f": 119,
+        "n": "KANSASCITY"
+      },
+      {
+        "t": "UC",
+        "f": 122.7,
+        "n": "EXCELSIORSPRINGSMEML"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.7,
+        "n": "EXCELSIORSPRINGSMEML"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 2004,
+        "w": 42,
+        "e1": {
+          "n": "03",
+          "h": 15
+        },
+        "e2": {
+          "n": "21",
+          "h": 195
+        }
+      }
+    ]
+  },
+  "3EV": {
+    "e": 380,
+    "n": "Skylane",
+    "mv": -3.73,
+    "c": "Evansville",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "SKYLANE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "SKYLANE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 2018,
+        "w": 142,
+        "e1": {
+          "n": "36",
+          "h": 5
+        },
+        "e2": {
+          "n": "18",
+          "h": 185
+        }
+      }
+    ]
+  }
+}

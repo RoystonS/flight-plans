@@ -1,0 +1,120 @@
+{
+  "Y03": {
+    "e": 1313,
+    "n": "Springfield Mun",
+    "mv": 3.6,
+    "c": "Springfield",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.8,
+        "n": "ACTIVATELIGHTSONLY"
+      },
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "SPRINGFIELDMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "SPRINGFIELDMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 1865,
+        "w": 96,
+        "e1": {
+          "n": "19",
+          "h": 201
+        },
+        "e2": {
+          "n": "01",
+          "h": 21
+        }
+      },
+      {
+        "s": "A",
+        "l": 3475,
+        "w": 56,
+        "e1": {
+          "n": "33",
+          "h": 332
+        },
+        "e2": {
+          "n": "15",
+          "h": 152
+        }
+      }
+    ]
+  },
+  "Y01": {
+    "e": 1281,
+    "n": "Waukon Mun",
+    "mv": -1.17,
+    "c": "Waukon",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "WAUKONMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "WAUKONMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 2407,
+        "w": 58,
+        "e1": {
+          "n": "25",
+          "h": 256
+        },
+        "e2": {
+          "n": "07",
+          "h": 76
+        }
+      }
+    ]
+  },
+  "Y04": {
+    "e": 819,
+    "n": "Sugar Loaf Resort",
+    "mv": -5.96,
+    "c": "Traverse City",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "SUGARLOAFRESORT"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "SUGARLOAFRESORT"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3508,
+        "w": 46,
+        "e1": {
+          "n": "02",
+          "h": 28
+        },
+        "e2": {
+          "n": "20",
+          "h": 208,
+          "o": 574
+        }
+      }
+    ]
+  }
+}

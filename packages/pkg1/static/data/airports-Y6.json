@@ -1,0 +1,69 @@
+{
+  "Y63": {
+    "e": 1193,
+    "n": "Elbow Lake Mun-Pride Of The Pr",
+    "mv": 2.15,
+    "c": "Elbow Lake",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "ELBOWLAKEMUN-PRIDEOFT"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "ELBOWLAKEMUN-PRIDEOFT"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3384,
+        "w": 60,
+        "e1": {
+          "n": "14",
+          "h": 138
+        },
+        "e2": {
+          "n": "32",
+          "h": 318
+        }
+      }
+    ]
+  },
+  "Y65": {
+    "e": 602,
+    "n": "Campbell Mun",
+    "mv": -7.05,
+    "c": "Indian River",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "CAMPBELLMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "CAMPBELLMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 2998,
+        "w": 45,
+        "e1": {
+          "n": "10",
+          "h": 105
+        },
+        "e2": {
+          "n": "28",
+          "h": 285,
+          "o": 597
+        }
+      }
+    ]
+  }
+}

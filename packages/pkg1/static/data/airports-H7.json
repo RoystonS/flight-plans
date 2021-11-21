@@ -1,0 +1,176 @@
+{
+  "H70": {
+    "e": 3660,
+    "n": "Stratford",
+    "mv": 6.37,
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "STRATFORD"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "STRATFORD"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3040,
+        "w": 27,
+        "e1": {
+          "n": "04",
+          "h": 47
+        },
+        "e2": {
+          "n": "22",
+          "h": 227
+        }
+      }
+    ]
+  },
+  "H76": {
+    "e": 1000,
+    "n": "Pawhuska Mun",
+    "mv": 2.71,
+    "c": "Pawhuska",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "PAWHUSKAMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "PAWHUSKAMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3189,
+        "w": 56,
+        "e1": {
+          "n": "35",
+          "h": 357
+        },
+        "e2": {
+          "n": "17",
+          "h": 177
+        }
+      }
+    ]
+  },
+  "H71": {
+    "e": 612,
+    "n": "Mid-America Industrial",
+    "mv": 2.14,
+    "c": "Pryor",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 119.1,
+        "n": "TULSA"
+      },
+      {
+        "t": "D",
+        "f": 119.1,
+        "n": "TULSA"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "MID-AMERICAINDUSTRIAL"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "MID-AMERICAINDUSTRIAL"
+      }
+    ],
+    "runways": [
+      {
+        "s": "B",
+        "l": 4990,
+        "w": 59,
+        "e1": {
+          "n": "18",
+          "h": 178
+        },
+        "e2": {
+          "n": "36",
+          "h": -2
+        }
+      }
+    ]
+  },
+  "H79": {
+    "e": 910,
+    "n": "Eldon Model",
+    "mv": -0.08,
+    "c": "Eldon",
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "ELDONMODEL"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "ELDONMODEL"
+      }
+    ],
+    "runways": [
+      {
+        "s": "CE",
+        "l": 3992,
+        "w": 65,
+        "e1": {
+          "n": "36",
+          "h": 2
+        },
+        "e2": {
+          "n": "18",
+          "h": 182
+        }
+      }
+    ]
+  },
+  "H75": {
+    "e": 242,
+    "n": "Hernando Village Airpark Inc",
+    "mv": -1.43,
+    "c": "Hernando",
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "HERNANDOVILLAGEAIRPARK"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "HERNANDOVILLAGEAIRPARK"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 3479,
+        "w": 115,
+        "e1": {
+          "n": "32",
+          "h": 320
+        },
+        "e2": {
+          "n": "14",
+          "h": 140
+        }
+      }
+    ]
+  }
+}

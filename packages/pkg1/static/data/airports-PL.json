@@ -1,0 +1,114 @@
+{
+  "PLWN": {
+    "e": 28,
+    "n": "Washington Island Airstrip",
+    "mv": 9.04,
+    "c": "Napari Village",
+    "runways": [
+      {
+        "s": "A",
+        "l": 3154,
+        "w": 174,
+        "e1": {
+          "n": "08",
+          "h": 83
+        },
+        "e2": {
+          "n": "26",
+          "h": 263
+        }
+      }
+    ]
+  },
+  "PLFA": {
+    "e": 25,
+    "n": "Tabuaeran Island Airport",
+    "mv": 9.07,
+    "c": "Napari Village",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3361,
+        "w": 82,
+        "e1": {
+          "n": "29",
+          "h": 288
+        },
+        "e2": {
+          "n": "11",
+          "h": 108
+        }
+      }
+    ]
+  },
+  "PLCH": {
+    "e": 5,
+    "n": "Cassidy Intl",
+    "mv": 9.17,
+    "c": "Christmas I",
+    "freqs": [
+      {
+        "t": "FSS",
+        "f": 118.1,
+        "n": "CHRISTMASI"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 6906,
+        "w": 139,
+        "e1": {
+          "n": "26",
+          "h": 261
+        },
+        "e2": {
+          "n": "08",
+          "h": 81
+        }
+      }
+    ]
+  },
+  "PLBA": {
+    "e": 18,
+    "n": "Banana Village Airport",
+    "mv": 9.19,
+    "c": "Banana Village",
+    "runways": [
+      {
+        "s": "A",
+        "l": 5861,
+        "w": 105,
+        "e1": {
+          "n": "09",
+          "h": 92
+        },
+        "e2": {
+          "n": "27",
+          "h": 272
+        }
+      }
+    ]
+  },
+  "PLE": {
+    "e": 6181,
+    "n": "Paiela Airport",
+    "mv": 4.02,
+    "c": "Porgera",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1680,
+        "w": 117,
+        "e1": {
+          "n": "19",
+          "h": 192
+        },
+        "e2": {
+          "n": "01",
+          "h": 12
+        }
+      }
+    ]
+  }
+}

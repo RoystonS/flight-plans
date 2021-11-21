@@ -1,0 +1,23 @@
+{
+  "OCS": {
+    "e": 66,
+    "n": "Corisco International Airport",
+    "mv": -1.28,
+    "c": "Cocobeach",
+    "runways": [
+      {
+        "s": "A",
+        "l": 8006,
+        "w": 143,
+        "e1": {
+          "n": "19",
+          "h": 182
+        },
+        "e2": {
+          "n": "01",
+          "h": 2
+        }
+      }
+    ]
+  }
+}

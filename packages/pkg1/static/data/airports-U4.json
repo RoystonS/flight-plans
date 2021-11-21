@@ -1,0 +1,197 @@
+{
+  "U45": {
+    "e": 5726,
+    "n": "Graham USFS",
+    "mv": 12.86,
+    "c": "Atlanta",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "GRAHAMUSFS"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "GRAHAMUSFS"
+      }
+    ],
+    "runways": [
+      {
+        "s": "D",
+        "l": 2983,
+        "w": 50,
+        "e1": {
+          "n": "18",
+          "h": 182
+        },
+        "e2": {
+          "n": "36",
+          "h": 2
+        }
+      }
+    ]
+  },
+  "U46": {
+    "e": 5073,
+    "n": "Big Southern Butte",
+    "mv": 12.17,
+    "c": "Atomic City",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "BIGSOUTHERNBUTTE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "BIGSOUTHERNBUTTE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "D",
+        "l": 2664,
+        "w": 101,
+        "e1": {
+          "n": "02",
+          "h": 17
+        },
+        "e2": {
+          "n": "20",
+          "h": 197
+        }
+      }
+    ]
+  },
+  "U48": {
+    "e": 5038,
+    "n": "Cox's Well",
+    "mv": 12.17,
+    "c": "Atomic City",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "COX'SWELL"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "COX'SWELL"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 2685,
+        "w": 119,
+        "e1": {
+          "n": "07",
+          "h": 71
+        },
+        "e2": {
+          "n": "25",
+          "h": 251
+        }
+      }
+    ]
+  },
+  "U41": {
+    "e": 5123,
+    "n": "Dubois Mun",
+    "mv": 11.98,
+    "c": "Dubois",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "DUBOISMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "DUBOISMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "D",
+        "l": 4703,
+        "w": 53,
+        "e1": {
+          "n": "16",
+          "h": 160
+        },
+        "e2": {
+          "n": "34",
+          "h": 340
+        }
+      }
+    ]
+  },
+  "U42": {
+    "e": 4602,
+    "n": "South Valley Rgnl",
+    "mv": 10.98,
+    "c": "Salt Lake City",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 120.2,
+        "n": "SALTLAKECITY"
+      },
+      {
+        "t": "A",
+        "f": 124.3,
+        "n": "SALTLAKECITY"
+      },
+      {
+        "t": "AWOS",
+        "f": 134.425,
+        "n": null
+      },
+      {
+        "t": "C",
+        "f": 127,
+        "n": "SALTLAKECITY"
+      },
+      {
+        "t": "D",
+        "f": 120.2,
+        "n": "SALTLAKECITY"
+      },
+      {
+        "t": "D",
+        "f": 124.3,
+        "n": "SALTLAKECITY"
+      },
+      {
+        "t": "UC",
+        "f": 122.7,
+        "n": "SALTLAKECITYMUNNO2"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.7,
+        "n": "SALTLAKECITYMUNNO2"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 5860,
+        "w": 93,
+        "e1": {
+          "n": "16",
+          "h": 162
+        },
+        "e2": {
+          "n": "34",
+          "h": 342
+        }
+      }
+    ]
+  }
+}

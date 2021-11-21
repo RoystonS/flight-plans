@@ -1,0 +1,487 @@
+{
+  "TJC": {
+    "e": 24,
+    "n": "Ticantiki Airport",
+    "mv": -5.67,
+    "c": "Nargana",
+    "runways": [
+      {
+        "s": "A",
+        "l": 1778,
+        "w": 24,
+        "e1": {
+          "n": "05",
+          "h": 54
+        },
+        "e2": {
+          "n": "23",
+          "h": 234
+        }
+      }
+    ]
+  },
+  "TJAB": {
+    "e": 15,
+    "n": "Antonio/Nery/Juarbe Pol",
+    "mv": -13.22,
+    "c": "Arecibo",
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "ANTONIO/NERY/JUARBEPOL"
+      }
+    ],
+    "runways": [
+      {
+        "s": "B",
+        "l": 3979,
+        "w": 60,
+        "e1": {
+          "n": "08",
+          "h": 81
+        },
+        "e2": {
+          "n": "26",
+          "h": 261
+        }
+      }
+    ]
+  },
+  "TJBQ": {
+    "e": 214,
+    "n": "Rafael Hernandez",
+    "mv": -12.79,
+    "c": "Aguadilla",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 124.35,
+        "n": "SANJUANCERAP"
+      },
+      {
+        "t": "ATIS",
+        "f": 118.325,
+        "n": "TJBQ"
+      },
+      {
+        "t": "AWOS",
+        "f": 118.325,
+        "n": null
+      },
+      {
+        "t": "C",
+        "f": 120.875,
+        "n": "AGUADILLACLERANCE"
+      },
+      {
+        "t": "C",
+        "f": 124.35,
+        "n": "SANJUANCERAPCLERANCE"
+      },
+      {
+        "t": "D",
+        "f": 124.35,
+        "n": "SANJUANCERAP"
+      },
+      {
+        "t": "FSS",
+        "f": 122.3,
+        "n": "SANJUAN"
+      },
+      {
+        "t": "G",
+        "f": 120.875,
+        "n": "AGUADILLA"
+      },
+      {
+        "t": "T",
+        "f": 124.95,
+        "n": "AGUADILLA"
+      }
+    ],
+    "runways": [
+      {
+        "s": "B",
+        "l": 11687,
+        "w": 192,
+        "e1": {
+          "n": "08",
+          "h": 85,
+          "o": 387
+        },
+        "e2": {
+          "n": "26",
+          "h": 265
+        }
+      }
+    ]
+  },
+  "TJFA": {
+    "e": 64,
+    "n": "Diego Jimenez Torres",
+    "mv": -13.63,
+    "c": "Fajardo",
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 122.7,
+        "n": "DIEGOJIMENEZTORRES"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.7,
+        "n": "DIEGOJIMENEZTORRES"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3572,
+        "w": 62,
+        "e1": {
+          "n": "08",
+          "h": 81,
+          "c": true
+        },
+        "e2": {
+          "n": "26",
+          "h": 261,
+          "c": true
+        }
+      }
+    ]
+  },
+  "TJIG": {
+    "e": 8,
+    "n": "Fernando Luis Ribas Dominicci",
+    "mv": -13.2,
+    "c": "San Juan",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 119.4,
+        "n": "SANJUAN"
+      },
+      {
+        "t": "A",
+        "f": 120.9,
+        "n": "SANJUAN"
+      },
+      {
+        "t": "ATIS",
+        "f": 120.4,
+        "n": "TJIG"
+      },
+      {
+        "t": "D",
+        "f": 119.4,
+        "n": "SANJUAN"
+      },
+      {
+        "t": "D",
+        "f": 120.9,
+        "n": "SANJUAN"
+      },
+      {
+        "t": "G",
+        "f": 121.7,
+        "n": "DOMINICCI"
+      },
+      {
+        "t": "T",
+        "f": 135.875,
+        "n": "DOMINICCI"
+      },
+      {
+        "t": "CTAF",
+        "f": 135.875,
+        "n": "DOMINICCI"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 5544,
+        "w": 100,
+        "e1": {
+          "n": "09",
+          "h": 96,
+          "o": 305
+        },
+        "e2": {
+          "n": "27",
+          "h": 276,
+          "o": 121
+        }
+      }
+    ]
+  },
+  "TJSJ": {
+    "e": 8,
+    "n": "Luis Munoz Marin Intl",
+    "mv": -13.18,
+    "c": "San Juan",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 119.4,
+        "n": "SANJUAN"
+      },
+      {
+        "t": "A",
+        "f": 120.9,
+        "n": "SANJUAN"
+      },
+      {
+        "t": "ATIS",
+        "f": 125.8,
+        "n": "TJSJ"
+      },
+      {
+        "t": "CPT",
+        "f": 126.4,
+        "n": "SANJUAN"
+      },
+      {
+        "t": "D",
+        "f": 119.4,
+        "n": "SANJUAN"
+      },
+      {
+        "t": "D",
+        "f": 120.9,
+        "n": "SANJUAN"
+      },
+      {
+        "t": "G",
+        "f": 121.9,
+        "n": "SANJUAN"
+      },
+      {
+        "t": "T",
+        "f": 132.05,
+        "n": "SANJUAN"
+      },
+      {
+        "t": "UC",
+        "f": 123,
+        "n": "LUISMUNOZMARININTL"
+      }
+    ],
+    "runways": [
+      {
+        "s": "CE",
+        "l": 8008,
+        "w": 143,
+        "e1": {
+          "n": "10",
+          "h": 103
+        },
+        "e2": {
+          "n": "28",
+          "h": 283
+        }
+      },
+      {
+        "s": "B",
+        "l": 10404,
+        "w": 188,
+        "e1": {
+          "n": "08",
+          "h": 80,
+          "o": 410
+        },
+        "e2": {
+          "n": "26",
+          "h": 260,
+          "o": 403
+        }
+      }
+    ]
+  },
+  "TJCP": {
+    "e": 25,
+    "n": "Benjamin Rivera Noriega",
+    "mv": -13.57,
+    "c": "Isla De Culebra",
+    "runways": [
+      {
+        "s": "B",
+        "l": 2589,
+        "w": 38,
+        "e1": {
+          "n": "13",
+          "h": 135
+        },
+        "e2": {
+          "n": "31",
+          "h": 315
+        }
+      }
+    ]
+  },
+  "TJMZ": {
+    "e": 19,
+    "n": "Eugenio Maria De Hostos",
+    "mv": -12.7,
+    "c": "Mayaguez",
+    "freqs": [
+      {
+        "t": "ATIS",
+        "f": 118.15,
+        "n": "TJMZ"
+      }
+    ],
+    "runways": [
+      {
+        "s": "B",
+        "l": 4984,
+        "w": 100,
+        "e1": {
+          "n": "09",
+          "h": 89
+        },
+        "e2": {
+          "n": "27",
+          "h": 269
+        }
+      }
+    ]
+  },
+  "TJPS": {
+    "e": 28,
+    "n": "Mercedita",
+    "mv": -13.22,
+    "c": "Ponce",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 118.75,
+        "n": "SANJUANCERAP"
+      },
+      {
+        "t": "AWOS",
+        "f": 118.4,
+        "n": null
+      },
+      {
+        "t": "C",
+        "f": 121.9,
+        "n": "SANJUANCERAP"
+      },
+      {
+        "t": "D",
+        "f": 118.75,
+        "n": "SANJUANCERAP"
+      },
+      {
+        "t": "UC",
+        "f": 122.7,
+        "n": "MERCEDITA"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 7978,
+        "w": 143,
+        "e1": {
+          "n": "12",
+          "h": 121,
+          "o": 1879
+        },
+        "e2": {
+          "n": "30",
+          "h": 301,
+          "o": 226
+        }
+      }
+    ]
+  },
+  "TJRV": {
+    "e": 25,
+    "n": "Roosevelt Roads NS (Ofstie Field)",
+    "mv": -13.63,
+    "c": "Roosevelt Roads",
+    "freqs": [
+      {
+        "t": "CTAF",
+        "f": 122.7,
+        "n": "JOSEAPONTE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 11006,
+        "w": 140,
+        "e1": {
+          "n": "25",
+          "h": 248,
+          "o": 856
+        },
+        "e2": {
+          "n": "07",
+          "h": 68,
+          "o": 2408
+        }
+      }
+    ]
+  },
+  "TJPO": {
+    "e": 36,
+    "n": "Fort Allen Airport",
+    "mv": -13.19,
+    "c": "Potala Pastillo",
+    "runways": [
+      {
+        "s": "G",
+        "l": 5748,
+        "w": 82,
+        "e1": {
+          "n": "29",
+          "h": 288
+        },
+        "e2": {
+          "n": "11",
+          "h": 108
+        }
+      }
+    ]
+  },
+  "TJVQ": {
+    "e": 36,
+    "n": "Antonio Rivera Rodriguez",
+    "mv": -13.59,
+    "c": "Isla De Vieques",
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 123,
+        "n": "VIEQUES"
+      },
+      {
+        "t": "CTAF",
+        "f": 123,
+        "n": "VIEQUES"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 4296,
+        "w": 75,
+        "e1": {
+          "n": "09",
+          "h": 90,
+          "o": 206
+        },
+        "e2": {
+          "n": "27",
+          "h": 270
+        }
+      }
+    ]
+  }
+}

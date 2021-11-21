@@ -1,0 +1,202 @@
+{
+  "M90": {
+    "e": 162,
+    "n": "Mendota",
+    "mv": 12.69,
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "MENDOTA"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "MENDOTA"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3486,
+        "w": 58,
+        "e1": {
+          "n": "33",
+          "h": 329,
+          "o": 777
+        },
+        "e2": {
+          "n": "15",
+          "h": 149
+        }
+      }
+    ]
+  },
+  "M94": {
+    "e": 586,
+    "n": "Desert Aire",
+    "mv": 14.67,
+    "c": "Mattawa",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.8,
+        "n": "ACTIVATELIGHTSONLY"
+      },
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "DESERTAIRE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "DESERTAIRE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3671,
+        "w": 54,
+        "e1": {
+          "n": "10",
+          "h": 101
+        },
+        "e2": {
+          "n": "28",
+          "h": 281
+        }
+      }
+    ]
+  },
+  "M93": {
+    "e": 370,
+    "n": "Houston Co",
+    "mv": -3.58,
+    "c": "Mckinnon",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "HOUSTONCO"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "HOUSTONCO"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3037,
+        "w": 71,
+        "e1": {
+          "n": "08",
+          "h": 85
+        },
+        "e2": {
+          "n": "26",
+          "h": 265
+        }
+      }
+    ]
+  },
+  "M91": {
+    "e": 703,
+    "n": "Springfield Robertson County Airport",
+    "mv": -4.18,
+    "c": "Springfield",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 119.35,
+        "n": "NASHVILLE"
+      },
+      {
+        "t": "AWOS",
+        "f": 120.675,
+        "n": null
+      },
+      {
+        "t": "D",
+        "f": 119.35,
+        "n": "NASHVILLE"
+      },
+      {
+        "t": "UC",
+        "f": 123,
+        "n": "SPRINGFIELDROBERTSONCO"
+      },
+      {
+        "t": "CTAF",
+        "f": 123,
+        "n": "SPRINGFIELDROBERTSONCO"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 5489,
+        "w": 92,
+        "e1": {
+          "n": "04",
+          "h": 38
+        },
+        "e2": {
+          "n": "22",
+          "h": 218
+        }
+      }
+    ]
+  },
+  "M95": {
+    "e": 344,
+    "n": "Arthur",
+    "mv": -3.12,
+    "c": "Fayette",
+    "freqs": [
+      {
+        "t": "CTR",
+        "f": 127.1,
+        "n": "MEMPHIS"
+      },
+      {
+        "t": "A",
+        "f": 120.4,
+        "n": "COLUMBUS"
+      },
+      {
+        "t": "D",
+        "f": 120.4,
+        "n": "COLUMBUS"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "ARTHUR"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "ARTHUR"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 4997,
+        "w": 74,
+        "e1": {
+          "n": "19",
+          "h": 186
+        },
+        "e2": {
+          "n": "01",
+          "h": 6
+        }
+      }
+    ]
+  }
+}

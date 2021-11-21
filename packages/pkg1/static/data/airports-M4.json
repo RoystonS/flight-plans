@@ -1,0 +1,329 @@
+{
+  "M42": {
+    "e": 6336,
+    "n": "Russian Flat",
+    "mv": 11.47,
+    "c": "Stanford",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3284,
+        "w": 54,
+        "e1": {
+          "n": "08",
+          "h": 75
+        },
+        "e2": {
+          "n": "26",
+          "h": 255
+        }
+      }
+    ]
+  },
+  "M46": {
+    "e": 3405,
+    "n": "Colstrip",
+    "mv": 9.41,
+    "freqs": [
+      {
+        "t": "CTR",
+        "f": 127.75,
+        "n": "SALTLAKECITY"
+      },
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "COLSTRIP"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "COLSTRIP"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 5114,
+        "w": 77,
+        "e1": {
+          "n": "24",
+          "h": 245
+        },
+        "e2": {
+          "n": "06",
+          "h": 65
+        }
+      }
+    ]
+  },
+  "M49": {
+    "e": 1499,
+    "n": "Jolly Fisherman",
+    "mv": 1.69,
+    "c": "Waubun",
+    "runways": [
+      {
+        "s": "W",
+        "l": 3561,
+        "w": 197,
+        "e1": {
+          "n": "08W",
+          "h": 66
+        },
+        "e2": {
+          "n": "26W",
+          "h": 246
+        }
+      }
+    ]
+  },
+  "M45": {
+    "e": 5849,
+    "n": "Alpine County",
+    "mv": 12.94,
+    "c": "Markleeville",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "ALPINECO"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "ALPINECO"
+      }
+    ],
+    "runways": [
+      {
+        "s": "CE",
+        "l": 4433,
+        "w": 60,
+        "e1": {
+          "n": "17",
+          "h": 171
+        },
+        "e2": {
+          "n": "35",
+          "h": -9
+        }
+      }
+    ]
+  },
+  "M48": {
+    "e": 1180,
+    "n": "Houston Meml",
+    "mv": -0.82,
+    "c": "Houston",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "HOUSTONMEML"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "HOUSTONMEML"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3501,
+        "w": 64,
+        "e1": {
+          "n": "34",
+          "h": 353
+        },
+        "e2": {
+          "n": "16",
+          "h": 173
+        }
+      }
+    ]
+  },
+  "M41": {
+    "e": 534,
+    "n": "Marshall Co",
+    "mv": -1.92,
+    "c": "Holly Springs",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 120.075,
+        "n": "MEMPHIS"
+      },
+      {
+        "t": "A",
+        "f": 125.8,
+        "n": "MEMPHIS"
+      },
+      {
+        "t": "D",
+        "f": 125.8,
+        "n": "MEMPHIS"
+      },
+      {
+        "t": "FSS",
+        "f": 122.1,
+        "n": "GREENWOOD"
+      },
+      {
+        "t": "FSS",
+        "f": 122.3,
+        "n": "GREENWOOD"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "MARSHALLCO"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "MARSHALLCO"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3207,
+        "w": 79,
+        "e1": {
+          "n": "18",
+          "h": 181
+        },
+        "e2": {
+          "n": "36",
+          "h": 361
+        }
+      }
+    ]
+  },
+  "M40": {
+    "e": 224,
+    "n": "Monroe Co",
+    "mv": -2.55,
+    "c": "Aberdeen-Amory",
+    "freqs": [
+      {
+        "t": "CTR",
+        "f": 127.1,
+        "n": "MEMPHIS"
+      },
+      {
+        "t": "A",
+        "f": 120.4,
+        "n": "COLUMBUS"
+      },
+      {
+        "t": "D",
+        "f": 120.4,
+        "n": "COLUMBUS"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "MONROECO"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "MONROECO"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 4990,
+        "w": 65,
+        "e1": {
+          "n": "36",
+          "h": 9
+        },
+        "e2": {
+          "n": "18",
+          "h": 189
+        }
+      }
+    ]
+  },
+  "M44": {
+    "e": 333,
+    "n": "Houston Mun",
+    "mv": -2.11,
+    "c": "Houston",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "HOUSTONMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "HOUSTONMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 4399,
+        "w": 75,
+        "e1": {
+          "n": "21",
+          "h": 212
+        },
+        "e2": {
+          "n": "03",
+          "h": 32
+        }
+      }
+    ]
+  },
+  "M43": {
+    "e": 454,
+    "n": "Prentiss-Jefferson Davis Co",
+    "mv": -1.62,
+    "c": "Prentiss",
+    "freqs": [
+      {
+        "t": "CTR",
+        "f": 133.5,
+        "n": "HOUSTON"
+      },
+      {
+        "t": "MC",
+        "f": 121.9,
+        "n": "ACTIVATELIGHTSONLY"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "PRENTISS-JEFFERSONDAVIS"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "PRENTISS-JEFFERSONDAVIS"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3195,
+        "w": 62,
+        "e1": {
+          "n": "12",
+          "h": 124
+        },
+        "e2": {
+          "n": "30",
+          "h": 304
+        }
+      }
+    ]
+  }
+}

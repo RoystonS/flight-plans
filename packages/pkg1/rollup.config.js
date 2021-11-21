@@ -24,7 +24,14 @@ export default {
   },
   plugins: [
     copy({
-      targets: [{ src: "static/**", dest: "dist" }],
+      targets: [
+        { src: "static/*", dest: "dist/" },
+        {
+          src: "static/data/*.json",
+          dest: "dist/data",
+          transform: (contents) => JSON.stringify(JSON.parse(contents)), // Strips out whitespace
+        },
+      ],
     }),
     replace({
       preventAssignment: true,

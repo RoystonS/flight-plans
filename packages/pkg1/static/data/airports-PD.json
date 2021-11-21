@@ -1,0 +1,44 @@
+{
+  "PDR": {
+    "e": 390,
+    "n": "Presidente José Sarney Airport",
+    "mv": -21.38,
+    "c": "Presidente Dutra",
+    "runways": [
+      {
+        "s": "B",
+        "l": 3702,
+        "w": 82,
+        "e1": {
+          "n": "14",
+          "h": 141
+        },
+        "e2": {
+          "n": "32",
+          "h": 321
+        }
+      }
+    ]
+  },
+  "PDI": {
+    "e": 3014,
+    "n": "Pindiu Airport",
+    "mv": 5.4,
+    "c": "Finschhafen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2032,
+        "w": 51,
+        "e1": {
+          "n": "08",
+          "h": 83
+        },
+        "e2": {
+          "n": "26",
+          "h": 263
+        }
+      }
+    ]
+  }
+}

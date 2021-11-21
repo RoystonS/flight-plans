@@ -1,0 +1,35 @@
+{
+  "R33": {
+    "e": 41,
+    "n": "Wakonda Beach State",
+    "mv": 15.05,
+    "c": "Waldport",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "WAKONDABEACHSTATE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "WAKONDABEACHSTATE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 2014,
+        "w": 51,
+        "e1": {
+          "n": "17",
+          "h": 165
+        },
+        "e2": {
+          "n": "35",
+          "h": -15
+        }
+      }
+    ]
+  }
+}

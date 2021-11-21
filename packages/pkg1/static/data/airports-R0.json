@@ -1,0 +1,35 @@
+{
+  "R03": {
+    "e": 4312,
+    "n": "Alkali Lake State",
+    "mv": 13.74,
+    "c": "Alkali Lake",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "ALKALILAKESTATE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "ALKALILAKESTATE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 6143,
+        "w": 151,
+        "e1": {
+          "n": "18",
+          "h": 182
+        },
+        "e2": {
+          "n": "36",
+          "h": 2
+        }
+      }
+    ]
+  }
+}

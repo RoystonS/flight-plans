@@ -1,0 +1,203 @@
+{
+  "T96": {
+    "e": 3264,
+    "n": "Southwest Lubbock",
+    "mv": 6.15,
+    "c": "Wolfforth",
+    "runways": [
+      {
+        "s": "A",
+        "l": 2274,
+        "w": 27,
+        "e1": {
+          "n": "02",
+          "h": 11
+        },
+        "e2": {
+          "n": "20",
+          "h": 191
+        }
+      }
+    ]
+  },
+  "T93": {
+    "e": 2566,
+    "n": "Follett-Lipscomb Co",
+    "mv": 5.21,
+    "c": "Follett",
+    "freqs": [
+      {
+        "t": "CTR",
+        "f": 126.95,
+        "n": "KANSASCITY"
+      },
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "FOLLETT-LIPSCOMBCO"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "FOLLETT-LIPSCOMBCO"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 4036,
+        "w": 56,
+        "e1": {
+          "n": "35",
+          "h": 355
+        },
+        "e2": {
+          "n": "17",
+          "h": 175
+        }
+      }
+    ]
+  },
+  "T92": {
+    "e": 1500,
+    "n": "Mason Co",
+    "mv": 4.35,
+    "c": "Mason",
+    "freqs": [
+      {
+        "t": "CTR",
+        "f": 132.35,
+        "n": "HOUSTON"
+      },
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "MASONCO"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "MASONCO"
+      },
+      {
+        "t": "MC",
+        "f": 123.3,
+        "n": "ACTIVATELIGHTSONLY"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3678,
+        "w": 49,
+        "e1": {
+          "n": "18",
+          "h": 177
+        },
+        "e2": {
+          "n": "36",
+          "h": -3
+        }
+      }
+    ]
+  },
+  "T94": {
+    "e": 873,
+    "n": "Twin Oaks",
+    "mv": 3.87,
+    "c": "San Antonio",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "TWINOAKS"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "TWINOAKS"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 2039,
+        "w": 26,
+        "e1": {
+          "n": "12",
+          "h": 128
+        },
+        "e2": {
+          "n": "30",
+          "h": 308
+        }
+      }
+    ]
+  },
+  "T91": {
+    "e": 475,
+    "n": "Carter Meml",
+    "mv": 3.37,
+    "c": "Luling",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "CARTERMEML"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "CARTERMEML"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 2786,
+        "w": 38,
+        "e1": {
+          "n": "17",
+          "h": 173
+        },
+        "e2": {
+          "n": "35",
+          "h": 353
+        }
+      }
+    ]
+  },
+  "T90": {
+    "e": 23,
+    "n": "Chambers Co-Winnie Stowell",
+    "mv": 1.57,
+    "c": "Winnie/Stowell",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "CHAMBERSCO-WINNIESTOWEL"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "CHAMBERSCO-WINNIESTOWEL"
+      }
+    ],
+    "runways": [
+      {
+        "s": "B",
+        "l": 3569,
+        "w": 66,
+        "e1": {
+          "n": "17",
+          "h": 178
+        },
+        "e2": {
+          "n": "35",
+          "h": 358
+        }
+      }
+    ]
+  }
+}

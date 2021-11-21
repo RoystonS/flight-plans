@@ -1,0 +1,182 @@
+{
+  "8S2": {
+    "e": 846,
+    "n": "Cashmere-Dryden",
+    "mv": 15.05,
+    "c": "Cashmere",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 121.7,
+        "n": "ACTIVATELIGHTSONLY"
+      },
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "CASHMERE-DRYDEN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "CASHMERE-DRYDEN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "B",
+        "l": 1797,
+        "w": 48,
+        "e1": {
+          "n": "07",
+          "h": 75
+        },
+        "e2": {
+          "n": "25",
+          "h": 255,
+          "o": 147
+        }
+      }
+    ]
+  },
+  "8S3": {
+    "e": 3780,
+    "n": "Santiam Junction State",
+    "mv": 14.54,
+    "c": "Santiam Junction",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "SANTIAMJUNCTIONSTATE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "SANTIAMJUNCTIONSTATE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "D",
+        "l": 2845,
+        "w": 45,
+        "e1": {
+          "n": "25",
+          "h": 248
+        },
+        "e2": {
+          "n": "07",
+          "h": 68
+        }
+      }
+    ]
+  },
+  "8S4": {
+    "e": 3932,
+    "n": "Enterprise Mun",
+    "mv": 13.83,
+    "c": "Enterprise",
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "ENTERPRISEMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "ENTERPRISEMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 2878,
+        "w": 63,
+        "e1": {
+          "n": "12",
+          "h": 124
+        },
+        "e2": {
+          "n": "30",
+          "h": 304
+        }
+      }
+    ]
+  },
+  "8S0": {
+    "e": 4638,
+    "n": "Starr-Browning",
+    "mv": 13.09,
+    "c": "Browning",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "STARR-BROWNING"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "STARR-BROWNING"
+      }
+    ],
+    "runways": [
+      {
+        "s": "B",
+        "l": 4071,
+        "w": 70,
+        "e1": {
+          "n": "24",
+          "h": 243
+        },
+        "e2": {
+          "n": "06",
+          "h": 63
+        }
+      }
+    ]
+  },
+  "8S1": {
+    "e": 2938,
+    "n": "Polson",
+    "mv": 13.28,
+    "freqs": [
+      {
+        "t": "CTR",
+        "f": 133.4,
+        "n": "SALTLAKECITY"
+      },
+      {
+        "t": "ASOS",
+        "f": 135.275,
+        "n": null
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "POLSON"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "POLSON"
+      }
+    ],
+    "runways": [
+      {
+        "s": "B",
+        "l": 4155,
+        "w": 74,
+        "e1": {
+          "n": "36",
+          "h": 5
+        },
+        "e2": {
+          "n": "18",
+          "h": 185
+        }
+      }
+    ]
+  }
+}

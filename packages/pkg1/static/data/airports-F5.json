@@ -1,0 +1,161 @@
+{
+  "F56": {
+    "e": 1557,
+    "n": "Arledge",
+    "mv": 4.6,
+    "c": "Stamford",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 127.2,
+        "n": "ABILENE"
+      },
+      {
+        "t": "D",
+        "f": 127.2,
+        "n": "ABILENE"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "ARLEDGE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "ARLEDGE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3698,
+        "w": 54,
+        "e1": {
+          "n": "17",
+          "h": 176
+        },
+        "e2": {
+          "n": "35",
+          "h": -4
+        }
+      }
+    ]
+  },
+  "F53": {
+    "e": 404,
+    "n": "Franklin Co",
+    "mv": 2.22,
+    "c": "Mt Vernon",
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 123,
+        "n": "FRANKLINCO"
+      },
+      {
+        "t": "CTAF",
+        "f": 123,
+        "n": "FRANKLINCO"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3890,
+        "w": 55,
+        "e1": {
+          "n": "31",
+          "h": 314
+        },
+        "e2": {
+          "n": "13",
+          "h": 134
+        }
+      }
+    ]
+  },
+  "F51": {
+    "e": 503,
+    "n": "Winnsboro Mun",
+    "mv": 2.01,
+    "c": "Winnsboro",
+    "freqs": [
+      {
+        "t": "CTR",
+        "f": 132.85,
+        "n": "FTWORTH"
+      },
+      {
+        "t": "A",
+        "f": 128.75,
+        "n": "LONGVIEW"
+      },
+      {
+        "t": "D",
+        "f": 128.75,
+        "n": "LONGVIEW"
+      },
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "WINNSBOROMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "WINNSBOROMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "CE",
+        "l": 3216,
+        "w": 52,
+        "e1": {
+          "n": "19",
+          "h": 196
+        },
+        "e2": {
+          "n": "01",
+          "h": 16
+        }
+      }
+    ]
+  },
+  "F50": {
+    "e": 561,
+    "n": "Lake Whitney State Park",
+    "mv": 3.27,
+    "c": "Whitney",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "LAKEWHITNEYSTATEPARK"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "LAKEWHITNEYSTATEPARK"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 2004,
+        "w": 49,
+        "e1": {
+          "n": "17",
+          "h": 177,
+          "c": true
+        },
+        "e2": {
+          "n": "35",
+          "h": -3,
+          "c": true
+        }
+      }
+    ]
+  }
+}

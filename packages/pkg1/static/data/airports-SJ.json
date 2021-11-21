@@ -1,0 +1,7712 @@
+{
+  "SJMI": {
+    "e": 1988,
+    "n": "Parafuri Airport",
+    "mv": -14.46,
+    "c": "La Esmeralda",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1919,
+        "w": 40,
+        "e1": {
+          "n": "23",
+          "h": 226
+        },
+        "e2": {
+          "n": "05",
+          "h": 46
+        }
+      }
+    ]
+  },
+  "SJNG": {
+    "e": 1988,
+    "n": "Xidea Airport",
+    "mv": -14.33,
+    "c": "La Esmeralda",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3177,
+        "w": 82,
+        "e1": {
+          "n": "02",
+          "h": 19
+        },
+        "e2": {
+          "n": "20",
+          "h": 199
+        }
+      }
+    ]
+  },
+  "SJKQ": {
+    "e": 1988,
+    "n": "Caramambataí (Mapae) Airport",
+    "mv": -15.85,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3432,
+        "w": 110,
+        "e1": {
+          "n": "09",
+          "h": 86
+        },
+        "e2": {
+          "n": "27",
+          "h": 266
+        }
+      }
+    ]
+  },
+  "SJLO": {
+    "e": 2188,
+    "n": "Manalaí Airport",
+    "mv": -15.78,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1752,
+        "w": 45,
+        "e1": {
+          "n": "31",
+          "h": 307
+        },
+        "e2": {
+          "n": "13",
+          "h": 127
+        }
+      }
+    ]
+  },
+  "SJMM": {
+    "e": 2585,
+    "n": "Pipi Airport",
+    "mv": -15.9,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "A",
+        "l": 2200,
+        "w": 32,
+        "e1": {
+          "n": "21",
+          "h": 212
+        },
+        "e2": {
+          "n": "03",
+          "h": 32
+        }
+      }
+    ]
+  },
+  "SJMU": {
+    "e": 2287,
+    "n": "Sauparú Airport",
+    "mv": -15.86,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2034,
+        "w": 30,
+        "e1": {
+          "n": "22",
+          "h": 224
+        },
+        "e2": {
+          "n": "04",
+          "h": 44
+        }
+      }
+    ]
+  },
+  "SJMV": {
+    "e": 2480,
+    "n": "Serra Do Sol Airport",
+    "mv": -15.84,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "A",
+        "l": 1864,
+        "w": 49,
+        "e1": {
+          "n": "13",
+          "h": 128
+        },
+        "e2": {
+          "n": "31",
+          "h": 308
+        }
+      }
+    ]
+  },
+  "SJKL": {
+    "e": 994,
+    "n": "Canã Airport",
+    "mv": -15.89,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1801,
+        "w": 42,
+        "e1": {
+          "n": "28",
+          "h": 283
+        },
+        "e2": {
+          "n": "10",
+          "h": 103
+        }
+      }
+    ]
+  },
+  "SJKM": {
+    "e": 1886,
+    "n": "Canawapai Airport",
+    "mv": -15.97,
+    "c": "Mahdia",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1657,
+        "w": 29,
+        "e1": {
+          "n": "22",
+          "h": 224
+        },
+        "e2": {
+          "n": "04",
+          "h": 44
+        }
+      }
+    ]
+  },
+  "SJKN": {
+    "e": 1988,
+    "n": "Caracanã Airport",
+    "mv": -15.88,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2462,
+        "w": 30,
+        "e1": {
+          "n": "35",
+          "h": 353
+        },
+        "e2": {
+          "n": "17",
+          "h": 173
+        }
+      }
+    ]
+  },
+  "SJKP": {
+    "e": 1194,
+    "n": "Caraparu Airport",
+    "mv": -15.85,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3007,
+        "w": 33,
+        "e1": {
+          "n": "19",
+          "h": 193
+        },
+        "e2": {
+          "n": "01",
+          "h": 373
+        }
+      }
+    ]
+  },
+  "SJKU": {
+    "e": 2188,
+    "n": "Cumaipá Airport",
+    "mv": -15.84,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2020,
+        "w": 39,
+        "e1": {
+          "n": "36",
+          "h": 356
+        },
+        "e2": {
+          "n": "18",
+          "h": 176
+        }
+      }
+    ]
+  },
+  "SJKV": {
+    "e": 1191,
+    "n": "Cumanã I Airport",
+    "mv": -15.86,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2522,
+        "w": 33,
+        "e1": {
+          "n": "33",
+          "h": 327
+        },
+        "e2": {
+          "n": "15",
+          "h": 147
+        }
+      }
+    ]
+  },
+  "SJKW": {
+    "e": 1191,
+    "n": "Cumanã Ii Airport",
+    "mv": -15.87,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1644,
+        "w": 26,
+        "e1": {
+          "n": "27",
+          "h": 267
+        },
+        "e2": {
+          "n": "09",
+          "h": 87
+        }
+      }
+    ]
+  },
+  "SJKZ": {
+    "e": 994,
+    "n": "Estevão Airport",
+    "mv": -15.85,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1391,
+        "w": 32,
+        "e1": {
+          "n": "07",
+          "h": 74
+        },
+        "e2": {
+          "n": "25",
+          "h": 254
+        }
+      }
+    ]
+  },
+  "SJLA": {
+    "e": 1988,
+    "n": "Flechal Airport",
+    "mv": -15.87,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1901,
+        "w": 32,
+        "e1": {
+          "n": "29",
+          "h": 288
+        },
+        "e2": {
+          "n": "11",
+          "h": 108
+        }
+      }
+    ]
+  },
+  "SJLL": {
+    "e": 1493,
+    "n": "Maturucá Airport",
+    "mv": -15.83,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1911,
+        "w": 58,
+        "e1": {
+          "n": "27",
+          "h": 269
+        },
+        "e2": {
+          "n": "09",
+          "h": 89
+        }
+      }
+    ]
+  },
+  "SJLN": {
+    "e": 1890,
+    "n": "Maloquinha Airport",
+    "mv": -15.82,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1954,
+        "w": 32,
+        "e1": {
+          "n": "30",
+          "h": 295
+        },
+        "e2": {
+          "n": "12",
+          "h": 115
+        }
+      }
+    ]
+  },
+  "SJLQ": {
+    "e": 1791,
+    "n": "Maracanã Airport",
+    "mv": -15.79,
+    "c": "Lethem",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1656,
+        "w": 36,
+        "e1": {
+          "n": "27",
+          "h": 272
+        },
+        "e2": {
+          "n": "09",
+          "h": 92
+        }
+      }
+    ]
+  },
+  "SJLW": {
+    "e": 1493,
+    "n": "Mudubim I Airport",
+    "mv": -15.85,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1340,
+        "w": 36,
+        "e1": {
+          "n": "28",
+          "h": 282
+        },
+        "e2": {
+          "n": "10",
+          "h": 102
+        }
+      }
+    ]
+  },
+  "SJME": {
+    "e": 2782,
+    "n": "Mato Grosso Airport",
+    "mv": -15.82,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1965,
+        "w": 31,
+        "e1": {
+          "n": "08",
+          "h": 76
+        },
+        "e2": {
+          "n": "26",
+          "h": 256
+        }
+      }
+    ]
+  },
+  "SJMJ": {
+    "e": 1490,
+    "n": "Pedra Branca Airport",
+    "mv": -15.84,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3159,
+        "w": 80,
+        "e1": {
+          "n": "26",
+          "h": 259
+        },
+        "e2": {
+          "n": "08",
+          "h": 79
+        }
+      }
+    ]
+  },
+  "SJMK": {
+    "e": 2188,
+    "n": "Pedra Preta Airport",
+    "mv": -15.84,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2079,
+        "w": 42,
+        "e1": {
+          "n": "20",
+          "h": 199
+        },
+        "e2": {
+          "n": "02",
+          "h": 19
+        }
+      }
+    ]
+  },
+  "SJML": {
+    "e": 2287,
+    "n": "Piolho Airport",
+    "mv": -15.8,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1667,
+        "w": 33,
+        "e1": {
+          "n": "35",
+          "h": 353
+        },
+        "e2": {
+          "n": "17",
+          "h": 173
+        }
+      }
+    ]
+  },
+  "SJMO": {
+    "e": 1194,
+    "n": "Santa Isabel Airport",
+    "mv": -15.86,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "A",
+        "l": 1880,
+        "w": 23,
+        "e1": {
+          "n": "29",
+          "h": 295
+        },
+        "e2": {
+          "n": "11",
+          "h": 115
+        }
+      }
+    ]
+  },
+  "SJMP": {
+    "e": 1890,
+    "n": "Santa Liberdade Airport",
+    "mv": -15.81,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1839,
+        "w": 47,
+        "e1": {
+          "n": "13",
+          "h": 131
+        },
+        "e2": {
+          "n": "31",
+          "h": 311
+        }
+      }
+    ]
+  },
+  "SJNB": {
+    "e": 1194,
+    "n": "Ubaru Airport",
+    "mv": -15.85,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3415,
+        "w": 31,
+        "e1": {
+          "n": "06",
+          "h": 57
+        },
+        "e2": {
+          "n": "24",
+          "h": 237
+        }
+      }
+    ]
+  },
+  "SJYO": {
+    "e": 892,
+    "n": "Bananal Airport",
+    "mv": -15.83,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "CE",
+        "l": 2096,
+        "w": 37,
+        "e1": {
+          "n": "01",
+          "h": 367
+        },
+        "e2": {
+          "n": "19",
+          "h": 187
+        }
+      }
+    ]
+  },
+  "SJYP": {
+    "e": 892,
+    "n": "Bananeira Airport",
+    "mv": -15.8,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1816,
+        "w": 47,
+        "e1": {
+          "n": "27",
+          "h": 273
+        },
+        "e2": {
+          "n": "09",
+          "h": 93
+        }
+      }
+    ]
+  },
+  "SJYQ": {
+    "e": 1194,
+    "n": "Barreirinha Airport",
+    "mv": -15.82,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2300,
+        "w": 50,
+        "e1": {
+          "n": "28",
+          "h": 281
+        },
+        "e2": {
+          "n": "10",
+          "h": 101
+        }
+      }
+    ]
+  },
+  "SJYT": {
+    "e": 1194,
+    "n": "Campo Formoso Airport",
+    "mv": -15.79,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "CE",
+        "l": 3285,
+        "w": 57,
+        "e1": {
+          "n": "18",
+          "h": 176
+        },
+        "e2": {
+          "n": "36",
+          "h": 356
+        }
+      }
+    ]
+  },
+  "SJLE": {
+    "e": 994,
+    "n": "Halikato-U Airport",
+    "mv": -14.29,
+    "c": "La Esmeralda",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2225,
+        "w": 71,
+        "e1": {
+          "n": "27",
+          "h": 275
+        },
+        "e2": {
+          "n": "09",
+          "h": 95
+        }
+      }
+    ]
+  },
+  "SJMH": {
+    "e": 895,
+    "n": "Palimiú Airport",
+    "mv": -15,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2797,
+        "w": 82,
+        "e1": {
+          "n": "20",
+          "h": 197
+        },
+        "e2": {
+          "n": "02",
+          "h": 17
+        }
+      }
+    ]
+  },
+  "SJNC": {
+    "e": 794,
+    "n": "Uraricoera Airport",
+    "mv": -14.81,
+    "c": "Boa Vista",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1991,
+        "w": 39,
+        "e1": {
+          "n": "04",
+          "h": 36
+        },
+        "e2": {
+          "n": "22",
+          "h": 216
+        }
+      }
+    ]
+  },
+  "SJLM": {
+    "e": 298,
+    "n": "Leão De Ouro Airport",
+    "mv": -15.37,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1982,
+        "w": 26,
+        "e1": {
+          "n": "29",
+          "h": 291
+        },
+        "e2": {
+          "n": "11",
+          "h": 111
+        }
+      }
+    ]
+  },
+  "SJKT": {
+    "e": 577,
+    "n": "Contão Airport",
+    "mv": -15.87,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3580,
+        "w": 44,
+        "e1": {
+          "n": "31",
+          "h": 313
+        },
+        "e2": {
+          "n": "13",
+          "h": 133
+        }
+      }
+    ]
+  },
+  "SJMQ": {
+    "e": 846,
+    "n": "Santa Maria De Normândia Airport",
+    "mv": -15.75,
+    "c": "Lethem",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1828,
+        "w": 33,
+        "e1": {
+          "n": "28",
+          "h": 278
+        },
+        "e2": {
+          "n": "10",
+          "h": 98
+        }
+      }
+    ]
+  },
+  "SJYM": {
+    "e": 348,
+    "n": "Bala Airport",
+    "mv": -15.84,
+    "c": "Santa Elena De Uairen",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1470,
+        "w": 23,
+        "e1": {
+          "n": "25",
+          "h": 255
+        },
+        "e2": {
+          "n": "07",
+          "h": 75
+        }
+      }
+    ]
+  },
+  "SJYS": {
+    "e": 594,
+    "n": "Camará Airport",
+    "mv": -16.01,
+    "c": "Lethem",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1449,
+        "w": 19,
+        "e1": {
+          "n": "27",
+          "h": 268
+        },
+        "e2": {
+          "n": "09",
+          "h": 88
+        }
+      }
+    ]
+  },
+  "SJLK": {
+    "e": 298,
+    "n": "Lago Grande I Airport",
+    "mv": -15.88,
+    "c": "Lethem",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1936,
+        "w": 42,
+        "e1": {
+          "n": "27",
+          "h": 274
+        },
+        "e2": {
+          "n": "09",
+          "h": 94
+        }
+      }
+    ]
+  },
+  "SJKS": {
+    "e": 1093,
+    "n": "Catrimani I Airport",
+    "mv": -14.3,
+    "c": "Boa Vista",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1667,
+        "w": 40,
+        "e1": {
+          "n": "36",
+          "h": 361
+        },
+        "e2": {
+          "n": "18",
+          "h": 181
+        }
+      }
+    ]
+  },
+  "SJLC": {
+    "e": 1191,
+    "n": "Hakoma Airport",
+    "mv": -14.36,
+    "c": "La Esmeralda",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1835,
+        "w": 47,
+        "e1": {
+          "n": "11",
+          "h": 114
+        },
+        "e2": {
+          "n": "29",
+          "h": 294
+        }
+      }
+    ]
+  },
+  "SJYG": {
+    "e": 236,
+    "n": "Alto Mucajaí Airport",
+    "mv": -14.99,
+    "c": "Boa Vista",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1736,
+        "w": 38,
+        "e1": {
+          "n": "08",
+          "h": 82
+        },
+        "e2": {
+          "n": "26",
+          "h": 262
+        }
+      }
+    ]
+  },
+  "SJYL": {
+    "e": 499,
+    "n": "Baixo Mucajaí Airport",
+    "mv": -15.03,
+    "c": "Boa Vista",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2091,
+        "w": 45,
+        "e1": {
+          "n": "34",
+          "h": 342
+        },
+        "e2": {
+          "n": "16",
+          "h": 162
+        }
+      }
+    ]
+  },
+  "SJLU": {
+    "e": 397,
+    "n": "Missão Catrinami Airport",
+    "mv": -14.97,
+    "c": "Boa Vista",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2196,
+        "w": 42,
+        "e1": {
+          "n": "07",
+          "h": 75
+        },
+        "e2": {
+          "n": "25",
+          "h": 255
+        }
+      }
+    ]
+  },
+  "SJQK": {
+    "e": 279,
+    "n": "Barra Do Vento Airport",
+    "mv": -15.86,
+    "c": "Boa Vista",
+    "runways": [
+      {
+        "s": "A",
+        "l": 3648,
+        "w": 40,
+        "e1": {
+          "n": "26",
+          "h": 264
+        },
+        "e2": {
+          "n": "08",
+          "h": 84
+        }
+      }
+    ]
+  },
+  "SJNN": {
+    "e": 598,
+    "n": "Fazenda Botelho Airport",
+    "mv": -13.07,
+    "c": "Guajara Mirim",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2428,
+        "w": 62,
+        "e1": {
+          "n": "01",
+          "h": 371
+        },
+        "e2": {
+          "n": "19",
+          "h": 191
+        }
+      }
+    ]
+  },
+  "SJVP": {
+    "e": 876,
+    "n": "Vila Pitinga Airport",
+    "mv": -15.87,
+    "c": "Rio Preto Da Eva",
+    "runways": [
+      {
+        "s": "D",
+        "l": 5234,
+        "w": 123,
+        "e1": {
+          "n": "29",
+          "h": 290
+        },
+        "e2": {
+          "n": "11",
+          "h": 110
+        }
+      }
+    ]
+  },
+  "SJJF": {
+    "e": 335,
+    "n": "Pousada Do Rio Roosevelt Airport",
+    "mv": -15.89,
+    "c": "Aripuana",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2706,
+        "w": 31,
+        "e1": {
+          "n": "05",
+          "h": 50
+        },
+        "e2": {
+          "n": "23",
+          "h": 230
+        }
+      }
+    ]
+  },
+  "SJOG": {
+    "e": 466,
+    "n": "Ariquemes Airport",
+    "mv": -13.53,
+    "c": "Ariquemes",
+    "runways": [
+      {
+        "s": "A",
+        "l": 4260,
+        "w": 60,
+        "e1": {
+          "n": "03",
+          "h": 31
+        },
+        "e2": {
+          "n": "21",
+          "h": 211
+        }
+      }
+    ]
+  },
+  "SJHJ": {
+    "e": 728,
+    "n": "Fazenda Remanso Airport",
+    "mv": -15.2,
+    "c": "Cacoal",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2836,
+        "w": 64,
+        "e1": {
+          "n": "02",
+          "h": 21
+        },
+        "e2": {
+          "n": "20",
+          "h": 201
+        }
+      }
+    ]
+  },
+  "SJPA": {
+    "e": 1097,
+    "n": "Emal - Pimenta Bueno Airport",
+    "mv": -15.68,
+    "c": "Pimenta Bueno",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2797,
+        "w": 68,
+        "e1": {
+          "n": "31",
+          "h": 306
+        },
+        "e2": {
+          "n": "13",
+          "h": 126
+        }
+      }
+    ]
+  },
+  "SJNK": {
+    "e": 1119,
+    "n": "Fazenda Três Perobas Airport",
+    "mv": -14.84,
+    "c": "Pimenta Bueno",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3245,
+        "w": 113,
+        "e1": {
+          "n": "20",
+          "h": 205
+        },
+        "e2": {
+          "n": "02",
+          "h": 25
+        }
+      }
+    ]
+  },
+  "SJYD": {
+    "e": 702,
+    "n": "Fazenda Kajussol Airport",
+    "mv": -15.06,
+    "c": "Pimenta Bueno",
+    "runways": [
+      {
+        "s": "A",
+        "l": 3988,
+        "w": 24,
+        "e1": {
+          "n": "26",
+          "h": 257
+        },
+        "e2": {
+          "n": "08",
+          "h": 77
+        }
+      }
+    ]
+  },
+  "SJTF": {
+    "e": 551,
+    "n": "Fazenda Mequens Airport",
+    "mv": -14.24,
+    "c": "Posto Fiscal Rolim De Moura",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4396,
+        "w": 44,
+        "e1": {
+          "n": "27",
+          "h": 270
+        },
+        "e2": {
+          "n": "09",
+          "h": 90
+        }
+      }
+    ]
+  },
+  "SJFP": {
+    "e": 738,
+    "n": "Fazenda Perobal Airport",
+    "mv": -14.75,
+    "c": "Posto Fiscal Rolim De Moura",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3225,
+        "w": 117,
+        "e1": {
+          "n": "19",
+          "h": 192
+        },
+        "e2": {
+          "n": "01",
+          "h": 372
+        }
+      }
+    ]
+  },
+  "SJJJ": {
+    "e": 1063,
+    "n": "Fazenda Juliana Airport",
+    "mv": -14.74,
+    "c": "Vilhena",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3972,
+        "w": 99,
+        "e1": {
+          "n": "08",
+          "h": 83
+        },
+        "e2": {
+          "n": "26",
+          "h": 263
+        }
+      }
+    ]
+  },
+  "SJAG": {
+    "e": 787,
+    "n": "Fazenda Paredão Airport",
+    "mv": -15.38,
+    "c": "Vilhena",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3991,
+        "w": 186,
+        "e1": {
+          "n": "17",
+          "h": 167
+        },
+        "e2": {
+          "n": "35",
+          "h": 347
+        }
+      }
+    ]
+  },
+  "SJHU": {
+    "e": 958,
+    "n": "Agropecuária Vale Do Guaporé Airport",
+    "mv": -15.18,
+    "c": "Vilhena",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4392,
+        "w": 98,
+        "e1": {
+          "n": "19",
+          "h": 190
+        },
+        "e2": {
+          "n": "01",
+          "h": 370
+        }
+      }
+    ]
+  },
+  "SJJU": {
+    "e": 735,
+    "n": "Fazenda Barra Mansa Airport",
+    "mv": -15.59,
+    "c": "Vilhena",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3927,
+        "w": 159,
+        "e1": {
+          "n": "35",
+          "h": 349
+        },
+        "e2": {
+          "n": "17",
+          "h": 169
+        }
+      }
+    ]
+  },
+  "SJLV": {
+    "e": 1791,
+    "n": "Morro Airport",
+    "mv": -16.35,
+    "c": "Lethem",
+    "runways": [
+      {
+        "s": "CE",
+        "l": 2168,
+        "w": 42,
+        "e1": {
+          "n": "04",
+          "h": 45
+        },
+        "e2": {
+          "n": "22",
+          "h": 225
+        }
+      }
+    ]
+  },
+  "SJLX": {
+    "e": 1791,
+    "n": "Mutum Airport",
+    "mv": -16.3,
+    "c": "Lethem",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2021,
+        "w": 36,
+        "e1": {
+          "n": "28",
+          "h": 276
+        },
+        "e2": {
+          "n": "10",
+          "h": 96
+        }
+      }
+    ]
+  },
+  "SJKX": {
+    "e": 495,
+    "n": "Cutia Airport",
+    "mv": -16.37,
+    "c": "Lethem",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1604,
+        "w": 37,
+        "e1": {
+          "n": "11",
+          "h": 113
+        },
+        "e2": {
+          "n": "29",
+          "h": 293
+        }
+      }
+    ]
+  },
+  "SJLH": {
+    "e": 495,
+    "n": "Jacamim Airport",
+    "mv": -16.49,
+    "c": "Boa Vista",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1544,
+        "w": 35,
+        "e1": {
+          "n": "07",
+          "h": 75
+        },
+        "e2": {
+          "n": "25",
+          "h": 255
+        }
+      }
+    ]
+  },
+  "SJLS": {
+    "e": 495,
+    "n": "Marupá Airport",
+    "mv": -16.51,
+    "c": "Boa Vista",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1431,
+        "w": 37,
+        "e1": {
+          "n": "31",
+          "h": 312
+        },
+        "e2": {
+          "n": "13",
+          "h": 132
+        }
+      }
+    ]
+  },
+  "SJLJ": {
+    "e": 397,
+    "n": "Jatapuzinho Airport",
+    "mv": -16.49,
+    "c": "Boa Vista",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2137,
+        "w": 57,
+        "e1": {
+          "n": "12",
+          "h": 119
+        },
+        "e2": {
+          "n": "30",
+          "h": 299
+        }
+      }
+    ]
+  },
+  "SJVN": {
+    "e": 1158,
+    "n": "Fazenda Do Limão Airport",
+    "mv": -18.86,
+    "c": "Prainha",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1320,
+        "w": 34,
+        "e1": {
+          "n": "20",
+          "h": 204
+        },
+        "e2": {
+          "n": "02",
+          "h": 24
+        }
+      }
+    ]
+  },
+  "SJKI": {
+    "e": 66,
+    "n": "Hangar Comandante Salomão Alcolumbre Airport",
+    "mv": -19.28,
+    "c": "Macapa",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4230,
+        "w": 68,
+        "e1": {
+          "n": "29",
+          "h": 289
+        },
+        "e2": {
+          "n": "11",
+          "h": 109
+        }
+      }
+    ]
+  },
+  "SJOR": {
+    "e": 17,
+    "n": "Fazenda Parabúfalos Airport",
+    "mv": -19.38,
+    "c": "Afua",
+    "runways": [
+      {
+        "s": "A",
+        "l": 1872,
+        "w": 23,
+        "e1": {
+          "n": "09",
+          "h": 85
+        },
+        "e2": {
+          "n": "27",
+          "h": 265
+        }
+      }
+    ]
+  },
+  "SJCW": {
+    "e": 85,
+    "n": "Jatapu",
+    "mv": -17.03,
+    "runways": [
+      {
+        "s": "A",
+        "l": 5536,
+        "w": 98,
+        "e1": {
+          "n": "13",
+          "h": 132
+        },
+        "e2": {
+          "n": "31",
+          "h": 312
+        }
+      }
+    ]
+  },
+  "SJTS": {
+    "e": 82,
+    "n": "Terra Santa Airport",
+    "mv": -17.96,
+    "c": "Terra Santa",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3299,
+        "w": 110,
+        "e1": {
+          "n": "12",
+          "h": 122
+        },
+        "e2": {
+          "n": "30",
+          "h": 302
+        }
+      }
+    ]
+  },
+  "SJFG": {
+    "e": 246,
+    "n": "Fazenda Penedo Airport",
+    "mv": -17.62,
+    "c": "Jacareacanga",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1826,
+        "w": 45,
+        "e1": {
+          "n": "27",
+          "h": 274
+        },
+        "e2": {
+          "n": "09",
+          "h": 94
+        }
+      }
+    ]
+  },
+  "SJIY": {
+    "e": 322,
+    "n": "São Leopoldo Airport",
+    "mv": -18.29,
+    "c": "Itaituba",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4013,
+        "w": 46,
+        "e1": {
+          "n": "07",
+          "h": 66
+        },
+        "e2": {
+          "n": "25",
+          "h": 246
+        }
+      }
+    ]
+  },
+  "SJGE": {
+    "e": 591,
+    "n": "Pista Naes Unidas Airport",
+    "mv": -18.22,
+    "c": "Jacareacanga",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2479,
+        "w": 51,
+        "e1": {
+          "n": "17",
+          "h": 170
+        },
+        "e2": {
+          "n": "35",
+          "h": 350
+        }
+      }
+    ]
+  },
+  "SJKR": {
+    "e": 633,
+    "n": "Pista Krb Airport",
+    "mv": -18.18,
+    "c": "Jacareacanga",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1089,
+        "w": 37,
+        "e1": {
+          "n": "08",
+          "h": 84
+        },
+        "e2": {
+          "n": "26",
+          "h": 264
+        }
+      }
+    ]
+  },
+  "SJPG": {
+    "e": 563,
+    "n": "Pista Branca De Neve Airport",
+    "mv": -18.17,
+    "c": "Jacareacanga",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1197,
+        "w": 51,
+        "e1": {
+          "n": "29",
+          "h": 290
+        },
+        "e2": {
+          "n": "11",
+          "h": 110
+        }
+      }
+    ]
+  },
+  "SJEL": {
+    "e": 783,
+    "n": "Eldorado Airport",
+    "mv": -18.14,
+    "c": "Jacareacanga",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2957,
+        "w": 47,
+        "e1": {
+          "n": "15",
+          "h": 153
+        },
+        "e2": {
+          "n": "33",
+          "h": 333
+        }
+      }
+    ]
+  },
+  "SJND": {
+    "e": 561,
+    "n": "Nova Descoberta Airport",
+    "mv": -18.17,
+    "c": "Jacareacanga",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1568,
+        "w": 52,
+        "e1": {
+          "n": "25",
+          "h": 253
+        },
+        "e2": {
+          "n": "07",
+          "h": 73
+        }
+      }
+    ]
+  },
+  "SJPU": {
+    "e": 928,
+    "n": "Pau D`Arco Airport",
+    "mv": -18.04,
+    "c": "Jacareacanga",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1276,
+        "w": 45,
+        "e1": {
+          "n": "08",
+          "h": 78
+        },
+        "e2": {
+          "n": "26",
+          "h": 258
+        }
+      }
+    ]
+  },
+  "SJRJ": {
+    "e": 945,
+    "n": "Agromineral Mutum Airport",
+    "mv": -18.2,
+    "c": "Jacareacanga",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1487,
+        "w": 33,
+        "e1": {
+          "n": "24",
+          "h": 245
+        },
+        "e2": {
+          "n": "06",
+          "h": 65
+        }
+      }
+    ]
+  },
+  "SJJP": {
+    "e": 780,
+    "n": "São Francisco Airport",
+    "mv": -18.18,
+    "c": "Jacareacanga",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2322,
+        "w": 42,
+        "e1": {
+          "n": "34",
+          "h": 338
+        },
+        "e2": {
+          "n": "16",
+          "h": 158
+        }
+      }
+    ]
+  },
+  "SJGT": {
+    "e": 636,
+    "n": "Salto Augusto Airport",
+    "mv": -17.1,
+    "c": "Aripuana",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3336,
+        "w": 71,
+        "e1": {
+          "n": "18",
+          "h": 181
+        },
+        "e2": {
+          "n": "36",
+          "h": 361
+        }
+      }
+    ]
+  },
+  "SJKC": {
+    "e": 787,
+    "n": "Fazenda Costa Norte Ii Airport",
+    "mv": -17.17,
+    "c": "Alta Floresta",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3808,
+        "w": 82,
+        "e1": {
+          "n": "15",
+          "h": 147
+        },
+        "e2": {
+          "n": "33",
+          "h": 327
+        }
+      }
+    ]
+  },
+  "SJNS": {
+    "e": 585,
+    "n": "Ilha Dos Macacos Airport",
+    "mv": -17.77,
+    "c": "Alta Floresta",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4246,
+        "w": 65,
+        "e1": {
+          "n": "31",
+          "h": 313
+        },
+        "e2": {
+          "n": "13",
+          "h": 133
+        }
+      }
+    ]
+  },
+  "SJOM": {
+    "e": 853,
+    "n": "Fazenda Karla Renata Airport",
+    "mv": -16.98,
+    "c": "Alta Floresta",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2314,
+        "w": 58,
+        "e1": {
+          "n": "35",
+          "h": 354
+        },
+        "e2": {
+          "n": "17",
+          "h": 174
+        }
+      }
+    ]
+  },
+  "SJZB": {
+    "e": 909,
+    "n": "Vale Do Tucanã Airport",
+    "mv": -17.02,
+    "c": "Aripuana",
+    "runways": [
+      {
+        "s": "A",
+        "l": 3779,
+        "w": 30,
+        "e1": {
+          "n": "02",
+          "h": 19
+        },
+        "e2": {
+          "n": "20",
+          "h": 199
+        }
+      }
+    ]
+  },
+  "SJFT": {
+    "e": 850,
+    "n": "Fazenda Triunfo Rio Turvo Airport",
+    "mv": -17.5,
+    "c": "Alta Floresta",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4050,
+        "w": 91,
+        "e1": {
+          "n": "10",
+          "h": 96
+        },
+        "e2": {
+          "n": "28",
+          "h": 276
+        }
+      }
+    ]
+  },
+  "SJYY": {
+    "e": 881,
+    "n": "Rio Do Sangue Airport",
+    "mv": -16.93,
+    "c": "Vilhena",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3668,
+        "w": 97,
+        "e1": {
+          "n": "20",
+          "h": 199
+        },
+        "e2": {
+          "n": "02",
+          "h": 19
+        }
+      }
+    ]
+  },
+  "SJFR": {
+    "e": 1407,
+    "n": "Fronteira Airport",
+    "mv": -16.85,
+    "c": "Vilhena",
+    "runways": [
+      {
+        "s": "G",
+        "l": 5680,
+        "w": 72,
+        "e1": {
+          "n": "19",
+          "h": 191
+        },
+        "e2": {
+          "n": "01",
+          "h": 371
+        }
+      }
+    ]
+  },
+  "SJTV": {
+    "e": 932,
+    "n": "Fazenda Guerra Airport",
+    "mv": -17.53,
+    "c": "Alta Floresta",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4091,
+        "w": 82,
+        "e1": {
+          "n": "25",
+          "h": 246
+        },
+        "e2": {
+          "n": "07",
+          "h": 66
+        }
+      }
+    ]
+  },
+  "SJHM": {
+    "e": 1562,
+    "n": "Fazenda Globo Airport",
+    "mv": -16.87,
+    "c": "Vilhena",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3884,
+        "w": 121,
+        "e1": {
+          "n": "05",
+          "h": 46
+        },
+        "e2": {
+          "n": "23",
+          "h": 226
+        }
+      }
+    ]
+  },
+  "SJNZ": {
+    "e": 1752,
+    "n": "Fazenda Três Lagoas Airport",
+    "mv": -16.72,
+    "c": "Vilhena",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3644,
+        "w": 49,
+        "e1": {
+          "n": "02",
+          "h": 19
+        },
+        "e2": {
+          "n": "20",
+          "h": 199
+        }
+      }
+    ]
+  },
+  "SJWM": {
+    "e": 1674,
+    "n": "Fazenda Sanga Funda Airport",
+    "mv": -16.7,
+    "c": "Vilhena",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3212,
+        "w": 74,
+        "e1": {
+          "n": "22",
+          "h": 224
+        },
+        "e2": {
+          "n": "04",
+          "h": 44
+        }
+      }
+    ]
+  },
+  "SJVZ": {
+    "e": 1890,
+    "n": "Fazenda São Paulo Airport",
+    "mv": -16.76,
+    "c": "Nova Olimpia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3453,
+        "w": 50,
+        "e1": {
+          "n": "22",
+          "h": 216
+        },
+        "e2": {
+          "n": "04",
+          "h": 36
+        }
+      }
+    ]
+  },
+  "SJTP": {
+    "e": 1260,
+    "n": "Boa Safra Airport",
+    "mv": -18.03,
+    "c": "Sinop",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4000,
+        "w": 70,
+        "e1": {
+          "n": "35",
+          "h": 346
+        },
+        "e2": {
+          "n": "17",
+          "h": 166
+        }
+      }
+    ]
+  },
+  "SJAF": {
+    "e": 1873,
+    "n": "Fazenda Água Limpa Airport",
+    "mv": -17.46,
+    "c": "Nova Olimpia",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3630,
+        "w": 74,
+        "e1": {
+          "n": "28",
+          "h": 277
+        },
+        "e2": {
+          "n": "10",
+          "h": 97
+        }
+      }
+    ]
+  },
+  "SJGB": {
+    "e": 1686,
+    "n": "Fazenda Ponte De Pedra Airport",
+    "mv": -17.38,
+    "c": "Arenapolis",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4158,
+        "w": 52,
+        "e1": {
+          "n": "24",
+          "h": 244
+        },
+        "e2": {
+          "n": "06",
+          "h": 64
+        }
+      }
+    ]
+  },
+  "SJKA": {
+    "e": 1841,
+    "n": "Aerocampo Airport",
+    "mv": -17.44,
+    "c": "Nova Olimpia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 5537,
+        "w": 82,
+        "e1": {
+          "n": "36",
+          "h": 363
+        },
+        "e2": {
+          "n": "18",
+          "h": 183
+        }
+      }
+    ]
+  },
+  "SJNL": {
+    "e": 1791,
+    "n": "Fazenda Reata Airport",
+    "mv": -17.39,
+    "c": "Arenapolis",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4699,
+        "w": 82,
+        "e1": {
+          "n": "22",
+          "h": 217
+        },
+        "e2": {
+          "n": "04",
+          "h": 37
+        }
+      }
+    ]
+  },
+  "SJRV": {
+    "e": 1391,
+    "n": "Pch Garganta Da Jararaca Airport",
+    "mv": -17.38,
+    "c": "Arenapolis",
+    "runways": [
+      {
+        "s": "A",
+        "l": 5219,
+        "w": 63,
+        "e1": {
+          "n": "19",
+          "h": 174
+        },
+        "e2": {
+          "n": "01",
+          "h": 354
+        }
+      }
+    ]
+  },
+  "SJTU": {
+    "e": 1722,
+    "n": "Fazenda Tucano Airport",
+    "mv": -17.39,
+    "c": "Arenapolis",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3499,
+        "w": 73,
+        "e1": {
+          "n": "26",
+          "h": 264
+        },
+        "e2": {
+          "n": "08",
+          "h": 84
+        }
+      }
+    ]
+  },
+  "SJGN": {
+    "e": 1237,
+    "n": "Fazenda Agromar Airport",
+    "mv": -17.96,
+    "c": "Diamantino",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4145,
+        "w": 78,
+        "e1": {
+          "n": "19",
+          "h": 187
+        },
+        "e2": {
+          "n": "01",
+          "h": 367
+        }
+      }
+    ]
+  },
+  "SJOO": {
+    "e": 915,
+    "n": "Doutor João Osmar De Oliveira Airport",
+    "mv": -15.88,
+    "c": "Pontes E Lacerda",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3300,
+        "w": 137,
+        "e1": {
+          "n": "17",
+          "h": 168
+        },
+        "e2": {
+          "n": "35",
+          "h": 348
+        }
+      }
+    ]
+  },
+  "SJAA": {
+    "e": 1112,
+    "n": "Fazenda São José Do Rio Branco Airport",
+    "mv": -16.12,
+    "c": "Pontes E Lacerda",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4688,
+        "w": 150,
+        "e1": {
+          "n": "19",
+          "h": 189
+        },
+        "e2": {
+          "n": "01",
+          "h": 369
+        }
+      }
+    ]
+  },
+  "SJRC": {
+    "e": 2605,
+    "n": "Serra Da Borda Airport",
+    "mv": -16.03,
+    "c": "Pontes E Lacerda",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3706,
+        "w": 82,
+        "e1": {
+          "n": "34",
+          "h": 344
+        },
+        "e2": {
+          "n": "16",
+          "h": 164
+        }
+      }
+    ]
+  },
+  "SJUK": {
+    "e": 2225,
+    "n": "Fazenda Capitão Verdi Airport",
+    "mv": -17.23,
+    "c": "Nova Olimpia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2673,
+        "w": 36,
+        "e1": {
+          "n": "15",
+          "h": 149
+        },
+        "e2": {
+          "n": "33",
+          "h": 329
+        }
+      }
+    ]
+  },
+  "SJPS": {
+    "e": 823,
+    "n": "Fazenda Monte Belo Airport",
+    "mv": -17.54,
+    "c": "Nova Olimpia",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4020,
+        "w": 111,
+        "e1": {
+          "n": "18",
+          "h": 182
+        },
+        "e2": {
+          "n": "36",
+          "h": 362
+        }
+      }
+    ]
+  },
+  "SJWO": {
+    "e": 856,
+    "n": "Terra Santa Airport",
+    "mv": -17.44,
+    "c": "Nova Olimpia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2853,
+        "w": 61,
+        "e1": {
+          "n": "13",
+          "h": 127
+        },
+        "e2": {
+          "n": "31",
+          "h": 307
+        }
+      }
+    ]
+  },
+  "SJIZ": {
+    "e": 1207,
+    "n": "Módulo Aguapei Airport",
+    "mv": -15.64,
+    "c": "Pontes E Lacerda",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3406,
+        "w": 38,
+        "e1": {
+          "n": "33",
+          "h": 325
+        },
+        "e2": {
+          "n": "15",
+          "h": 145
+        }
+      }
+    ]
+  },
+  "SJXB": {
+    "e": 663,
+    "n": "Aquapey Airport",
+    "mv": -16.59,
+    "c": "San Matias",
+    "runways": [
+      {
+        "s": "A",
+        "l": 2783,
+        "w": 69,
+        "e1": {
+          "n": "21",
+          "h": 214
+        },
+        "e2": {
+          "n": "03",
+          "h": 34
+        }
+      }
+    ]
+  },
+  "SJLD": {
+    "e": 1030,
+    "n": "Fazenda Porto Do Campo Airport",
+    "mv": -17.2,
+    "c": "Barra Do Bugres",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3322,
+        "w": 62,
+        "e1": {
+          "n": "19",
+          "h": 192
+        },
+        "e2": {
+          "n": "01",
+          "h": 372
+        }
+      }
+    ]
+  },
+  "SJET": {
+    "e": 345,
+    "n": "Fazenda Recreio Airport",
+    "mv": -17.53,
+    "c": "Puerto Quijarro",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2018,
+        "w": 49,
+        "e1": {
+          "n": "22",
+          "h": 218
+        },
+        "e2": {
+          "n": "04",
+          "h": 38
+        }
+      }
+    ]
+  },
+  "SJQI": {
+    "e": 335,
+    "n": "Porto Jofre Airport",
+    "mv": -17.49,
+    "c": "Puerto Quijarro",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3692,
+        "w": 23,
+        "e1": {
+          "n": "01",
+          "h": 374
+        },
+        "e2": {
+          "n": "19",
+          "h": 194
+        }
+      }
+    ]
+  },
+  "SJXN": {
+    "e": 340,
+    "n": "Parque Fazenda Bom Futuro Airport",
+    "mv": -17.11,
+    "c": "Puerto Quijarro",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2176,
+        "w": 40,
+        "e1": {
+          "n": "26",
+          "h": 258
+        },
+        "e2": {
+          "n": "08",
+          "h": 78
+        }
+      }
+    ]
+  },
+  "SJES": {
+    "e": 369,
+    "n": "Fazenda Água Pê Airport",
+    "mv": -17.35,
+    "c": "Puerto Quijarro",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2656,
+        "w": 59,
+        "e1": {
+          "n": "05",
+          "h": 51
+        },
+        "e2": {
+          "n": "23",
+          "h": 231
+        }
+      }
+    ]
+  },
+  "SJEV": {
+    "e": 338,
+    "n": "Fazenda São Francisco Airport",
+    "mv": -17.57,
+    "c": "Puerto Quijarro",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3577,
+        "w": 51,
+        "e1": {
+          "n": "21",
+          "h": 210
+        },
+        "e2": {
+          "n": "03",
+          "h": 30
+        }
+      }
+    ]
+  },
+  "SJZD": {
+    "e": 374,
+    "n": "Fazenda Bandeiras Airport",
+    "mv": -17.56,
+    "c": "Puerto Quijarro",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1875,
+        "w": 145,
+        "e1": {
+          "n": "24",
+          "h": 236
+        },
+        "e2": {
+          "n": "06",
+          "h": 56
+        }
+      }
+    ]
+  },
+  "SJED": {
+    "e": 326,
+    "n": "Fazenda Abath Airport",
+    "mv": -16.59,
+    "c": "Ladario",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1166,
+        "w": 120,
+        "e1": {
+          "n": "17",
+          "h": 167
+        },
+        "e2": {
+          "n": "35",
+          "h": 347
+        }
+      }
+    ]
+  },
+  "SJSC": {
+    "e": 308,
+    "n": "Fazenda São Sebastião Do Castelo Airport",
+    "mv": -16.69,
+    "c": "Ladario",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1856,
+        "w": 22,
+        "e1": {
+          "n": "16",
+          "h": 165
+        },
+        "e2": {
+          "n": "34",
+          "h": 345
+        }
+      }
+    ]
+  },
+  "SJNO": {
+    "e": 309,
+    "n": "Fazenda Nazaré Airport",
+    "mv": -16.57,
+    "c": "Ladario",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3134,
+        "w": 82,
+        "e1": {
+          "n": "36",
+          "h": 365
+        },
+        "e2": {
+          "n": "18",
+          "h": 185
+        }
+      }
+    ]
+  },
+  "SJON": {
+    "e": 332,
+    "n": "Fazenda São José Do Generoso Airport",
+    "mv": -17.43,
+    "c": "Ladario",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2368,
+        "w": 121,
+        "e1": {
+          "n": "26",
+          "h": 263
+        },
+        "e2": {
+          "n": "08",
+          "h": 83
+        }
+      }
+    ]
+  },
+  "SJZO": {
+    "e": 354,
+    "n": "Fazenda Boi Branco Airport",
+    "mv": -17.35,
+    "c": "Ladario",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3123,
+        "w": 21,
+        "e1": {
+          "n": "25",
+          "h": 250
+        },
+        "e2": {
+          "n": "07",
+          "h": 70
+        }
+      }
+    ]
+  },
+  "SJGI": {
+    "e": 309,
+    "n": "Fazenda Cypi Airport",
+    "mv": -17.11,
+    "c": "Ladario",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2012,
+        "w": 100,
+        "e1": {
+          "n": "17",
+          "h": 175
+        },
+        "e2": {
+          "n": "35",
+          "h": 355
+        }
+      }
+    ]
+  },
+  "SJZX": {
+    "e": 277,
+    "n": "Fazenda Rebojo Airport",
+    "mv": -16.1,
+    "c": "Fuerte Olimpo",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3022,
+        "w": 56,
+        "e1": {
+          "n": "16",
+          "h": 160
+        },
+        "e2": {
+          "n": "34",
+          "h": 340
+        }
+      }
+    ]
+  },
+  "SJEG": {
+    "e": 433,
+    "n": "Estância Esmeralda Airport",
+    "mv": -16.5,
+    "c": "Miranda",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3064,
+        "w": 153,
+        "e1": {
+          "n": "02",
+          "h": 22
+        },
+        "e2": {
+          "n": "20",
+          "h": 202
+        }
+      }
+    ]
+  },
+  "SJRP": {
+    "e": 449,
+    "n": "Fazenda Santângelo Agropecuária Airport",
+    "mv": -17.09,
+    "c": "Miranda",
+    "runways": [
+      {
+        "s": "D",
+        "l": 5519,
+        "w": 113,
+        "e1": {
+          "n": "06",
+          "h": 64
+        },
+        "e2": {
+          "n": "24",
+          "h": 244
+        }
+      }
+    ]
+  },
+  "SJGJ": {
+    "e": 282,
+    "n": "Namocoli Airport",
+    "mv": -16.25,
+    "c": "Fuerte Olimpo",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2346,
+        "w": 164,
+        "e1": {
+          "n": "12",
+          "h": 119
+        },
+        "e2": {
+          "n": "30",
+          "h": 299
+        }
+      }
+    ]
+  },
+  "SJVR": {
+    "e": 1207,
+    "n": "Fazenda São Joaquim Airport",
+    "mv": -16.71,
+    "c": "Jardim",
+    "runways": [
+      {
+        "s": "A",
+        "l": 3233,
+        "w": 42,
+        "e1": {
+          "n": "19",
+          "h": 189
+        },
+        "e2": {
+          "n": "01",
+          "h": 369
+        }
+      }
+    ]
+  },
+  "SJJD": {
+    "e": 561,
+    "n": "Cerro Pora",
+    "mv": -15.89,
+    "c": null,
+    "runways": [
+      {
+        "s": "A",
+        "l": 3287,
+        "w": 56,
+        "e1": {
+          "n": "04",
+          "h": 38
+        },
+        "e2": {
+          "n": "22",
+          "h": 218
+        }
+      }
+    ]
+  },
+  "SJDW": {
+    "e": 548,
+    "n": "Fazenda Canadá Airport",
+    "mv": -15.96,
+    "c": "Porto Murtinho",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3302,
+        "w": 47,
+        "e1": {
+          "n": "36",
+          "h": 357
+        },
+        "e2": {
+          "n": "18",
+          "h": 177
+        }
+      }
+    ]
+  },
+  "SJOI": {
+    "e": 253,
+    "n": "Fazenda Jaguatirica Airport",
+    "mv": -15.56,
+    "c": "Porto Murtinho",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3306,
+        "w": 65,
+        "e1": {
+          "n": "16",
+          "h": 163
+        },
+        "e2": {
+          "n": "34",
+          "h": 343
+        }
+      }
+    ]
+  },
+  "SJOH": {
+    "e": 98,
+    "n": "Juruti Airport",
+    "mv": -18.07,
+    "c": "Juruti",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3898,
+        "w": 103,
+        "e1": {
+          "n": "08",
+          "h": 77
+        },
+        "e2": {
+          "n": "26",
+          "h": 257
+        }
+      }
+    ]
+  },
+  "SJKG": {
+    "e": 810,
+    "n": "Fazenda Jatobá Airport",
+    "mv": -18.86,
+    "c": "Santarem",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3335,
+        "w": 121,
+        "e1": {
+          "n": "11",
+          "h": 113
+        },
+        "e2": {
+          "n": "29",
+          "h": 293
+        }
+      }
+    ]
+  },
+  "SJQX": {
+    "e": 253,
+    "n": "Fazenda Uruará Airport",
+    "mv": -19.22,
+    "c": "Altamira",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3561,
+        "w": 63,
+        "e1": {
+          "n": "11",
+          "h": 108
+        },
+        "e2": {
+          "n": "29",
+          "h": 288
+        }
+      }
+    ]
+  },
+  "SJSE": {
+    "e": 1033,
+    "n": "Serabi Airport",
+    "mv": -18.56,
+    "c": "Jacareacanga",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2233,
+        "w": 41,
+        "e1": {
+          "n": "05",
+          "h": 50
+        },
+        "e2": {
+          "n": "23",
+          "h": 230
+        }
+      }
+    ]
+  },
+  "SJBK": {
+    "e": 581,
+    "n": "Iriri Airport",
+    "mv": -18.97,
+    "c": "Itaituba",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2293,
+        "w": 49,
+        "e1": {
+          "n": "15",
+          "h": 147
+        },
+        "e2": {
+          "n": "33",
+          "h": 327
+        }
+      }
+    ]
+  },
+  "SJRA": {
+    "e": 600,
+    "n": "Pesqueiro Xingu Airport",
+    "mv": -19.8,
+    "c": "Sao Felix Do Xingu",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4377,
+        "w": 134,
+        "e1": {
+          "n": "21",
+          "h": 208
+        },
+        "e2": {
+          "n": "03",
+          "h": 28
+        }
+      }
+    ]
+  },
+  "SJNP": {
+    "e": 758,
+    "n": "Novo Progresso Airport",
+    "mv": -18.67,
+    "c": "Jacareacanga",
+    "runways": [
+      {
+        "s": "D",
+        "l": 5461,
+        "w": 102,
+        "e1": {
+          "n": "17",
+          "h": 173
+        },
+        "e2": {
+          "n": "35",
+          "h": 353
+        }
+      }
+    ]
+  },
+  "SJJA": {
+    "e": 855,
+    "n": "Fazenda Jamanxin Airport",
+    "mv": -18.68,
+    "c": "Alta Floresta",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2611,
+        "w": 22,
+        "e1": {
+          "n": "27",
+          "h": 270
+        },
+        "e2": {
+          "n": "09",
+          "h": 90
+        }
+      }
+    ]
+  },
+  "SJZP": {
+    "e": 912,
+    "n": "Mathovi Airport",
+    "mv": -18.66,
+    "c": "Alta Floresta",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4342,
+        "w": 57,
+        "e1": {
+          "n": "21",
+          "h": 209
+        },
+        "e2": {
+          "n": "03",
+          "h": 29
+        }
+      }
+    ]
+  },
+  "SJNW": {
+    "e": 1129,
+    "n": "Fazenda Nhandu Airport",
+    "mv": -18.63,
+    "c": "Alta Floresta",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4888,
+        "w": 195,
+        "e1": {
+          "n": "10",
+          "h": 98
+        },
+        "e2": {
+          "n": "28",
+          "h": 278
+        }
+      }
+    ]
+  },
+  "SJZH": {
+    "e": 1155,
+    "n": "Fazenda Rio Do Fogo Airport",
+    "mv": -18.46,
+    "c": "Sinop",
+    "runways": [
+      {
+        "s": "A",
+        "l": 3632,
+        "w": 69,
+        "e1": {
+          "n": "24",
+          "h": 243
+        },
+        "e2": {
+          "n": "06",
+          "h": 63
+        }
+      }
+    ]
+  },
+  "SJRB": {
+    "e": 1161,
+    "n": "Fazenda Vr Airport",
+    "mv": -20.03,
+    "c": "Sinop",
+    "runways": [
+      {
+        "s": "D",
+        "l": 5251,
+        "w": 82,
+        "e1": {
+          "n": "27",
+          "h": 268
+        },
+        "e2": {
+          "n": "09",
+          "h": 88
+        }
+      }
+    ]
+  },
+  "SJGW": {
+    "e": 1237,
+    "n": "Estncia Floresta Airport",
+    "mv": -18.64,
+    "c": "Sinop",
+    "runways": [
+      {
+        "s": "A",
+        "l": 5118,
+        "w": 77,
+        "e1": {
+          "n": "25",
+          "h": 255
+        },
+        "e2": {
+          "n": "07",
+          "h": 75
+        }
+      }
+    ]
+  },
+  "SJEM": {
+    "e": 1264,
+    "n": "Estância Pousada Dos Pássaros Airport",
+    "mv": -18.64,
+    "c": "Sinop",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4086,
+        "w": 67,
+        "e1": {
+          "n": "11",
+          "h": 115
+        },
+        "e2": {
+          "n": "29",
+          "h": 295
+        }
+      }
+    ]
+  },
+  "SJXG": {
+    "e": 1043,
+    "n": "Fazenda Agroplan Airport",
+    "mv": -20.12,
+    "c": "Sinop",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4646,
+        "w": 54,
+        "e1": {
+          "n": "17",
+          "h": 166
+        },
+        "e2": {
+          "n": "35",
+          "h": 346
+        }
+      }
+    ]
+  },
+  "SJCZ": {
+    "e": 1138,
+    "n": "Fazenda Paraíso Airport",
+    "mv": -19.14,
+    "c": "Sinop",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3618,
+        "w": 103,
+        "e1": {
+          "n": "07",
+          "h": 70
+        },
+        "e2": {
+          "n": "25",
+          "h": 250
+        }
+      }
+    ]
+  },
+  "SJNI": {
+    "e": 1670,
+    "n": "Fazenda Mutum Airport",
+    "mv": -17.75,
+    "c": "Diamantino",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4052,
+        "w": 56,
+        "e1": {
+          "n": "19",
+          "h": 189
+        },
+        "e2": {
+          "n": "01",
+          "h": 369
+        }
+      }
+    ]
+  },
+  "SJNM": {
+    "e": 1526,
+    "n": "Fazenda Santa Luzia Airport",
+    "mv": -18.76,
+    "c": "Diamantino",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3835,
+        "w": 82,
+        "e1": {
+          "n": "01",
+          "h": 367
+        },
+        "e2": {
+          "n": "19",
+          "h": 187
+        }
+      }
+    ]
+  },
+  "SJHZ": {
+    "e": 1161,
+    "n": "Fazenda Dois Netos Airport",
+    "mv": -19.21,
+    "c": "Sinop",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3717,
+        "w": 42,
+        "e1": {
+          "n": "32",
+          "h": 317
+        },
+        "e2": {
+          "n": "14",
+          "h": 137
+        }
+      }
+    ]
+  },
+  "SJWL": {
+    "e": 1637,
+    "n": "Boca Da Mata Airport",
+    "mv": -19.62,
+    "c": "Sinop",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3443,
+        "w": 59,
+        "e1": {
+          "n": "19",
+          "h": 190
+        },
+        "e2": {
+          "n": "01",
+          "h": 370
+        }
+      }
+    ]
+  },
+  "SJRL": {
+    "e": 1272,
+    "n": "Fazenda Do Açucar Airport",
+    "mv": -17.92,
+    "c": "Nobres",
+    "runways": [
+      {
+        "s": "A",
+        "l": 2283,
+        "w": 82,
+        "e1": {
+          "n": "08",
+          "h": 81
+        },
+        "e2": {
+          "n": "26",
+          "h": 261
+        }
+      }
+    ]
+  },
+  "SJWH": {
+    "e": 1370,
+    "n": "Fazenda Santa Inês Airport",
+    "mv": -18.44,
+    "c": "Chapada Dos Guimaraes",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3885,
+        "w": 47,
+        "e1": {
+          "n": "12",
+          "h": 118
+        },
+        "e2": {
+          "n": "30",
+          "h": 298
+        }
+      }
+    ]
+  },
+  "SJTB": {
+    "e": 2450,
+    "n": "Fazenda Buriti Airport",
+    "mv": -18.38,
+    "c": "Chapada Dos Guimaraes",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4535,
+        "w": 34,
+        "e1": {
+          "n": "07",
+          "h": 72
+        },
+        "e2": {
+          "n": "25",
+          "h": 252
+        }
+      }
+    ]
+  },
+  "SJRH": {
+    "e": 1788,
+    "n": "Fazenda Galheiro Airport",
+    "mv": -18.94,
+    "c": "Poxoreo",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4760,
+        "w": 149,
+        "e1": {
+          "n": "17",
+          "h": 171
+        },
+        "e2": {
+          "n": "35",
+          "h": 351
+        }
+      }
+    ]
+  },
+  "SJOU": {
+    "e": 1628,
+    "n": "Marfrig Frigorífico Airport",
+    "mv": -19.04,
+    "c": "Poxoreo",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3066,
+        "w": 57,
+        "e1": {
+          "n": "01",
+          "h": 372
+        },
+        "e2": {
+          "n": "19",
+          "h": 192
+        }
+      }
+    ]
+  },
+  "SJRT": {
+    "e": 1703,
+    "n": "Fazenda Arrendamento Airport",
+    "mv": -19.09,
+    "c": "Poxoreo",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2759,
+        "w": 46,
+        "e1": {
+          "n": "01",
+          "h": 370
+        },
+        "e2": {
+          "n": "19",
+          "h": 190
+        }
+      }
+    ]
+  },
+  "SJPX": {
+    "e": 2028,
+    "n": "Fazenda Cidade Verde Airport",
+    "mv": -18.96,
+    "c": "Poxoreo",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4038,
+        "w": 152,
+        "e1": {
+          "n": "03",
+          "h": 34
+        },
+        "e2": {
+          "n": "21",
+          "h": 214
+        }
+      }
+    ]
+  },
+  "SJYZ": {
+    "e": 1952,
+    "n": "Fazenda Lagoa Encantada Airport",
+    "mv": -19.02,
+    "c": "Poxoreo",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3522,
+        "w": 56,
+        "e1": {
+          "n": "17",
+          "h": 173
+        },
+        "e2": {
+          "n": "35",
+          "h": 353
+        }
+      }
+    ]
+  },
+  "SJZZ": {
+    "e": 2067,
+    "n": "Fazenda Passo Fundo Airport",
+    "mv": -19.29,
+    "c": "Poxoreo",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3496,
+        "w": 114,
+        "e1": {
+          "n": "05",
+          "h": 54
+        },
+        "e2": {
+          "n": "23",
+          "h": 234
+        }
+      }
+    ]
+  },
+  "SJCY": {
+    "e": 617,
+    "n": "Estância Santa Rita Airport",
+    "mv": -18.46,
+    "c": "Cuiaba",
+    "runways": [
+      {
+        "s": "A",
+        "l": 5685,
+        "w": 88,
+        "e1": {
+          "n": "12",
+          "h": 132,
+          "c": true
+        },
+        "e2": {
+          "n": "30",
+          "h": 312,
+          "c": true
+        }
+      }
+    ]
+  },
+  "SJFI": {
+    "e": 659,
+    "n": "Cifi Airport",
+    "mv": -18.45,
+    "c": "Cuiaba",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2698,
+        "w": 32,
+        "e1": {
+          "n": "03",
+          "h": 26
+        },
+        "e2": {
+          "n": "21",
+          "h": 206
+        }
+      }
+    ]
+  },
+  "SJCM": {
+    "e": 1266,
+    "n": "Fazenda São Marcus Airport",
+    "mv": -19.76,
+    "c": "Barra Do Garcas",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3023,
+        "w": 137,
+        "e1": {
+          "n": "31",
+          "h": 315
+        },
+        "e2": {
+          "n": "13",
+          "h": 135
+        }
+      }
+    ]
+  },
+  "SJDL": {
+    "e": 1312,
+    "n": "Fazenda Paraíso Airport",
+    "mv": -18.08,
+    "c": "Lucas",
+    "runways": [
+      {
+        "s": "G",
+        "l": 5086,
+        "w": 80,
+        "e1": {
+          "n": "30",
+          "h": 297
+        },
+        "e2": {
+          "n": "12",
+          "h": 117
+        }
+      }
+    ]
+  },
+  "SJFJ": {
+    "e": 482,
+    "n": "Três Marias Da Pitangueiras Airport",
+    "mv": -18.26,
+    "c": "Rondonopolis",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3722,
+        "w": 138,
+        "e1": {
+          "n": "28",
+          "h": 283
+        },
+        "e2": {
+          "n": "10",
+          "h": 103
+        }
+      }
+    ]
+  },
+  "SJEU": {
+    "e": 418,
+    "n": "Fazenda São Cristóvão Airport",
+    "mv": -17.32,
+    "c": "Lucas",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1648,
+        "w": 82,
+        "e1": {
+          "n": "28",
+          "h": 281
+        },
+        "e2": {
+          "n": "10",
+          "h": 101
+        }
+      }
+    ]
+  },
+  "SJKJ": {
+    "e": 2579,
+    "n": "Fazenda Cangaia Airport",
+    "mv": -19.26,
+    "c": "Alto Araguaia",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3311,
+        "w": 151,
+        "e1": {
+          "n": "19",
+          "h": 192
+        },
+        "e2": {
+          "n": "01",
+          "h": 372
+        }
+      }
+    ]
+  },
+  "SJCD": {
+    "e": 1289,
+    "n": "Fazenda Pingo D`Água Airport",
+    "mv": -19.36,
+    "c": "Alto Araguaia",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4111,
+        "w": 134,
+        "e1": {
+          "n": "20",
+          "h": 203
+        },
+        "e2": {
+          "n": "02",
+          "h": 23
+        }
+      }
+    ]
+  },
+  "SJIJ": {
+    "e": 2792,
+    "n": "Fazenda Amparo Airport",
+    "mv": -19.23,
+    "c": "Alto Araguaia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2773,
+        "w": 92,
+        "e1": {
+          "n": "13",
+          "h": 128
+        },
+        "e2": {
+          "n": "31",
+          "h": 308
+        }
+      }
+    ]
+  },
+  "SJFN": {
+    "e": 751,
+    "n": "Fazenda Brasil Novo Airport",
+    "mv": -18.54,
+    "c": "Coxim",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3697,
+        "w": 111,
+        "e1": {
+          "n": "07",
+          "h": 66
+        },
+        "e2": {
+          "n": "25",
+          "h": 246
+        }
+      }
+    ]
+  },
+  "SJBS": {
+    "e": 395,
+    "n": "Fazenda Livramento Airport",
+    "mv": -17.34,
+    "c": "Miranda",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1178,
+        "w": 66,
+        "e1": {
+          "n": "15",
+          "h": 151
+        },
+        "e2": {
+          "n": "33",
+          "h": 331
+        }
+      }
+    ]
+  },
+  "SJBT": {
+    "e": 417,
+    "n": "Fazenda São João Airport",
+    "mv": -17.1,
+    "c": "Miranda",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2803,
+        "w": 56,
+        "e1": {
+          "n": "02",
+          "h": 25
+        },
+        "e2": {
+          "n": "20",
+          "h": 205
+        }
+      }
+    ]
+  },
+  "SJDN": {
+    "e": 558,
+    "n": "Fazenda Campo Alegre Airport",
+    "mv": -17.8,
+    "c": "Miranda",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2560,
+        "w": 120,
+        "e1": {
+          "n": "24",
+          "h": 237
+        },
+        "e2": {
+          "n": "06",
+          "h": 57
+        }
+      }
+    ]
+  },
+  "SJDT": {
+    "e": 525,
+    "n": "Fazenda São Roque Airport",
+    "mv": -17.79,
+    "c": "Rio Verde De Mato Grosso",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1902,
+        "w": 23,
+        "e1": {
+          "n": "27",
+          "h": 271
+        },
+        "e2": {
+          "n": "09",
+          "h": 91
+        }
+      }
+    ]
+  },
+  "SJDX": {
+    "e": 426,
+    "n": "Fazenda Bandeirantes Airport",
+    "mv": -17.81,
+    "c": "Rio Verde De Mato Grosso",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2198,
+        "w": 79,
+        "e1": {
+          "n": "06",
+          "h": 62
+        },
+        "e2": {
+          "n": "24",
+          "h": 242
+        }
+      }
+    ]
+  },
+  "SJJW": {
+    "e": 400,
+    "n": "Fazenda Santa Emília Airport",
+    "mv": -17.8,
+    "c": "Rio Verde De Mato Grosso",
+    "runways": [
+      {
+        "s": "A",
+        "l": 1944,
+        "w": 24,
+        "e1": {
+          "n": "23",
+          "h": 227
+        },
+        "e2": {
+          "n": "05",
+          "h": 47
+        }
+      }
+    ]
+  },
+  "SJDY": {
+    "e": 1532,
+    "n": "Fazenda Da Barra Airport",
+    "mv": -18.47,
+    "c": "Coxim",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4363,
+        "w": 66,
+        "e1": {
+          "n": "16",
+          "h": 158
+        },
+        "e2": {
+          "n": "34",
+          "h": 338
+        }
+      }
+    ]
+  },
+  "SJVF": {
+    "e": 1854,
+    "n": "Fazenda Colorado Airport",
+    "mv": -19.23,
+    "c": "Camapua",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3275,
+        "w": 156,
+        "e1": {
+          "n": "35",
+          "h": 348
+        },
+        "e2": {
+          "n": "17",
+          "h": 168
+        }
+      }
+    ]
+  },
+  "SJNX": {
+    "e": 2730,
+    "n": "Cosmos Aviação Agrícola Airport",
+    "mv": -19.68,
+    "c": "Paraiso Das Aguas",
+    "runways": [
+      {
+        "s": "D",
+        "l": 5033,
+        "w": 82,
+        "e1": {
+          "n": "06",
+          "h": 61
+        },
+        "e2": {
+          "n": "24",
+          "h": 241
+        }
+      }
+    ]
+  },
+  "SJOK": {
+    "e": 2040,
+    "n": "Fazenda Modelo Airport",
+    "mv": -19.48,
+    "c": "Paraiso Das Aguas",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2751,
+        "w": 124,
+        "e1": {
+          "n": "04",
+          "h": 38
+        },
+        "e2": {
+          "n": "22",
+          "h": 218
+        }
+      }
+    ]
+  },
+  "SJRW": {
+    "e": 1607,
+    "n": "Pch Buriti Airport",
+    "mv": -19.53,
+    "c": "Paraiso Das Aguas",
+    "runways": [
+      {
+        "s": "A",
+        "l": 5206,
+        "w": 75,
+        "e1": {
+          "n": "28",
+          "h": 283
+        },
+        "e2": {
+          "n": "10",
+          "h": 103
+        }
+      }
+    ]
+  },
+  "SJSJ": {
+    "e": 1381,
+    "n": "Fazenda São José Do Cangalha Airport",
+    "mv": -19.54,
+    "c": "Paraiso Das Aguas",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2972,
+        "w": 178,
+        "e1": {
+          "n": "01",
+          "h": 367
+        },
+        "e2": {
+          "n": "19",
+          "h": 187
+        }
+      }
+    ]
+  },
+  "SJWC": {
+    "e": 1686,
+    "n": "Fazenda Nossa Senhora Da Muxima Airport",
+    "mv": -19.57,
+    "c": "Paraiso Das Aguas",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3722,
+        "w": 78,
+        "e1": {
+          "n": "22",
+          "h": 217
+        },
+        "e2": {
+          "n": "04",
+          "h": 37
+        }
+      }
+    ]
+  },
+  "SJEF": {
+    "e": 341,
+    "n": "Fazenda Costa Rica Airport",
+    "mv": -16.96,
+    "c": "Miranda",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2252,
+        "w": 82,
+        "e1": {
+          "n": "16",
+          "h": 162
+        },
+        "e2": {
+          "n": "34",
+          "h": 342
+        }
+      }
+    ]
+  },
+  "SJSD": {
+    "e": 1748,
+    "n": "Fazenda São Bento Airport",
+    "mv": -17.68,
+    "c": "Sidrolandia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3192,
+        "w": 42,
+        "e1": {
+          "n": "09",
+          "h": 90
+        },
+        "e2": {
+          "n": "27",
+          "h": 270
+        }
+      }
+    ]
+  },
+  "SJHP": {
+    "e": 1672,
+    "n": "Monte Belo Airport",
+    "mv": -18.82,
+    "c": "Ribas Do Rio Pardo",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3285,
+        "w": 119,
+        "e1": {
+          "n": "34",
+          "h": 337
+        },
+        "e2": {
+          "n": "16",
+          "h": 157
+        }
+      }
+    ]
+  },
+  "SJID": {
+    "e": 1641,
+    "n": "Fazenda Goiaba Airport",
+    "mv": -19.54,
+    "c": "Paraiso Das Aguas",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3838,
+        "w": 151,
+        "e1": {
+          "n": "28",
+          "h": 279
+        },
+        "e2": {
+          "n": "10",
+          "h": 99
+        }
+      }
+    ]
+  },
+  "SJUQ": {
+    "e": 1325,
+    "n": "Fazenda Vista Alegre Airport",
+    "mv": -19.53,
+    "c": "Paraiso Das Aguas",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3198,
+        "w": 106,
+        "e1": {
+          "n": "20",
+          "h": 201
+        },
+        "e2": {
+          "n": "02",
+          "h": 21
+        }
+      }
+    ]
+  },
+  "SJWW": {
+    "e": 1191,
+    "n": "Fazenda Cachoeira Preta Airport",
+    "mv": -19.06,
+    "c": "Ribas Do Rio Pardo",
+    "runways": [
+      {
+        "s": "A",
+        "l": 3914,
+        "w": 67,
+        "e1": {
+          "n": "12",
+          "h": 141
+        },
+        "e2": {
+          "n": "30",
+          "h": 321
+        }
+      }
+    ]
+  },
+  "SJJB": {
+    "e": 1421,
+    "n": "Fazenda Cacique Airport",
+    "mv": -19.42,
+    "c": "Ribas Do Rio Pardo",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3873,
+        "w": 62,
+        "e1": {
+          "n": "33",
+          "h": 330
+        },
+        "e2": {
+          "n": "15",
+          "h": 150
+        }
+      }
+    ]
+  },
+  "SJWA": {
+    "e": 1650,
+    "n": "Usina Maracaju Airport",
+    "mv": -17.42,
+    "c": "Maracaju",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3423,
+        "w": 147,
+        "e1": {
+          "n": "01",
+          "h": 373
+        },
+        "e2": {
+          "n": "19",
+          "h": 193
+        }
+      }
+    ]
+  },
+  "SJTJ": {
+    "e": 1430,
+    "n": "Fazenda Guanabara Airport",
+    "mv": -18.12,
+    "c": "Sidrolandia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3768,
+        "w": 57,
+        "e1": {
+          "n": "20",
+          "h": 204
+        },
+        "e2": {
+          "n": "02",
+          "h": 24
+        }
+      }
+    ]
+  },
+  "SJWD": {
+    "e": 1078,
+    "n": "Usina Passa Tempo Airport",
+    "mv": -18.01,
+    "c": "Rio Brilhante",
+    "runways": [
+      {
+        "s": "CE",
+        "l": 3103,
+        "w": 55,
+        "e1": {
+          "n": "11",
+          "h": 107
+        },
+        "e2": {
+          "n": "29",
+          "h": 287
+        }
+      }
+    ]
+  },
+  "SJII": {
+    "e": 1279,
+    "n": "Fazenda São Marcos Airport",
+    "mv": -17.71,
+    "c": "Dourados",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4268,
+        "w": 73,
+        "e1": {
+          "n": "04",
+          "h": 40
+        },
+        "e2": {
+          "n": "22",
+          "h": 220
+        }
+      }
+    ]
+  },
+  "SJUD": {
+    "e": 1421,
+    "n": "Usina Dourados Airport",
+    "mv": -17,
+    "c": "Maracaju",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3304,
+        "w": 56,
+        "e1": {
+          "n": "09",
+          "h": 88
+        },
+        "e2": {
+          "n": "27",
+          "h": 268
+        }
+      }
+    ]
+  },
+  "SJWI": {
+    "e": 1355,
+    "n": "Fazenda Flor Airport",
+    "mv": -18.62,
+    "c": "Rio Brilhante",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3884,
+        "w": 135,
+        "e1": {
+          "n": "26",
+          "h": 259
+        },
+        "e2": {
+          "n": "08",
+          "h": 79
+        }
+      }
+    ]
+  },
+  "SJXW": {
+    "e": 1112,
+    "n": "Fazenda 3m Airport",
+    "mv": -17.87,
+    "c": "Rio Brilhante",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3308,
+        "w": 55,
+        "e1": {
+          "n": "24",
+          "h": 243
+        },
+        "e2": {
+          "n": "06",
+          "h": 63
+        }
+      }
+    ]
+  },
+  "SJIC": {
+    "e": 1444,
+    "n": "Pedro Da Costa Lima Airport",
+    "mv": -19.17,
+    "c": "Presidente Epitacio",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2877,
+        "w": 90,
+        "e1": {
+          "n": "30",
+          "h": 303
+        },
+        "e2": {
+          "n": "12",
+          "h": 123
+        }
+      }
+    ]
+  },
+  "SJPL": {
+    "e": 952,
+    "n": "Fazenda Austrália Airport",
+    "mv": -17.69,
+    "c": "Rio Brilhante",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2347,
+        "w": 48,
+        "e1": {
+          "n": "12",
+          "h": 124
+        },
+        "e2": {
+          "n": "30",
+          "h": 304
+        }
+      }
+    ]
+  },
+  "SJGZ": {
+    "e": 1230,
+    "n": "Fazenda Araçatuba Airport",
+    "mv": -18.99,
+    "c": "Terra Rica",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3984,
+        "w": 104,
+        "e1": {
+          "n": "09",
+          "h": 86
+        },
+        "e2": {
+          "n": "27",
+          "h": 266
+        }
+      }
+    ]
+  },
+  "SJJH": {
+    "e": 225,
+    "n": "Pousada Rio Xingu Airport",
+    "mv": -19.79,
+    "c": "Altamira",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2439,
+        "w": 35,
+        "e1": {
+          "n": "16",
+          "h": 160
+        },
+        "e2": {
+          "n": "34",
+          "h": 340
+        }
+      }
+    ]
+  },
+  "SJQQ": {
+    "e": 66,
+    "n": "Fazenda Terra Alta Airport",
+    "mv": -20.12,
+    "c": "Portel",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2653,
+        "w": 42,
+        "e1": {
+          "n": "16",
+          "h": 156
+        },
+        "e2": {
+          "n": "34",
+          "h": 336
+        }
+      }
+    ]
+  },
+  "SJJX": {
+    "e": 157,
+    "n": "Maca Aero Airport",
+    "mv": -20.5,
+    "c": "Mocajuba",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2707,
+        "w": 68,
+        "e1": {
+          "n": "09",
+          "h": 95
+        },
+        "e2": {
+          "n": "27",
+          "h": 275
+        }
+      }
+    ]
+  },
+  "SJHL": {
+    "e": 382,
+    "n": "Frisama Eldorado Airport",
+    "mv": -20.73,
+    "c": "Maraba",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1983,
+        "w": 32,
+        "e1": {
+          "n": "36",
+          "h": 356
+        },
+        "e2": {
+          "n": "18",
+          "h": 176
+        }
+      }
+    ]
+  },
+  "SJQB": {
+    "e": 1066,
+    "n": "Fazenda Symalu Airport",
+    "mv": -20.37,
+    "c": "Conceicao Do Araguaia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3402,
+        "w": 82,
+        "e1": {
+          "n": "30",
+          "h": 301
+        },
+        "e2": {
+          "n": "12",
+          "h": 121
+        }
+      }
+    ]
+  },
+  "SJRK": {
+    "e": 860,
+    "n": "Agropecuária São Roberto Airport",
+    "mv": -20.65,
+    "c": "Conceicao Do Araguaia",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2897,
+        "w": 48,
+        "e1": {
+          "n": "01",
+          "h": 373
+        },
+        "e2": {
+          "n": "19",
+          "h": 193
+        }
+      }
+    ]
+  },
+  "SJAU": {
+    "e": 679,
+    "n": "Araguacema",
+    "mv": -21.02,
+    "runways": [
+      {
+        "s": "A",
+        "l": 4588,
+        "w": 98,
+        "e1": {
+          "n": "30",
+          "h": 305
+        },
+        "e2": {
+          "n": "12",
+          "h": 125
+        }
+      }
+    ]
+  },
+  "SJBB": {
+    "e": 640,
+    "n": "Fazenda Bacaba Airport",
+    "mv": -21.07,
+    "c": "Conceicao Do Araguaia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3227,
+        "w": 63,
+        "e1": {
+          "n": "10",
+          "h": 105
+        },
+        "e2": {
+          "n": "28",
+          "h": 285
+        }
+      }
+    ]
+  },
+  "SJGP": {
+    "e": 1059,
+    "n": "Fazenda Grupal Airport",
+    "mv": -20.39,
+    "c": "Conceicao Do Araguaia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3819,
+        "w": 83,
+        "e1": {
+          "n": "10",
+          "h": 104
+        },
+        "e2": {
+          "n": "28",
+          "h": 284
+        }
+      }
+    ]
+  },
+  "SJYW": {
+    "e": 751,
+    "n": "Fazenda Santa Terezinha Airport",
+    "mv": -20.74,
+    "c": "Gurupi",
+    "runways": [
+      {
+        "s": "G",
+        "l": 6713,
+        "w": 287,
+        "e1": {
+          "n": "13",
+          "h": 134
+        },
+        "e2": {
+          "n": "31",
+          "h": 314
+        }
+      }
+    ]
+  },
+  "SJHG": {
+    "e": 781,
+    "n": "Confresa Airport",
+    "mv": -20.46,
+    "c": "Gurupi",
+    "runways": [
+      {
+        "s": "D",
+        "l": 5029,
+        "w": 97,
+        "e1": {
+          "n": "31",
+          "h": 309
+        },
+        "e2": {
+          "n": "13",
+          "h": 129
+        }
+      }
+    ]
+  },
+  "SJZG": {
+    "e": 741,
+    "n": "Leonel De Moura Brizola Airport",
+    "mv": -20.44,
+    "c": "Gurupi",
+    "runways": [
+      {
+        "s": "D",
+        "l": 5043,
+        "w": 82,
+        "e1": {
+          "n": "28",
+          "h": 279
+        },
+        "e2": {
+          "n": "10",
+          "h": 99
+        }
+      }
+    ]
+  },
+  "SJJT": {
+    "e": 584,
+    "n": "Fazenda Vale Verde Airport",
+    "mv": -21.17,
+    "c": "Palmas",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3250,
+        "w": 55,
+        "e1": {
+          "n": "34",
+          "h": 341
+        },
+        "e2": {
+          "n": "16",
+          "h": 161
+        }
+      }
+    ]
+  },
+  "SJAC": {
+    "e": 843,
+    "n": "Fazenda Rio Preto Airport",
+    "mv": -20.47,
+    "c": "Sao Miguel Do Araguaia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3834,
+        "w": 72,
+        "e1": {
+          "n": "11",
+          "h": 113
+        },
+        "e2": {
+          "n": "29",
+          "h": 293
+        }
+      }
+    ]
+  },
+  "SJFL": {
+    "e": 1083,
+    "n": "Fazenda Campo Formoso Airport",
+    "mv": -21.26,
+    "c": "Alvorada",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3478,
+        "w": 99,
+        "e1": {
+          "n": "24",
+          "h": 244
+        },
+        "e2": {
+          "n": "06",
+          "h": 64
+        }
+      }
+    ]
+  },
+  "SJFK": {
+    "e": 771,
+    "n": "Fazenda Cachoeira Airport",
+    "mv": -21.25,
+    "c": "Alvorada",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4858,
+        "w": 49,
+        "e1": {
+          "n": "28",
+          "h": 282
+        },
+        "e2": {
+          "n": "10",
+          "h": 102
+        }
+      }
+    ]
+  },
+  "SJAE": {
+    "e": 1383,
+    "n": "Fazenda Furnas Airport",
+    "mv": -20.41,
+    "c": "Sao Miguel Do Araguaia",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3883,
+        "w": 192,
+        "e1": {
+          "n": "29",
+          "h": 287
+        },
+        "e2": {
+          "n": "11",
+          "h": 107
+        }
+      }
+    ]
+  },
+  "SJCF": {
+    "e": 1194,
+    "n": "Fazenda Estrela D`Alva Airport",
+    "mv": -20.11,
+    "c": "Sao Miguel Do Araguaia",
+    "runways": [
+      {
+        "s": "A",
+        "l": 4927,
+        "w": 115,
+        "e1": {
+          "n": "27",
+          "h": 266
+        },
+        "e2": {
+          "n": "09",
+          "h": 86
+        }
+      }
+    ]
+  },
+  "SJJG": {
+    "e": 1147,
+    "n": "Fazenda Tanguru Airport",
+    "mv": -20.04,
+    "c": "Sao Miguel Do Araguaia",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4279,
+        "w": 178,
+        "e1": {
+          "n": "13",
+          "h": 127
+        },
+        "e2": {
+          "n": "31",
+          "h": 307
+        }
+      }
+    ]
+  },
+  "SJNU": {
+    "e": 1099,
+    "n": "Fazenda Campo Alto Airport",
+    "mv": -20.41,
+    "c": "Sao Miguel Do Araguaia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3391,
+        "w": 43,
+        "e1": {
+          "n": "16",
+          "h": 155
+        },
+        "e2": {
+          "n": "34",
+          "h": 335
+        }
+      }
+    ]
+  },
+  "SJTT": {
+    "e": 951,
+    "n": "Fazenda Lagoa Do Barro Airport",
+    "mv": -21.23,
+    "c": "Sao Miguel Do Araguaia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3099,
+        "w": 106,
+        "e1": {
+          "n": "21",
+          "h": 207
+        },
+        "e2": {
+          "n": "03",
+          "h": 27
+        }
+      }
+    ]
+  },
+  "SJSR": {
+    "e": 1043,
+    "n": "Fazenda Santa Rosa Airport",
+    "mv": -21.37,
+    "c": "Crixas",
+    "runways": [
+      {
+        "s": "A",
+        "l": 2865,
+        "w": 35,
+        "e1": {
+          "n": "01",
+          "h": 369
+        },
+        "e2": {
+          "n": "19",
+          "h": 189
+        }
+      }
+    ]
+  },
+  "SJWV": {
+    "e": 1030,
+    "n": "Fazenda São Judas Airport",
+    "mv": -20.9,
+    "c": "Sao Miguel Do Araguaia",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3740,
+        "w": 82,
+        "e1": {
+          "n": "19",
+          "h": 185
+        },
+        "e2": {
+          "n": "01",
+          "h": 365
+        }
+      }
+    ]
+  },
+  "SJNJ": {
+    "e": 955,
+    "n": "Fazenda Lakanka Airport",
+    "mv": -20.43,
+    "c": "Araguaiana",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4291,
+        "w": 82,
+        "e1": {
+          "n": "11",
+          "h": 107
+        },
+        "e2": {
+          "n": "29",
+          "h": 287
+        }
+      }
+    ]
+  },
+  "SJUS": {
+    "e": 859,
+    "n": "Fazenda Acará Airport",
+    "mv": -20.58,
+    "c": "Mozarlandia",
+    "runways": [
+      {
+        "s": "A",
+        "l": 3779,
+        "w": 55,
+        "e1": {
+          "n": "22",
+          "h": 224
+        },
+        "e2": {
+          "n": "04",
+          "h": 44
+        }
+      }
+    ]
+  },
+  "SJCL": {
+    "e": 985,
+    "n": "Fazenda Araçatuba Airport",
+    "mv": -20.89,
+    "c": "Mozarlandia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2997,
+        "w": 162,
+        "e1": {
+          "n": "02",
+          "h": 25
+        },
+        "e2": {
+          "n": "20",
+          "h": 205
+        }
+      }
+    ]
+  },
+  "SJGR": {
+    "e": 1076,
+    "n": "Fazenda Cavalgada Grande Airport",
+    "mv": -20.86,
+    "c": "Crixas",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3691,
+        "w": 80,
+        "e1": {
+          "n": "17",
+          "h": 166
+        },
+        "e2": {
+          "n": "35",
+          "h": 346
+        }
+      }
+    ]
+  },
+  "SJSN": {
+    "e": 1870,
+    "n": "Fazenda Carvalho Airport",
+    "mv": -21.24,
+    "c": "Itapaci",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3888,
+        "w": 70,
+        "e1": {
+          "n": "11",
+          "h": 109
+        },
+        "e2": {
+          "n": "29",
+          "h": 289
+        }
+      }
+    ]
+  },
+  "SJVO": {
+    "e": 1060,
+    "n": "Aragarcas",
+    "mv": -19.84,
+    "runways": [
+      {
+        "s": "A",
+        "l": 4336,
+        "w": 94,
+        "e1": {
+          "n": "10",
+          "h": 109,
+          "o": 360
+        },
+        "e2": {
+          "n": "28",
+          "h": 289
+        }
+      }
+    ]
+  },
+  "SJCP": {
+    "e": 2516,
+    "n": "Fazenda São Roberto Airport",
+    "mv": -20.66,
+    "c": "Parauna",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3861,
+        "w": 223,
+        "e1": {
+          "n": "04",
+          "h": 42
+        },
+        "e2": {
+          "n": "22",
+          "h": 222
+        }
+      }
+    ]
+  },
+  "SJRR": {
+    "e": 2470,
+    "n": "Fazenda Barreiro Airport",
+    "mv": -20.62,
+    "c": "Parauna",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3328,
+        "w": 50,
+        "e1": {
+          "n": "19",
+          "h": 194
+        },
+        "e2": {
+          "n": "01",
+          "h": 374
+        }
+      }
+    ]
+  },
+  "SJHH": {
+    "e": 2244,
+    "n": "Fazenda Poruína Airport",
+    "mv": -19.84,
+    "c": "Jatai",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4160,
+        "w": 111,
+        "e1": {
+          "n": "16",
+          "h": 161
+        },
+        "e2": {
+          "n": "34",
+          "h": 341
+        }
+      }
+    ]
+  },
+  "SJER": {
+    "e": 1811,
+    "n": "Fazenda Canada",
+    "mv": -20.78,
+    "runways": [
+      {
+        "s": "A",
+        "l": 3523,
+        "w": 49,
+        "e1": {
+          "n": "03",
+          "h": 33
+        },
+        "e2": {
+          "n": "21",
+          "h": 213
+        }
+      }
+    ]
+  },
+  "SJWB": {
+    "e": 2428,
+    "n": "Pouso Alto Airport",
+    "mv": -21.57,
+    "c": "Piracanjuba",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2737,
+        "w": 46,
+        "e1": {
+          "n": "08",
+          "h": 83
+        },
+        "e2": {
+          "n": "26",
+          "h": 263
+        }
+      }
+    ]
+  },
+  "SJFO": {
+    "e": 1427,
+    "n": "Fazenda Califrnia Airport",
+    "mv": -20.83,
+    "c": "Santa Helena De Goias",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4093,
+        "w": 82,
+        "e1": {
+          "n": "17",
+          "h": 172
+        },
+        "e2": {
+          "n": "35",
+          "h": 352
+        }
+      }
+    ]
+  },
+  "SJBZ": {
+    "e": 1552,
+    "n": "Fazenda Três Barras Airport",
+    "mv": -19.96,
+    "c": "Cacu",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3381,
+        "w": 82,
+        "e1": {
+          "n": "19",
+          "h": 185
+        },
+        "e2": {
+          "n": "01",
+          "h": 365
+        }
+      }
+    ]
+  },
+  "SJIQ": {
+    "e": 1377,
+    "n": "Usina Coruripe - Filial Limeira Do Oeste Airport",
+    "mv": -20.55,
+    "c": "Iturama",
+    "runways": [
+      {
+        "s": "A",
+        "l": 3273,
+        "w": 42,
+        "e1": {
+          "n": "05",
+          "h": 50,
+          "o": 780
+        },
+        "e2": {
+          "n": "23",
+          "h": 230
+        }
+      }
+    ]
+  },
+  "SJSM": {
+    "e": 1280,
+    "n": "Fazenda Santa Rita Airport",
+    "mv": -20.4,
+    "c": "Cacu",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2322,
+        "w": 59,
+        "e1": {
+          "n": "16",
+          "h": 161
+        },
+        "e2": {
+          "n": "34",
+          "h": 341
+        }
+      }
+    ]
+  },
+  "SJQN": {
+    "e": 1923,
+    "n": "Quirinopolis",
+    "mv": -20.67,
+    "runways": [
+      {
+        "s": "A",
+        "l": 4922,
+        "w": 99,
+        "e1": {
+          "n": "11",
+          "h": 133
+        },
+        "e2": {
+          "n": "29",
+          "h": 313
+        }
+      }
+    ]
+  },
+  "SJNV": {
+    "e": 1856,
+    "n": "Fazenda São Francisco Airport",
+    "mv": -20.68,
+    "c": "Quirinopolis",
+    "runways": [
+      {
+        "s": "B",
+        "l": 4558,
+        "w": 55,
+        "e1": {
+          "n": "20",
+          "h": 196
+        },
+        "e2": {
+          "n": "02",
+          "h": 376
+        }
+      }
+    ]
+  },
+  "SJVS": {
+    "e": 1693,
+    "n": "Vale Do Paranaíba Airport",
+    "mv": -21.12,
+    "c": "Capinopolis",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3172,
+        "w": 58,
+        "e1": {
+          "n": "19",
+          "h": 192
+        },
+        "e2": {
+          "n": "01",
+          "h": 372
+        }
+      }
+    ]
+  },
+  "SJFV": {
+    "e": 2697,
+    "n": "Fazenda Gaia Airport",
+    "mv": -21.55,
+    "c": "Monte Alegre De Minas",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3997,
+        "w": 70,
+        "e1": {
+          "n": "19",
+          "h": 191
+        },
+        "e2": {
+          "n": "01",
+          "h": 371
+        }
+      }
+    ]
+  },
+  "SJVQ": {
+    "e": 2235,
+    "n": "Triálcool Airport",
+    "mv": -21,
+    "c": "Ituiutaba",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3158,
+        "w": 68,
+        "e1": {
+          "n": "22",
+          "h": 216
+        },
+        "e2": {
+          "n": "04",
+          "h": 36
+        }
+      }
+    ]
+  },
+  "SJZE": {
+    "e": 1217,
+    "n": "Fazenda Brioso Airport",
+    "mv": -19.46,
+    "c": "Tres Lagoas",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3379,
+        "w": 79,
+        "e1": {
+          "n": "11",
+          "h": 111
+        },
+        "e2": {
+          "n": "29",
+          "h": 291
+        }
+      }
+    ]
+  },
+  "SJAR": {
+    "e": 1226,
+    "n": "Fazenda Bela Manhã Airport",
+    "mv": -20.3,
+    "c": "Santa Fe Do Sul",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3309,
+        "w": 105,
+        "e1": {
+          "n": "12",
+          "h": 120
+        },
+        "e2": {
+          "n": "30",
+          "h": 300
+        }
+      }
+    ]
+  },
+  "SJZF": {
+    "e": 1181,
+    "n": "Fazenda Campo Triste Airport",
+    "mv": -19.29,
+    "c": "Tres Lagoas",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3332,
+        "w": 42,
+        "e1": {
+          "n": "31",
+          "h": 313
+        },
+        "e2": {
+          "n": "13",
+          "h": 133
+        }
+      }
+    ]
+  },
+  "SJRO": {
+    "e": 1312,
+    "n": "Fazenda Santa Elisa Airport",
+    "mv": -20.41,
+    "c": "Auriflama",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2858,
+        "w": 82,
+        "e1": {
+          "n": "09",
+          "h": 87
+        },
+        "e2": {
+          "n": "27",
+          "h": 267
+        }
+      }
+    ]
+  },
+  "SJTM": {
+    "e": 1260,
+    "n": "Santa Cecília Airport",
+    "mv": -20.54,
+    "c": "Mirandopolis",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2978,
+        "w": 116,
+        "e1": {
+          "n": "04",
+          "h": 41
+        },
+        "e2": {
+          "n": "22",
+          "h": 221
+        }
+      }
+    ]
+  },
+  "SJFF": {
+    "e": 1585,
+    "n": "Frigo Estrela Airport",
+    "mv": -20.46,
+    "c": "Jales",
+    "runways": [
+      {
+        "s": "A",
+        "l": 4454,
+        "w": 65,
+        "e1": {
+          "n": "24",
+          "h": 238,
+          "o": 938
+        },
+        "e2": {
+          "n": "06",
+          "h": 58
+        }
+      }
+    ]
+  },
+  "SJSF": {
+    "e": 1270,
+    "n": "Agropecuária Barrinha Airport",
+    "mv": -21.02,
+    "c": "Riolandia",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3428,
+        "w": 61,
+        "e1": {
+          "n": "10",
+          "h": 99
+        },
+        "e2": {
+          "n": "28",
+          "h": 279
+        }
+      }
+    ]
+  },
+  "SJOW": {
+    "e": 1184,
+    "n": "Fazenda Guadalupe Airport",
+    "mv": -20.35,
+    "c": "Aracatuba",
+    "runways": [
+      {
+        "s": "A",
+        "l": 3086,
+        "w": 60,
+        "e1": {
+          "n": "23",
+          "h": 235
+        },
+        "e2": {
+          "n": "05",
+          "h": 55
+        }
+      }
+    ]
+  },
+  "SJVC": {
+    "e": 1489,
+    "n": "Ibiporanga Da Felicidade Airport",
+    "mv": -20.88,
+    "c": "Tanabi",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3111,
+        "w": 80,
+        "e1": {
+          "n": "14",
+          "h": 138
+        },
+        "e2": {
+          "n": "32",
+          "h": 318
+        }
+      }
+    ]
+  },
+  "SJHD": {
+    "e": 1335,
+    "n": "Fazenda Modelo Airport",
+    "mv": -19.26,
+    "c": "Panorama",
+    "runways": [
+      {
+        "s": "G",
+        "l": 5966,
+        "w": 136,
+        "e1": {
+          "n": "33",
+          "h": 329
+        },
+        "e2": {
+          "n": "15",
+          "h": 149
+        }
+      }
+    ]
+  },
+  "SJQR": {
+    "e": 1301,
+    "n": "Jacarezinho Airport",
+    "mv": -20.17,
+    "c": "Valparaiso",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3397,
+        "w": 105,
+        "e1": {
+          "n": "08",
+          "h": 76
+        },
+        "e2": {
+          "n": "26",
+          "h": 256
+        }
+      }
+    ]
+  },
+  "SJRS": {
+    "e": 1017,
+    "n": "Fazenda Guanabara Airport",
+    "mv": -19.78,
+    "c": "Tupi Paulista",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3339,
+        "w": 82,
+        "e1": {
+          "n": "22",
+          "h": 224
+        },
+        "e2": {
+          "n": "04",
+          "h": 44
+        }
+      }
+    ]
+  },
+  "SJWQ": {
+    "e": 1339,
+    "n": "José Doná Airport",
+    "mv": -20.35,
+    "c": "Birigui",
+    "runways": [
+      {
+        "s": "A",
+        "l": 2725,
+        "w": 49,
+        "e1": {
+          "n": "13",
+          "h": 127
+        },
+        "e2": {
+          "n": "31",
+          "h": 307
+        }
+      }
+    ]
+  },
+  "SJAS": {
+    "e": 1365,
+    "n": "Fazenda São Roque Airport",
+    "mv": -20.65,
+    "c": "Borborema",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3319,
+        "w": 109,
+        "e1": {
+          "n": "18",
+          "h": 176
+        },
+        "e2": {
+          "n": "36",
+          "h": 356
+        }
+      }
+    ]
+  },
+  "SJTA": {
+    "e": 1407,
+    "n": "Cristal Airport",
+    "mv": -20.12,
+    "c": "Quata",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2831,
+        "w": 73,
+        "e1": {
+          "n": "21",
+          "h": 209
+        },
+        "e2": {
+          "n": "03",
+          "h": 29
+        }
+      }
+    ]
+  },
+  "SJEJ": {
+    "e": 1670,
+    "n": "Fazenda Bonanza Airport",
+    "mv": -20.68,
+    "c": "Pirajui",
+    "runways": [
+      {
+        "s": "B",
+        "l": 2751,
+        "w": 46,
+        "e1": {
+          "n": "11",
+          "h": 94
+        },
+        "e2": {
+          "n": "29",
+          "h": 274
+        }
+      }
+    ]
+  },
+  "SJNA": {
+    "e": 49,
+    "n": "Clube De Esportes Aéreos E Náuticos Do Pará Airport",
+    "mv": -20.16,
+    "c": "Ananindeua",
+    "runways": [
+      {
+        "s": "A",
+        "l": 1983,
+        "w": 48,
+        "e1": {
+          "n": "10",
+          "h": 102
+        },
+        "e2": {
+          "n": "28",
+          "h": 282
+        }
+      }
+    ]
+  },
+  "SJNR": {
+    "e": 83,
+    "n": "Norte Jet Airport",
+    "mv": -20.17,
+    "c": "Benevides",
+    "runways": [
+      {
+        "s": "G",
+        "l": 5370,
+        "w": 82,
+        "e1": {
+          "n": "29",
+          "h": 287
+        },
+        "e2": {
+          "n": "11",
+          "h": 107
+        }
+      }
+    ]
+  },
+  "SJLI": {
+    "e": 958,
+    "n": "Fazenda Lilliani Airport",
+    "mv": -20.94,
+    "c": "Paragominas",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3580,
+        "w": 95,
+        "e1": {
+          "n": "27",
+          "h": 269
+        },
+        "e2": {
+          "n": "09",
+          "h": 89
+        }
+      }
+    ]
+  },
+  "SJVX": {
+    "e": 437,
+    "n": "Pagrisa Airport",
+    "mv": -20.76,
+    "c": "Paragominas",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3341,
+        "w": 142,
+        "e1": {
+          "n": "14",
+          "h": 144
+        },
+        "e2": {
+          "n": "32",
+          "h": 324
+        }
+      }
+    ]
+  },
+  "SJBY": {
+    "e": 69,
+    "n": "Joao Silva",
+    "mv": -20.95,
+    "runways": [
+      {
+        "s": "A",
+        "l": 4925,
+        "w": 97,
+        "e1": {
+          "n": "06",
+          "h": 65
+        },
+        "e2": {
+          "n": "24",
+          "h": 245
+        }
+      }
+    ]
+  },
+  "SJAL": {
+    "e": 1090,
+    "n": "Fazenda Santa Maria Airport",
+    "mv": -20.89,
+    "c": "Imperatriz",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2433,
+        "w": 82,
+        "e1": {
+          "n": "04",
+          "h": 40
+        },
+        "e2": {
+          "n": "22",
+          "h": 220
+        }
+      }
+    ]
+  },
+  "SJOJ": {
+    "e": 712,
+    "n": "Simasa Airport",
+    "mv": -20.93,
+    "c": "Imperatriz",
+    "runways": [
+      {
+        "s": "A",
+        "l": 3910,
+        "w": 71,
+        "e1": {
+          "n": "06",
+          "h": 80
+        },
+        "e2": {
+          "n": "24",
+          "h": 260
+        }
+      }
+    ]
+  },
+  "SJHX": {
+    "e": 910,
+    "n": "Frisama Açailândia Airport",
+    "mv": -20.95,
+    "c": "Imperatriz",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3066,
+        "w": 48,
+        "e1": {
+          "n": "26",
+          "h": 260
+        },
+        "e2": {
+          "n": "08",
+          "h": 80
+        }
+      }
+    ]
+  },
+  "SJGU": {
+    "e": 410,
+    "n": "Araguatins",
+    "mv": -20.85,
+    "runways": [
+      {
+        "s": "A",
+        "l": 4923,
+        "w": 94,
+        "e1": {
+          "n": "30",
+          "h": 304
+        },
+        "e2": {
+          "n": "12",
+          "h": 124
+        }
+      }
+    ]
+  },
+  "SJFB": {
+    "e": 1814,
+    "n": "Fazenda Bacuri Airport",
+    "mv": -21.67,
+    "c": "Balsas",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3282,
+        "w": 55,
+        "e1": {
+          "n": "27",
+          "h": 269
+        },
+        "e2": {
+          "n": "09",
+          "h": 89
+        }
+      }
+    ]
+  },
+  "SJRI": {
+    "e": 1824,
+    "n": "Condomínio Boa Esperança Airport",
+    "mv": -21.84,
+    "c": "Balsas",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4704,
+        "w": 105,
+        "e1": {
+          "n": "12",
+          "h": 116
+        },
+        "e2": {
+          "n": "30",
+          "h": 296
+        }
+      }
+    ]
+  },
+  "SJVW": {
+    "e": 1713,
+    "n": "Campos Gerais Airport",
+    "mv": -21.69,
+    "c": "Santa Luzia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3600,
+        "w": 97,
+        "e1": {
+          "n": "27",
+          "h": 274
+        },
+        "e2": {
+          "n": "09",
+          "h": 94
+        }
+      }
+    ]
+  },
+  "SJQZ": {
+    "e": 892,
+    "n": "Dona Iracema Airport",
+    "mv": -21.44,
+    "c": "Palmas",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3742,
+        "w": 82,
+        "e1": {
+          "n": "26",
+          "h": 255
+        },
+        "e2": {
+          "n": "08",
+          "h": 75
+        }
+      }
+    ]
+  },
+  "SJAI": {
+    "e": 1263,
+    "n": "Fazenda Davilândia Airport",
+    "mv": -21.55,
+    "c": "Porangatu",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2999,
+        "w": 74,
+        "e1": {
+          "n": "33",
+          "h": 334
+        },
+        "e2": {
+          "n": "15",
+          "h": 154
+        }
+      }
+    ]
+  },
+  "SJJL": {
+    "e": 2417,
+    "n": "Fazenda Campo Aberto Airport",
+    "mv": -22.35,
+    "c": "Taguatinga",
+    "runways": [
+      {
+        "s": "A",
+        "l": 4956,
+        "w": 96,
+        "e1": {
+          "n": "34",
+          "h": 341
+        },
+        "e2": {
+          "n": "16",
+          "h": 161
+        }
+      }
+    ]
+  },
+  "SJOY": {
+    "e": 2976,
+    "n": "Fazenda São Miguel Airport",
+    "mv": -22.13,
+    "c": "Taguatinga",
+    "runways": [
+      {
+        "s": "D",
+        "l": 5961,
+        "w": 123,
+        "e1": {
+          "n": "08",
+          "h": 85
+        },
+        "e2": {
+          "n": "26",
+          "h": 265
+        }
+      }
+    ]
+  },
+  "SJPK": {
+    "e": 2813,
+    "n": "Marcos Da Cunha Airport",
+    "mv": -22.14,
+    "c": "Taguatinga",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4845,
+        "w": 46,
+        "e1": {
+          "n": "35",
+          "h": 350
+        },
+        "e2": {
+          "n": "17",
+          "h": 170
+        }
+      }
+    ]
+  },
+  "SJZM": {
+    "e": 1329,
+    "n": "Carlos Alberto Pinto Airport",
+    "mv": -22.16,
+    "c": "Taguatinga",
+    "runways": [
+      {
+        "s": "D",
+        "l": 5282,
+        "w": 47,
+        "e1": {
+          "n": "20",
+          "h": 202
+        },
+        "e2": {
+          "n": "02",
+          "h": 382
+        }
+      }
+    ]
+  },
+  "SJWP": {
+    "e": 2651,
+    "n": "Warpol Airport",
+    "mv": -22.4,
+    "c": "Taguatinga",
+    "runways": [
+      {
+        "s": "D",
+        "l": 5153,
+        "w": 64,
+        "e1": {
+          "n": "09",
+          "h": 90
+        },
+        "e2": {
+          "n": "27",
+          "h": 270
+        }
+      }
+    ]
+  },
+  "SJEA": {
+    "e": 971,
+    "n": "Cadete 56-147 Santana Airport",
+    "mv": -21.53,
+    "c": "Alvorada",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3046,
+        "w": 59,
+        "e1": {
+          "n": "27",
+          "h": 266
+        },
+        "e2": {
+          "n": "09",
+          "h": 86
+        }
+      }
+    ]
+  },
+  "SJJO": {
+    "e": 1430,
+    "n": "João De Oliveira Bueno Airport",
+    "mv": -21.98,
+    "c": "Campos Belos",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2562,
+        "w": 68,
+        "e1": {
+          "n": "10",
+          "h": 96
+        },
+        "e2": {
+          "n": "28",
+          "h": 276
+        }
+      }
+    ]
+  },
+  "SJVV": {
+    "e": 2448,
+    "n": "Fazenda Catelani Airport",
+    "mv": -21.61,
+    "c": "Porangatu",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2729,
+        "w": 55,
+        "e1": {
+          "n": "18",
+          "h": 184
+        },
+        "e2": {
+          "n": "36",
+          "h": 364
+        }
+      }
+    ]
+  },
+  "SJTN": {
+    "e": 1739,
+    "n": "Fazenda Alvorada Do Caxingó Airport",
+    "mv": -22.17,
+    "c": "Campos Belos",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3129,
+        "w": 61,
+        "e1": {
+          "n": "13",
+          "h": 131
+        },
+        "e2": {
+          "n": "31",
+          "h": 311
+        }
+      }
+    ]
+  },
+  "SJAX": {
+    "e": 2699,
+    "n": "Fazenda Acalanto Airport",
+    "mv": -22.5,
+    "c": "Sao Domingos",
+    "runways": [
+      {
+        "s": "B",
+        "l": 4496,
+        "w": 73,
+        "e1": {
+          "n": "08",
+          "h": 76
+        },
+        "e2": {
+          "n": "26",
+          "h": 256
+        }
+      }
+    ]
+  },
+  "SJAZ": {
+    "e": 2785,
+    "n": "Fazenda Querubim Airport",
+    "mv": -22.09,
+    "c": "Taguatinga",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4587,
+        "w": 82,
+        "e1": {
+          "n": "10",
+          "h": 99
+        },
+        "e2": {
+          "n": "28",
+          "h": 279
+        }
+      }
+    ]
+  },
+  "SJEW": {
+    "e": 3153,
+    "n": "Fazenda Horita Airport",
+    "mv": -22.24,
+    "c": "Sao Domingos",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1890,
+        "w": 21,
+        "e1": {
+          "n": "12",
+          "h": 125
+        },
+        "e2": {
+          "n": "30",
+          "h": 305
+        }
+      }
+    ]
+  },
+  "SJEX": {
+    "e": 2966,
+    "n": "Fazenda Vitória Airport",
+    "mv": -22.27,
+    "c": "Sao Domingos",
+    "runways": [
+      {
+        "s": "D",
+        "l": 6490,
+        "w": 97,
+        "e1": {
+          "n": "03",
+          "h": 34
+        },
+        "e2": {
+          "n": "21",
+          "h": 214
+        }
+      }
+    ]
+  },
+  "SJFX": {
+    "e": 2799,
+    "n": "Fazenda Santo Ângelo Airport",
+    "mv": -22.09,
+    "c": "Taguatinga",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4449,
+        "w": 111,
+        "e1": {
+          "n": "04",
+          "h": 42
+        },
+        "e2": {
+          "n": "22",
+          "h": 222
+        }
+      }
+    ]
+  },
+  "SJMZ": {
+    "e": 2700,
+    "n": "Fazenda Mizote Airport",
+    "mv": -22.51,
+    "c": "Sao Domingos",
+    "runways": [
+      {
+        "s": "D",
+        "l": 6862,
+        "w": 279,
+        "e1": {
+          "n": "21",
+          "h": 214
+        },
+        "e2": {
+          "n": "03",
+          "h": 34
+        }
+      }
+    ]
+  },
+  "SJOX": {
+    "e": 3100,
+    "n": "Fazenda Brinquinho Airport",
+    "mv": -22.12,
+    "c": "Taguatinga",
+    "runways": [
+      {
+        "s": "D",
+        "l": 6240,
+        "w": 100,
+        "e1": {
+          "n": "09",
+          "h": 90
+        },
+        "e2": {
+          "n": "27",
+          "h": 270
+        }
+      }
+    ]
+  },
+  "SJGC": {
+    "e": 1201,
+    "n": "Fazenda Busato I Airport",
+    "mv": -22.4,
+    "c": "Sao Desiderio",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4040,
+        "w": 44,
+        "e1": {
+          "n": "09",
+          "h": 92
+        },
+        "e2": {
+          "n": "27",
+          "h": 272
+        }
+      }
+    ]
+  },
+  "SJGD": {
+    "e": 2799,
+    "n": "Fazenda Rio Brilhante Airport",
+    "mv": -22.42,
+    "c": "Taguatinga",
+    "runways": [
+      {
+        "s": "A",
+        "l": 5252,
+        "w": 65,
+        "e1": {
+          "n": "11",
+          "h": 110
+        },
+        "e2": {
+          "n": "29",
+          "h": 290
+        }
+      }
+    ]
+  },
+  "SJGY": {
+    "e": 1496,
+    "n": "Fazenda Barriguda Airport",
+    "mv": -22.24,
+    "c": "Iaciara",
+    "runways": [
+      {
+        "s": "G",
+        "l": 5027,
+        "w": 131,
+        "e1": {
+          "n": "30",
+          "h": 295
+        },
+        "e2": {
+          "n": "12",
+          "h": 115
+        }
+      }
+    ]
+  },
+  "SJUA": {
+    "e": 3136,
+    "n": "Fazenda Ipanema Airport",
+    "mv": -22.19,
+    "c": "Sao Domingos",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3552,
+        "w": 79,
+        "e1": {
+          "n": "22",
+          "h": 224
+        },
+        "e2": {
+          "n": "04",
+          "h": 44
+        }
+      }
+    ]
+  },
+  "SJUU": {
+    "e": 1450,
+    "n": "Fazenda Paraná Airport",
+    "mv": -22.14,
+    "c": "Iaciara",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3060,
+        "w": 112,
+        "e1": {
+          "n": "03",
+          "h": 29
+        },
+        "e2": {
+          "n": "21",
+          "h": 209
+        }
+      }
+    ]
+  },
+  "SJPI": {
+    "e": 2327,
+    "n": "Fazenda Pirapitinga Airport",
+    "mv": -21.63,
+    "c": "Padre Bernardo",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3160,
+        "w": 60,
+        "e1": {
+          "n": "02",
+          "h": 378
+        },
+        "e2": {
+          "n": "20",
+          "h": 198
+        }
+      }
+    ]
+  },
+  "SJPH": {
+    "e": 3306,
+    "n": "Fazenda Palma Airport",
+    "mv": -21.72,
+    "c": "Luziania",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2623,
+        "w": 46,
+        "e1": {
+          "n": "26",
+          "h": 262
+        },
+        "e2": {
+          "n": "08",
+          "h": 82
+        }
+      }
+    ]
+  },
+  "SJPQ": {
+    "e": 3198,
+    "n": "Avstal Airport",
+    "mv": -22,
+    "c": "Unai",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2509,
+        "w": 66,
+        "e1": {
+          "n": "17",
+          "h": 170
+        },
+        "e2": {
+          "n": "35",
+          "h": 350
+        }
+      }
+    ]
+  },
+  "SJAQ": {
+    "e": 3038,
+    "n": "Fazenda Renascença Airport",
+    "mv": -22.33,
+    "c": "Arinos",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4271,
+        "w": 82,
+        "e1": {
+          "n": "25",
+          "h": 246
+        },
+        "e2": {
+          "n": "07",
+          "h": 66
+        }
+      }
+    ]
+  },
+  "SJFW": {
+    "e": 2943,
+    "n": "Fazenda W. Egídio Iii Airport",
+    "mv": -22.29,
+    "c": "Buritis",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3108,
+        "w": 59,
+        "e1": {
+          "n": "27",
+          "h": 271
+        },
+        "e2": {
+          "n": "09",
+          "h": 91
+        }
+      }
+    ]
+  },
+  "SJCN": {
+    "e": 3533,
+    "n": "Aero Agrícola Cristalina Airport",
+    "mv": -22.02,
+    "c": "Cristalina",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2777,
+        "w": 82,
+        "e1": {
+          "n": "13",
+          "h": 132
+        },
+        "e2": {
+          "n": "31",
+          "h": 312
+        }
+      }
+    ]
+  },
+  "SJHS": {
+    "e": 2671,
+    "n": "Fazenda São Vicente Airport",
+    "mv": -21.47,
+    "c": "Uberlandia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4065,
+        "w": 99,
+        "e1": {
+          "n": "12",
+          "h": 118
+        },
+        "e2": {
+          "n": "30",
+          "h": 298
+        }
+      }
+    ]
+  },
+  "SJVL": {
+    "e": 2871,
+    "n": "Fazenda Cachoeirinha Airport",
+    "mv": -21.87,
+    "c": "Araxa",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3016,
+        "w": 120,
+        "e1": {
+          "n": "12",
+          "h": 124
+        },
+        "e2": {
+          "n": "30",
+          "h": 304
+        }
+      },
+      {
+        "s": "D",
+        "l": 2383,
+        "w": 97,
+        "e1": {
+          "n": "26",
+          "h": 260
+        },
+        "e2": {
+          "n": "08",
+          "h": 80
+        }
+      }
+    ]
+  },
+  "SJIT": {
+    "e": 2497,
+    "n": "Itau De Minas",
+    "mv": -22.12,
+    "runways": [
+      {
+        "s": "A",
+        "l": 4696,
+        "w": 58,
+        "e1": {
+          "n": "01",
+          "h": 368,
+          "o": 675
+        },
+        "e2": {
+          "n": "19",
+          "h": 188,
+          "o": 331
+        }
+      }
+    ]
+  },
+  "SJQV": {
+    "e": 1972,
+    "n": "Usina Santa Luiza Airport",
+    "mv": -21.17,
+    "c": "Guariba",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3302,
+        "w": 82,
+        "e1": {
+          "n": "28",
+          "h": 278,
+          "c": true
+        },
+        "e2": {
+          "n": "10",
+          "h": 98
+        }
+      }
+    ]
+  },
+  "SJCA": {
+    "e": 2037,
+    "n": "Comandante Vittorino Bonomi",
+    "mv": -21.58,
+    "c": null,
+    "runways": [
+      {
+        "s": "A",
+        "l": 6585,
+        "w": 111,
+        "e1": {
+          "n": "05",
+          "h": 44
+        },
+        "e2": {
+          "n": "23",
+          "h": 224,
+          "o": 1328
+        }
+      }
+    ]
+  },
+  "SJEH": {
+    "e": 2343,
+    "n": "Fazenda Santa Eliza Airport",
+    "mv": -21.18,
+    "c": "Ribeirao Bonito",
+    "runways": [
+      {
+        "s": "B",
+        "l": 3280,
+        "w": 77,
+        "e1": {
+          "n": "04",
+          "h": 47
+        },
+        "e2": {
+          "n": "22",
+          "h": 227
+        }
+      }
+    ]
+  },
+  "SJTK": {
+    "e": 2110,
+    "n": "Ecofly Airport",
+    "mv": -21.11,
+    "c": "Brotas",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1285,
+        "w": 59,
+        "e1": {
+          "n": "12",
+          "h": 123
+        },
+        "e2": {
+          "n": "30",
+          "h": 303
+        }
+      }
+    ]
+  },
+  "SJHF": {
+    "e": 1280,
+    "n": "Bunge Airport",
+    "mv": -21.79,
+    "c": "Urucui",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3343,
+        "w": 45,
+        "e1": {
+          "n": "07",
+          "h": 69
+        },
+        "e2": {
+          "n": "25",
+          "h": 249
+        }
+      }
+    ]
+  },
+  "SJZR": {
+    "e": 1293,
+    "n": "Fazenda Itália Airport",
+    "mv": -21.8,
+    "c": "Urucui",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3674,
+        "w": 82,
+        "e1": {
+          "n": "32",
+          "h": 322
+        },
+        "e2": {
+          "n": "14",
+          "h": 142
+        }
+      }
+    ]
+  },
+  "SJZS": {
+    "e": 1280,
+    "n": "Fazenda Canel Airport",
+    "mv": -21.82,
+    "c": "Urucui",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3239,
+        "w": 64,
+        "e1": {
+          "n": "14",
+          "h": 142
+        },
+        "e2": {
+          "n": "32",
+          "h": 322
+        }
+      }
+    ]
+  },
+  "SJZQ": {
+    "e": 1421,
+    "n": "Fazenda Monte Alegre Airport",
+    "mv": -22.33,
+    "c": "Formosa Do Rio Preto",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2562,
+        "w": 95,
+        "e1": {
+          "n": "15",
+          "h": 145
+        },
+        "e2": {
+          "n": "33",
+          "h": 325
+        }
+      }
+    ]
+  },
+  "SJZT": {
+    "e": 1499,
+    "n": "Fazenda Busato Ii Airport",
+    "mv": -22.81,
+    "c": "Bom Jesus Da Lapa",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4965,
+        "w": 105,
+        "e1": {
+          "n": "29",
+          "h": 289
+        },
+        "e2": {
+          "n": "11",
+          "h": 109
+        }
+      }
+    ]
+  },
+  "SJBU": {
+    "e": 1722,
+    "n": "Fazenda Baluarte Airport",
+    "mv": -22.79,
+    "c": "Pirapora",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4224,
+        "w": 98,
+        "e1": {
+          "n": "11",
+          "h": 115
+        },
+        "e2": {
+          "n": "29",
+          "h": 295
+        }
+      }
+    ]
+  },
+  "SJHW": {
+    "e": 2218,
+    "n": "Professor Maurício Joppert Airport",
+    "mv": -23.07,
+    "c": "Bocaiuva",
+    "runways": [
+      {
+        "s": "B",
+        "l": 3981,
+        "w": 57,
+        "e1": {
+          "n": "24",
+          "h": 239
+        },
+        "e2": {
+          "n": "06",
+          "h": 59
+        }
+      }
+    ]
+  },
+  "SJSK": {
+    "e": 2871,
+    "n": "Mário Spada Airport",
+    "mv": -23.33,
+    "c": "Capelinha",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4709,
+        "w": 71,
+        "e1": {
+          "n": "30",
+          "h": 302
+        },
+        "e2": {
+          "n": "12",
+          "h": 122
+        }
+      }
+    ]
+  },
+  "SJQT": {
+    "e": 4209,
+    "n": "Fazenda Haras Rpc Airport",
+    "mv": -22.99,
+    "c": "Itabirito",
+    "runways": [
+      {
+        "s": "A",
+        "l": 2134,
+        "w": 32,
+        "e1": {
+          "n": "16",
+          "h": 185
+        },
+        "e2": {
+          "n": "34",
+          "h": 365
+        }
+      }
+    ]
+  },
+  "SJJR": {
+    "e": 3795,
+    "n": "Fazenda Recreio Airport",
+    "mv": -22.61,
+    "c": "Andrelandia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3386,
+        "w": 113,
+        "e1": {
+          "n": "04",
+          "h": 43
+        },
+        "e2": {
+          "n": "22",
+          "h": 223
+        }
+      }
+    ]
+  },
+  "SJXM": {
+    "e": 3570,
+    "n": "Carolina De Assis Repetto Airport",
+    "mv": -23.01,
+    "c": "Lima Duarte",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3018,
+        "w": 74,
+        "e1": {
+          "n": "25",
+          "h": 248
+        },
+        "e2": {
+          "n": "07",
+          "h": 68
+        }
+      }
+    ]
+  },
+  "SJDS": {
+    "e": 151,
+    "n": "Fábrica Fortaleza Airport",
+    "mv": -20.8,
+    "c": "Itaitinga",
+    "runways": [
+      {
+        "s": "A",
+        "l": 5829,
+        "w": 95,
+        "e1": {
+          "n": "13",
+          "h": 129,
+          "o": 501
+        },
+        "e2": {
+          "n": "31",
+          "h": 309,
+          "o": 1322
+        }
+      }
+    ]
+  },
+  "SJPO": {
+    "e": 781,
+    "n": "Xingó Airport",
+    "mv": -22.4,
+    "c": "Caninde De Sao Francisco",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3509,
+        "w": 93,
+        "e1": {
+          "n": "34",
+          "h": 338
+        },
+        "e2": {
+          "n": "16",
+          "h": 158
+        }
+      }
+    ]
+  },
+  "SJCQ": {
+    "e": 1125,
+    "n": "Fazenda Serra Azul Airport",
+    "mv": -22.94,
+    "c": "Baixa Grande",
+    "runways": [
+      {
+        "s": "A",
+        "l": 5275,
+        "w": 73,
+        "e1": {
+          "n": "16",
+          "h": 158,
+          "o": 318
+        },
+        "e2": {
+          "n": "34",
+          "h": 338
+        }
+      }
+    ]
+  },
+  "SJIR": {
+    "e": 1732,
+    "n": "Engenheiro Joaquim Martins Airport",
+    "mv": -23.2,
+    "c": "Maracas",
+    "runways": [
+      {
+        "s": "A",
+        "l": 3940,
+        "w": 97,
+        "e1": {
+          "n": "01",
+          "h": 372
+        },
+        "e2": {
+          "n": "19",
+          "h": 192
+        }
+      }
+    ]
+  },
+  "SJXS": {
+    "e": 436,
+    "n": "Veracel Airport",
+    "mv": -23.71,
+    "c": "Santa Cruz Cabralia",
+    "runways": [
+      {
+        "s": "A",
+        "l": 4865,
+        "w": 86,
+        "e1": {
+          "n": "08",
+          "h": 72
+        },
+        "e2": {
+          "n": "26",
+          "h": 252
+        }
+      }
+    ]
+  },
+  "SJXC": {
+    "e": 410,
+    "n": "Usina Santa Cruz",
+    "mv": -23.71,
+    "runways": [
+      {
+        "s": "G",
+        "l": 4558,
+        "w": 155,
+        "e1": {
+          "n": "03",
+          "h": 30
+        },
+        "e2": {
+          "n": "21",
+          "h": 210
+        }
+      }
+    ]
+  },
+  "SJNQ": {
+    "e": 656,
+    "n": "Destilaria Medasa Airport",
+    "mv": -23.69,
+    "c": "Medeiros Neto",
+    "runways": [
+      {
+        "s": "CE",
+        "l": 4705,
+        "w": 266,
+        "e1": {
+          "n": "20",
+          "h": 198
+        },
+        "e2": {
+          "n": "02",
+          "h": 378
+        }
+      }
+    ]
+  },
+  "SJWU": {
+    "e": 516,
+    "n": "Fazenda Ideal Airport",
+    "mv": -23.74,
+    "c": "Nova Venecia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2613,
+        "w": 89,
+        "e1": {
+          "n": "24",
+          "h": 237
+        },
+        "e2": {
+          "n": "06",
+          "h": 57
+        }
+      }
+    ]
+  },
+  "SJFU": {
+    "e": 1715,
+    "n": "Tabuleiro Airport",
+    "mv": -21.23,
+    "c": "Bananeiras",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3624,
+        "w": 50,
+        "e1": {
+          "n": "04",
+          "h": 35
+        },
+        "e2": {
+          "n": "22",
+          "h": 215
+        }
+      }
+    ]
+  },
+  "SJBX": {
+    "e": 236,
+    "n": "Severino Lopes Airport",
+    "mv": -20.96,
+    "c": "Sao Jose De Mipibu",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3031,
+        "w": 55,
+        "e1": {
+          "n": "30",
+          "h": 304
+        },
+        "e2": {
+          "n": "12",
+          "h": 124
+        }
+      }
+    ]
+  },
+  "SJDJ": {
+    "e": 210,
+    "n": "Arenhart Airport",
+    "mv": -12.66,
+    "c": "Uruguaiana",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1893,
+        "w": 36,
+        "e1": {
+          "n": "12",
+          "h": 120
+        },
+        "e2": {
+          "n": "30",
+          "h": 300
+        }
+      }
+    ]
+  },
+  "SJDU": {
+    "e": 328,
+    "n": "Nossa Senhora Do Loreto Airport",
+    "mv": -13.9,
+    "c": "Paso De Los Libres",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1405,
+        "w": 34,
+        "e1": {
+          "n": "28",
+          "h": 279
+        },
+        "e2": {
+          "n": "10",
+          "h": 99
+        }
+      },
+      {
+        "s": "G",
+        "l": 1263,
+        "w": 124,
+        "e1": {
+          "n": "36R",
+          "h": 364
+        },
+        "e2": {
+          "n": "18L",
+          "h": 184
+        }
+      },
+      {
+        "s": "G",
+        "l": 1288,
+        "w": 94,
+        "e1": {
+          "n": "36C",
+          "h": 364
+        },
+        "e2": {
+          "n": "18C",
+          "h": 184
+        }
+      },
+      {
+        "s": "G",
+        "l": 1591,
+        "w": 82,
+        "e1": {
+          "n": "36L",
+          "h": 363
+        },
+        "e2": {
+          "n": "18R",
+          "h": 183
+        }
+      }
+    ]
+  },
+  "SJXX": {
+    "e": 1969,
+    "n": "Recreio Airport",
+    "mv": -17.09,
+    "c": "Pedro Juan Caballero",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2968,
+        "w": 126,
+        "e1": {
+          "n": "33",
+          "h": 334
+        },
+        "e2": {
+          "n": "15",
+          "h": 154
+        }
+      }
+    ]
+  },
+  "SJHA": {
+    "e": 1305,
+    "n": "Fazenda Janaína Airport",
+    "mv": -16.68,
+    "c": "Caarapo",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4012,
+        "w": 65,
+        "e1": {
+          "n": "19",
+          "h": 186
+        },
+        "e2": {
+          "n": "01",
+          "h": 366
+        }
+      }
+    ]
+  },
+  "SJSA": {
+    "e": 1220,
+    "n": "Fazenda Aimorés Airport",
+    "mv": -17.73,
+    "c": "Caarapo",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2905,
+        "w": 73,
+        "e1": {
+          "n": "26",
+          "h": 260
+        },
+        "e2": {
+          "n": "08",
+          "h": 80
+        }
+      }
+    ]
+  },
+  "SJXV": {
+    "e": 1256,
+    "n": "Fazenda Bela Vista Airport",
+    "mv": -16.75,
+    "c": "Caarapo",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2618,
+        "w": 17,
+        "e1": {
+          "n": "19",
+          "h": 187
+        },
+        "e2": {
+          "n": "01",
+          "h": 367
+        }
+      }
+    ]
+  },
+  "SJIF": {
+    "e": 1232,
+    "n": "Fazenda Nova Era Airport",
+    "mv": -17.5,
+    "c": "Costa Rica",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3601,
+        "w": 39,
+        "e1": {
+          "n": "22",
+          "h": 222
+        },
+        "e2": {
+          "n": "04",
+          "h": 42
+        }
+      }
+    ]
+  },
+  "SJDI": {
+    "e": 1152,
+    "n": "Fazenda Concórdia Airport",
+    "mv": -17.55,
+    "c": "Navirai",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2901,
+        "w": 56,
+        "e1": {
+          "n": "23",
+          "h": 235
+        },
+        "e2": {
+          "n": "05",
+          "h": 55
+        }
+      },
+      {
+        "s": "D",
+        "l": 2189,
+        "w": 66,
+        "e1": {
+          "n": "24",
+          "h": 235
+        },
+        "e2": {
+          "n": "06",
+          "h": 55
+        }
+      }
+    ]
+  },
+  "SJDD": {
+    "e": 876,
+    "n": "Fazenda Jumbo Airport",
+    "mv": -18.38,
+    "c": "Bataipora",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3285,
+        "w": 149,
+        "e1": {
+          "n": "10",
+          "h": 98
+        },
+        "e2": {
+          "n": "28",
+          "h": 278
+        }
+      }
+    ]
+  },
+  "SJWX": {
+    "e": 942,
+    "n": "Rio Alegre Airport",
+    "mv": -18.96,
+    "c": "Terra Rica",
+    "runways": [
+      {
+        "s": "A",
+        "l": 3644,
+        "w": 29,
+        "e1": {
+          "n": "27",
+          "h": 274
+        },
+        "e2": {
+          "n": "09",
+          "h": 94
+        }
+      }
+    ]
+  },
+  "SJFM": {
+    "e": 1148,
+    "n": "Fazenda Macuco Airport",
+    "mv": -17.29,
+    "c": "Eldorado",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3180,
+        "w": 74,
+        "e1": {
+          "n": "24",
+          "h": 239
+        },
+        "e2": {
+          "n": "06",
+          "h": 59
+        }
+      }
+    ]
+  },
+  "SJGO": {
+    "e": 1156,
+    "n": "Eldorado Airport",
+    "mv": -17.31,
+    "c": "Eldorado",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2830,
+        "w": 39,
+        "e1": {
+          "n": "15",
+          "h": 155
+        },
+        "e2": {
+          "n": "33",
+          "h": 335
+        }
+      }
+    ]
+  },
+  "SJMR": {
+    "e": 997,
+    "n": "Maragogipe Airport",
+    "mv": -17.52,
+    "c": "Eldorado",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3638,
+        "w": 57,
+        "e1": {
+          "n": "01",
+          "h": 369
+        },
+        "e2": {
+          "n": "19",
+          "h": 189
+        }
+      }
+    ]
+  },
+  "SJSL": {
+    "e": 1223,
+    "n": "Fazenda Santa Luiza Airport",
+    "mv": -18.17,
+    "c": "Porto Barra Do Ivinheima",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2547,
+        "w": 98,
+        "e1": {
+          "n": "36",
+          "h": 357
+        },
+        "e2": {
+          "n": "18",
+          "h": 177
+        }
+      }
+    ]
+  },
+  "SJSU": {
+    "e": 958,
+    "n": "Fazenda São Marcus Airport",
+    "mv": -18.14,
+    "c": "Altania",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2546,
+        "w": 82,
+        "e1": {
+          "n": "11",
+          "h": 107
+        },
+        "e2": {
+          "n": "29",
+          "h": 287
+        }
+      }
+    ]
+  },
+  "SJGH": {
+    "e": 299,
+    "n": "Aeropel Airport",
+    "mv": -15.11,
+    "c": "Sao Borja",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2153,
+        "w": 125,
+        "e1": {
+          "n": "25",
+          "h": 254
+        },
+        "e2": {
+          "n": "07",
+          "h": 74
+        }
+      }
+    ]
+  },
+  "SJIV": {
+    "e": 259,
+    "n": "São João Airport",
+    "mv": -14.22,
+    "c": "Alvear",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1770,
+        "w": 52,
+        "e1": {
+          "n": "07",
+          "h": 65
+        },
+        "e2": {
+          "n": "25",
+          "h": 245
+        }
+      }
+    ]
+  },
+  "SJWG": {
+    "e": 328,
+    "n": "Itagro Airport",
+    "mv": -14.55,
+    "c": "Alegrete",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2221,
+        "w": 49,
+        "e1": {
+          "n": "07",
+          "h": 74
+        },
+        "e2": {
+          "n": "25",
+          "h": 254
+        }
+      }
+    ]
+  },
+  "SJHK": {
+    "e": 433,
+    "n": "Música Airport",
+    "mv": -13.64,
+    "c": "Dom Pedrito",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3145,
+        "w": 82,
+        "e1": {
+          "n": "16",
+          "h": 162
+        },
+        "e2": {
+          "n": "34",
+          "h": 342
+        }
+      }
+    ]
+  },
+  "SJXA": {
+    "e": 869,
+    "n": "Aeromis Airport",
+    "mv": -14.57,
+    "c": "Bage",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1801,
+        "w": 81,
+        "e1": {
+          "n": "36",
+          "h": 358
+        },
+        "e2": {
+          "n": "18",
+          "h": 178
+        }
+      }
+    ]
+  },
+  "SJEN": {
+    "e": 10,
+    "n": "Pista Pla E Silva Airport",
+    "mv": -14.67,
+    "c": "Santa Vitoria Do Palmar",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3444,
+        "w": 133,
+        "e1": {
+          "n": "33",
+          "h": 329
+        },
+        "e2": {
+          "n": "15",
+          "h": 149
+        }
+      }
+    ]
+  },
+  "SJTL": {
+    "e": 1804,
+    "n": "Aero Agrícola Gaivota Airport",
+    "mv": -19.45,
+    "c": "Centenario Do Sul",
+    "runways": [
+      {
+        "s": "A",
+        "l": 2940,
+        "w": 60,
+        "e1": {
+          "n": "11",
+          "h": 112
+        },
+        "e2": {
+          "n": "29",
+          "h": 292
+        }
+      }
+    ]
+  },
+  "SJBW": {
+    "e": 1243,
+    "n": "Fazenda Barbacena Airport",
+    "mv": -19.37,
+    "c": "Jandaia Do Sul",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2486,
+        "w": 68,
+        "e1": {
+          "n": "17",
+          "h": 171
+        },
+        "e2": {
+          "n": "35",
+          "h": 351
+        }
+      }
+    ]
+  },
+  "SJUL": {
+    "e": 2195,
+    "n": "Fazenda Rio Pardo Airport",
+    "mv": -20.31,
+    "c": "Cerqueira Cesar",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3627,
+        "w": 110,
+        "e1": {
+          "n": "03",
+          "h": 34
+        },
+        "e2": {
+          "n": "21",
+          "h": 214
+        }
+      }
+    ]
+  },
+  "SJWN": {
+    "e": 2070,
+    "n": "Fazenda Santa Dulcina Airport",
+    "mv": -20.31,
+    "c": "Taquarituba",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2625,
+        "w": 89,
+        "e1": {
+          "n": "25",
+          "h": 253
+        },
+        "e2": {
+          "n": "07",
+          "h": 73
+        }
+      }
+    ]
+  },
+  "SJTI": {
+    "e": 2716,
+    "n": "Fazenda Iapó Airport",
+    "mv": -19.58,
+    "c": "Tibagi",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3543,
+        "w": 93,
+        "e1": {
+          "n": "28",
+          "h": 283
+        },
+        "e2": {
+          "n": "10",
+          "h": 103
+        }
+      }
+    ]
+  },
+  "SJIO": {
+    "e": 3758,
+    "n": "Guararapes Airport",
+    "mv": -18.79,
+    "c": "Santa Cecilia",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2719,
+        "w": 117,
+        "e1": {
+          "n": "20",
+          "h": 204
+        },
+        "e2": {
+          "n": "02",
+          "h": 24
+        }
+      }
+    ]
+  },
+  "SJHN": {
+    "e": 3120,
+    "n": "Fazenda Belluno Airport",
+    "mv": -19.03,
+    "c": "Anitapolis",
+    "runways": [
+      {
+        "s": "CE",
+        "l": 3286,
+        "w": 127,
+        "e1": {
+          "n": "17",
+          "h": 165
+        },
+        "e2": {
+          "n": "35",
+          "h": 345
+        }
+      }
+    ]
+  },
+  "SJGF": {
+    "e": 154,
+    "n": "Aeródromo Nova Era Airport",
+    "mv": -16.39,
+    "c": "Rio Pardo",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1428,
+        "w": 135,
+        "e1": {
+          "n": "17",
+          "h": 175
+        },
+        "e2": {
+          "n": "35",
+          "h": 355
+        }
+      }
+    ]
+  },
+  "SJZA": {
+    "e": 98,
+    "n": "Tapes Airport",
+    "mv": -16.8,
+    "c": "Tapes",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2867,
+        "w": 55,
+        "e1": {
+          "n": "12",
+          "h": 118
+        },
+        "e2": {
+          "n": "30",
+          "h": 298
+        }
+      }
+    ]
+  },
+  "SJGX": {
+    "e": 6,
+    "n": "Da Praia Velha Airport",
+    "mv": -16.55,
+    "c": "Camaqua",
+    "runways": [
+      {
+        "s": "CE",
+        "l": 2329,
+        "w": 22,
+        "e1": {
+          "n": "14",
+          "h": 145
+        },
+        "e2": {
+          "n": "32",
+          "h": 325
+        }
+      },
+      {
+        "s": "G",
+        "l": 1327,
+        "w": 31,
+        "e1": {
+          "n": "28",
+          "h": 281
+        },
+        "e2": {
+          "n": "10",
+          "h": 101
+        }
+      }
+    ]
+  },
+  "SJRG": {
+    "e": 26,
+    "n": "Rio Grande",
+    "mv": -15.65,
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 131.8,
+        "n": "RIOGRANDE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 4915,
+        "w": 93,
+        "e1": {
+          "n": "24",
+          "h": 240
+        },
+        "e2": {
+          "n": "06",
+          "h": 60
+        }
+      }
+    ]
+  },
+  "SJFQ": {
+    "e": 2440,
+    "n": "Fazenda Quatrirmãs Airport",
+    "mv": -21,
+    "c": "Itatinga",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3289,
+        "w": 101,
+        "e1": {
+          "n": "14",
+          "h": 143
+        },
+        "e2": {
+          "n": "32",
+          "h": 323
+        }
+      }
+    ]
+  },
+  "SJZW": {
+    "e": 2044,
+    "n": "Fazenda Regina Airport",
+    "mv": -20.82,
+    "c": "Paranapanema",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3276,
+        "w": 59,
+        "e1": {
+          "n": "16",
+          "h": 165
+        },
+        "e2": {
+          "n": "34",
+          "h": 345
+        }
+      }
+    ]
+  },
+  "SJSH": {
+    "e": 26,
+    "n": "Sonhar Airport",
+    "mv": -19.78,
+    "c": "Tijucas",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4171,
+        "w": 68,
+        "e1": {
+          "n": "05",
+          "h": 47
+        },
+        "e2": {
+          "n": "23",
+          "h": 227
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "4Y9": {
+    "e": 984,
+    "n": "Eagles Landing",
+    "mv": -6.13,
+    "c": "Harrietta",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "BUNCH'SHALFACRE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "BUNCH'SHALFACRE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 2397,
+        "w": 96,
+        "e1": {
+          "n": "26",
+          "h": 266
+        },
+        "e2": {
+          "n": "08",
+          "h": 86
+        }
+      }
+    ]
+  },
+  "4Y4": {
+    "e": 1281,
+    "n": "Lakes Of The North",
+    "mv": -6.7,
+    "c": "Gaylord",
+    "freqs": [
+      {
+        "t": "FSS",
+        "f": 122.55,
+        "n": "LANSING"
+      },
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "LAKESOFTHENORTH"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "LAKESOFTHENORTH"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 4222,
+        "w": 46,
+        "e1": {
+          "n": "24",
+          "h": 238
+        },
+        "e2": {
+          "n": "06",
+          "h": 58
+        }
+      }
+    ]
+  },
+  "4Y8": {
+    "e": 800,
+    "n": "Para Field Airport",
+    "mv": -8.18,
+    "c": "Yale",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "PARAFIELDAIRPORT"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "PARAFIELDAIRPORT"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 2484,
+        "w": 121,
+        "e1": {
+          "n": "25",
+          "h": 248
+        },
+        "e2": {
+          "n": "07",
+          "h": 68
+        }
+      }
+    ]
+  },
+  "4Y1": {
+    "e": 984,
+    "n": "Raether",
+    "mv": -7.2,
+    "c": "Howell",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "RAETHER"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "RAETHER"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 2181,
+        "w": 71,
+        "e1": {
+          "n": "35",
+          "h": 352
+        },
+        "e2": {
+          "n": "17",
+          "h": 172
+        }
+      }
+    ]
+  }
+}

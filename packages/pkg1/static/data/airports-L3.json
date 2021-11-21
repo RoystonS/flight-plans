@@ -1,0 +1,267 @@
+{
+  "L36": {
+    "e": 45,
+    "n": "Rio Linda",
+    "mv": 13.28,
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "ACTIVATELIGHTSONLY"
+      },
+      {
+        "t": "UC",
+        "f": 123,
+        "n": "RIOLINDA"
+      },
+      {
+        "t": "CTAF",
+        "f": 123,
+        "n": "RIOLINDA"
+      }
+    ],
+    "runways": [
+      {
+        "s": "B",
+        "l": 2705,
+        "w": 35,
+        "e1": {
+          "n": "17",
+          "h": 171
+        },
+        "e2": {
+          "n": "35",
+          "h": -9
+        }
+      }
+    ]
+  },
+  "L35": {
+    "e": 6751,
+    "n": "Big Bear City",
+    "mv": 11.31,
+    "c": "Big Bear",
+    "freqs": [
+      {
+        "t": "CTR",
+        "f": 126.35,
+        "n": "LOSANGELES"
+      },
+      {
+        "t": "AWOS",
+        "f": 135.925,
+        "n": null
+      },
+      {
+        "t": "UC",
+        "f": 123.05,
+        "n": "BIGBEARCITY"
+      },
+      {
+        "t": "CTAF",
+        "f": 123.05,
+        "n": "BIGBEARCITY"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 5845,
+        "w": 72,
+        "e1": {
+          "n": "08",
+          "h": 78,
+          "o": 370
+        },
+        "e2": {
+          "n": "26",
+          "h": 258,
+          "o": 600
+        }
+      }
+    ]
+  },
+  "L37": {
+    "e": 5391,
+    "n": "Grand Canyon Caverns",
+    "mv": 10.76,
+    "c": "Peach Springs",
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "GRANDCANYONCAVERNS"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "GRANDCANYONCAVERNS"
+      }
+    ],
+    "runways": [
+      {
+        "s": "CE",
+        "l": 5069,
+        "w": 35,
+        "e1": {
+          "n": "23",
+          "h": 234
+        },
+        "e2": {
+          "n": "05",
+          "h": 54
+        }
+      }
+    ]
+  },
+  "L39": {
+    "e": 273,
+    "n": "Leesville",
+    "mv": 1,
+    "freqs": [
+      {
+        "t": "A",
+        "f": 123.7,
+        "n": "POLK"
+      },
+      {
+        "t": "D",
+        "f": 123.7,
+        "n": "POLK"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "LEESVILLE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "LEESVILLE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3810,
+        "w": 85,
+        "e1": {
+          "n": "18",
+          "h": 179
+        },
+        "e2": {
+          "n": "36",
+          "h": 359
+        }
+      }
+    ]
+  },
+  "L33": {
+    "e": 74,
+    "n": "Tensas Parish",
+    "mv": -0.55,
+    "c": "St Joseph",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "TENSASPARISH"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "TENSASPARISH"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3500,
+        "w": 79,
+        "e1": {
+          "n": "16",
+          "h": 161
+        },
+        "e2": {
+          "n": "34",
+          "h": 341
+        }
+      }
+    ]
+  },
+  "L32": {
+    "e": 55,
+    "n": "Jonesville",
+    "mv": -0.31,
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "JONESVILLE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "JONESVILLE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 2999,
+        "w": 72,
+        "e1": {
+          "n": "06",
+          "h": 60
+        },
+        "e2": {
+          "n": "24",
+          "h": 240
+        }
+      }
+    ]
+  },
+  "L31": {
+    "e": 38,
+    "n": "St Tammany Rgnl",
+    "mv": -1.62,
+    "c": "Covington",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 133.15,
+        "n": "NEWORLEANS"
+      },
+      {
+        "t": "D",
+        "f": 133.15,
+        "n": "NEWORLEANS"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "STTAMMANYREGL"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "STTAMMANYREGL"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 2959,
+        "w": 75,
+        "e1": {
+          "n": "18",
+          "h": 182
+        },
+        "e2": {
+          "n": "36",
+          "h": 362
+        }
+      }
+    ]
+  }
+}

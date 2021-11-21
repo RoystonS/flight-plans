@@ -1,0 +1,35 @@
+{
+  "1Z1": {
+    "e": 4100,
+    "n": "Grand Canyon Bar Ten Airstrip",
+    "mv": 10.93,
+    "c": "Whitmore",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "GRANDCANYONBARTEN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "GRANDCANYONBARTEN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3553,
+        "w": 36,
+        "e1": {
+          "n": "16",
+          "h": 165
+        },
+        "e2": {
+          "n": "34",
+          "h": 345
+        }
+      }
+    ]
+  }
+}

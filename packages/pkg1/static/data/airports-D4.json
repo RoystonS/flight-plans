@@ -1,0 +1,160 @@
+{
+  "D49": {
+    "e": 1931,
+    "n": "Columbus Mun",
+    "mv": 7.22,
+    "c": "Columbus",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "COLUMBUSMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "COLUMBUSMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 2178,
+        "w": 109,
+        "e1": {
+          "n": "08",
+          "h": 83
+        },
+        "e2": {
+          "n": "26",
+          "h": 263
+        }
+      }
+    ]
+  },
+  "D41": {
+    "e": 830,
+    "n": "Stephen Mun",
+    "mv": 2.42,
+    "c": "Stephen",
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 122.7,
+        "n": "STEPHENMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.7,
+        "n": "STEPHENMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 2702,
+        "w": 54,
+        "e1": {
+          "n": "17",
+          "h": 174
+        },
+        "e2": {
+          "n": "35",
+          "h": 354
+        }
+      }
+    ]
+  },
+  "D47": {
+    "e": 4272,
+    "n": "Cougar Ranch",
+    "mv": 12.82,
+    "c": "Challis",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1370,
+        "w": 37,
+        "e1": {
+          "n": "02",
+          "h": 19
+        },
+        "e2": {
+          "n": "20",
+          "h": 199
+        }
+      }
+    ]
+  },
+  "D42": {
+    "e": 1069,
+    "n": "Springfield Mun",
+    "mv": 0.89,
+    "c": "Springfield",
+    "freqs": [
+      {
+        "t": "CTR",
+        "f": 127.1,
+        "n": "MINNEAPOLIS"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "SPRINGFIELDMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "SPRINGFIELDMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3398,
+        "w": 74,
+        "e1": {
+          "n": "31",
+          "h": 311
+        },
+        "e2": {
+          "n": "13",
+          "h": 131
+        }
+      }
+    ]
+  },
+  "D48": {
+    "e": 1010,
+    "n": "Dundee Flying Club",
+    "mv": -11.75,
+    "c": "Dundee",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "DUNDEEFLYINGCLUB"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "DUNDEEFLYINGCLUB"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 1736,
+        "w": 49,
+        "e1": {
+          "n": "19",
+          "h": 193
+        },
+        "e2": {
+          "n": "01",
+          "h": 13
+        }
+      }
+    ]
+  }
+}

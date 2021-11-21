@@ -1,0 +1,176 @@
+{
+  "K29": {
+    "e": 94,
+    "n": "Council",
+    "mv": 9.54,
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "COUNCIL"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "COUNCIL"
+      }
+    ],
+    "runways": [
+      {
+        "s": "D",
+        "l": 3341,
+        "w": 92,
+        "e1": {
+          "n": "28",
+          "h": 287
+        },
+        "e2": {
+          "n": "10",
+          "h": 107
+        }
+      }
+    ]
+  },
+  "K26": {
+    "e": 669,
+    "n": "Carrollton Meml",
+    "mv": 0.6,
+    "c": "Carrollton",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "CARROLLTONMEML"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "CARROLLTONMEML"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 2588,
+        "w": 50,
+        "e1": {
+          "n": "18",
+          "h": 180
+        },
+        "e2": {
+          "n": "36",
+          "h": 0
+        }
+      }
+    ]
+  },
+  "K24": {
+    "e": 984,
+    "n": "Russell County",
+    "mv": -4.69,
+    "c": "Jamestown",
+    "freqs": [
+      {
+        "t": "CTR",
+        "f": 121.325,
+        "n": "INDIANAPOLIS"
+      },
+      {
+        "t": "AWOS",
+        "f": 118.425,
+        "n": null
+      },
+      {
+        "t": "UC",
+        "f": 123,
+        "n": "RUSSELLCO"
+      },
+      {
+        "t": "CTAF",
+        "f": 123,
+        "n": "RUSSELLCO"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 4962,
+        "w": 74,
+        "e1": {
+          "n": "35",
+          "h": 360
+        },
+        "e2": {
+          "n": "17",
+          "h": 180
+        }
+      }
+    ]
+  },
+  "K27": {
+    "e": 193,
+    "n": "Burrello-Mechanicville",
+    "mv": -13.32,
+    "c": "Mechanicville",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "BURRELLO-MECHANICVILLE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "BURRELLO-MECHANICVILLE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 1772,
+        "w": 18,
+        "e1": {
+          "n": "14",
+          "h": 139
+        },
+        "e2": {
+          "n": "32",
+          "h": 319
+        }
+      }
+    ]
+  },
+  "K23": {
+    "e": 1260,
+    "n": "Cooperstown-Westville",
+    "mv": -12.8,
+    "c": "Cooperstown",
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "COOPERSTOWN-WESTVILLE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "COOPERSTOWN-WESTVILLE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 2334,
+        "w": 115,
+        "e1": {
+          "n": "02",
+          "h": 22
+        },
+        "e2": {
+          "n": "20",
+          "h": 202
+        }
+      }
+    ]
+  }
+}

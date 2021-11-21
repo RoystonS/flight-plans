@@ -1,0 +1,35 @@
+{
+  "5QC": {
+    "e": 416,
+    "n": "Quartz Creek Kougarok",
+    "mv": 9.12,
+    "c": "Quartz Creek",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "QUARTZCREEKKOUGAROK"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "QUARTZCREEKKOUGAROK"
+      }
+    ],
+    "runways": [
+      {
+        "s": "D",
+        "l": 3295,
+        "w": 97,
+        "e1": {
+          "n": "31",
+          "h": 308
+        },
+        "e2": {
+          "n": "13",
+          "h": 128
+        }
+      }
+    ]
+  }
+}

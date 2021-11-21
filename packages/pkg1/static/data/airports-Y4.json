@@ -1,0 +1,183 @@
+{
+  "Y49": {
+    "e": 1345,
+    "n": "Walker Mun",
+    "mv": 0.8,
+    "c": "Walker",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "WALKERMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "WALKERMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3215,
+        "w": 79,
+        "e1": {
+          "n": "15",
+          "h": 148
+        },
+        "e2": {
+          "n": "33",
+          "h": 328
+        }
+      }
+    ]
+  },
+  "Y43": {
+    "e": 1240,
+    "n": "Anita Mun-Burke Meml",
+    "mv": 1.21,
+    "c": "Anita",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "ANITAMUN-BURKEMEML"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "ANITAMUN-BURKEMEML"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 2867,
+        "w": 91,
+        "e1": {
+          "n": "23",
+          "h": 236
+        },
+        "e2": {
+          "n": "05",
+          "h": 56
+        }
+      }
+    ]
+  },
+  "Y46": {
+    "e": 1201,
+    "n": "Bedford Mun",
+    "mv": 1.32,
+    "c": "Bedford",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "BEDFORDMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "BEDFORDMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 2779,
+        "w": 82,
+        "e1": {
+          "n": "19",
+          "h": 186
+        },
+        "e2": {
+          "n": "01",
+          "h": 6
+        }
+      }
+    ]
+  },
+  "Y48": {
+    "e": 1201,
+    "n": "Belmond Mun",
+    "mv": 0.46,
+    "c": "Belmond",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "BELMONDMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "BELMONDMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 3301,
+        "w": 121,
+        "e1": {
+          "n": "18",
+          "h": 179
+        },
+        "e2": {
+          "n": "36",
+          "h": 359
+        }
+      }
+    ]
+  },
+  "Y47": {
+    "e": 924,
+    "n": "New Hudson",
+    "mv": -7.22,
+    "freqs": [
+      {
+        "t": "A",
+        "f": 127.5,
+        "n": "DETROIT"
+      },
+      {
+        "t": "D",
+        "f": 127.5,
+        "n": "DETROIT"
+      },
+      {
+        "t": "RCD",
+        "f": 121.725,
+        "n": "DETROITCLEARANCEDELIVER"
+      },
+      {
+        "t": "UC",
+        "f": 122.7,
+        "n": "OAKLANDSOUTHWEST"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.7,
+        "n": "OAKLANDSOUTHWEST"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3113,
+        "w": 33,
+        "e1": {
+          "n": "08",
+          "h": 78,
+          "o": 859
+        },
+        "e2": {
+          "n": "26",
+          "h": 258,
+          "o": 859
+        }
+      }
+    ]
+  }
+}

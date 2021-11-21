@@ -1,0 +1,90 @@
+{
+  "O79": {
+    "e": 4967,
+    "n": "Sierraville Dearwater",
+    "mv": 13.29,
+    "c": "Sierraville",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "SIERRAVILLEDEARWATER"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "SIERRAVILLEDEARWATER"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3087,
+        "w": 46,
+        "e1": {
+          "n": "03",
+          "h": 36,
+          "o": 2893
+        },
+        "e2": {
+          "n": "21",
+          "h": 216
+        }
+      }
+    ]
+  },
+  "O77": {
+    "e": 4177,
+    "n": "Schurtz Airport",
+    "mv": 12.8,
+    "c": "California",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1625,
+        "w": 52,
+        "e1": {
+          "n": "25",
+          "h": 247
+        },
+        "e2": {
+          "n": "07",
+          "h": 67
+        }
+      }
+    ]
+  },
+  "O74": {
+    "e": 1045,
+    "n": "Elliotts Landing",
+    "mv": -6.88,
+    "c": "Mt Victory",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "ELLIOTTSLANDING"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "ELLIOTTSLANDING"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 2753,
+        "w": 128,
+        "e1": {
+          "n": "16",
+          "h": 163
+        },
+        "e2": {
+          "n": "34",
+          "h": 343
+        }
+      }
+    ]
+  }
+}

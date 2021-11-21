@@ -1,0 +1,216 @@
+{
+  "T42": {
+    "e": 2781,
+    "n": "Ruth",
+    "mv": 13.96,
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "RUTH"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "RUTH"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3499,
+        "w": 55,
+        "e1": {
+          "n": "31",
+          "h": 317
+        },
+        "e2": {
+          "n": "13",
+          "h": 137
+        }
+      }
+    ]
+  },
+  "T45": {
+    "e": 3451,
+    "n": "Panhandle-Carson Co",
+    "mv": 5.71,
+    "c": "Panhandle",
+    "freqs": [
+      {
+        "t": "CTR",
+        "f": 127.85,
+        "n": "ALBUQUERQUE"
+      },
+      {
+        "t": "A",
+        "f": 119.5,
+        "n": "AMARILLO"
+      },
+      {
+        "t": "D",
+        "f": 119.5,
+        "n": "AMARILLO"
+      },
+      {
+        "t": "MC",
+        "f": 123.5,
+        "n": "ACTIVATELIGHTSONLY"
+      },
+      {
+        "t": "UC",
+        "f": 122.7,
+        "n": "PANHANDLE-CARSONCO"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.7,
+        "n": "PANHANDLE-CARSONCO"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 4362,
+        "w": 50,
+        "e1": {
+          "n": "17",
+          "h": 174
+        },
+        "e2": {
+          "n": "35",
+          "h": 354
+        }
+      }
+    ]
+  },
+  "T40": {
+    "e": 731,
+    "n": "Mcgehee Catfish Restaurant",
+    "mv": 3.2,
+    "c": "Marietta",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "MCGEHEECATFISHRESTAURA"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "MCGEHEECATFISHRESTAURA"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 2364,
+        "w": 43,
+        "e1": {
+          "n": "36",
+          "h": 0
+        },
+        "e2": {
+          "n": "18",
+          "h": 180
+        }
+      }
+    ]
+  },
+  "T48": {
+    "e": 500,
+    "n": "Phillips Flying Ranch",
+    "mv": 2.62,
+    "c": "Rockwall",
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 123,
+        "n": "PHILLIPSFLYINGRANCH"
+      },
+      {
+        "t": "CTAF",
+        "f": 123,
+        "n": "PHILLIPSFLYINGRANCH"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 2685,
+        "w": 51,
+        "e1": {
+          "n": "13",
+          "h": 133
+        },
+        "e2": {
+          "n": "31",
+          "h": 313
+        }
+      }
+    ]
+  },
+  "T41": {
+    "e": 24,
+    "n": "La Porte Muni",
+    "mv": 2.1,
+    "c": "La Porte",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 134.45,
+        "n": "HOUSTON"
+      },
+      {
+        "t": "C",
+        "f": 125.6,
+        "n": "HOUSTON"
+      },
+      {
+        "t": "D",
+        "f": 134.45,
+        "n": "HOUSTON"
+      },
+      {
+        "t": "UC",
+        "f": 122.7,
+        "n": "LAPORTEMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.7,
+        "n": "LAPORTEMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 4159,
+        "w": 60,
+        "e1": {
+          "n": "12",
+          "h": 124,
+          "o": 187
+        },
+        "e2": {
+          "n": "30",
+          "h": 304,
+          "o": 400
+        }
+      },
+      {
+        "s": "A",
+        "l": 2996,
+        "w": 75,
+        "e1": {
+          "n": "05",
+          "h": 49
+        },
+        "e2": {
+          "n": "23",
+          "h": 229
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "Y37": {
+    "e": 1095,
+    "n": "Park River-Skjerven",
+    "mv": 3.21,
+    "c": "Park River",
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "PARKRIVER-SKJERVEN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "PARKRIVER-SKJERVEN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3081,
+        "w": 56,
+        "e1": {
+          "n": "13",
+          "h": 131
+        },
+        "e2": {
+          "n": "31",
+          "h": 311
+        }
+      },
+      {
+        "s": "G",
+        "l": 2590,
+        "w": 92,
+        "e1": {
+          "n": "04",
+          "h": 40
+        },
+        "e2": {
+          "n": "22",
+          "h": 220
+        }
+      }
+    ]
+  },
+  "Y34": {
+    "e": 1725,
+    "n": "Lake Preston Mun",
+    "mv": 3.39,
+    "c": "Lake Preston",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "LAKEPRESTON"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "LAKEPRESTON"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 2332,
+        "w": 281,
+        "e1": {
+          "n": "13",
+          "h": 131
+        },
+        "e2": {
+          "n": "31",
+          "h": 311
+        }
+      }
+    ]
+  },
+  "Y30": {
+    "e": 690,
+    "n": "Pbeaaye",
+    "mv": -7.06,
+    "c": "Topinabee",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "PBEAAYE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "PBEAAYE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 3107,
+        "w": 99,
+        "e1": {
+          "n": "19",
+          "h": 187
+        },
+        "e2": {
+          "n": "01",
+          "h": 7
+        }
+      }
+    ]
+  },
+  "Y31": {
+    "e": 871,
+    "n": "West Branch Community",
+    "mv": -6.68,
+    "c": "West Branch",
+    "freqs": [
+      {
+        "t": "CTR",
+        "f": 118.525,
+        "n": "MINNEAPOLIS"
+      },
+      {
+        "t": "FSS",
+        "f": 122.35,
+        "n": "LANSING"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "WESTBRANCHCOMMUNITY"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "WESTBRANCHCOMMUNITY"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 4990,
+        "w": 82,
+        "e1": {
+          "n": "09",
+          "h": 96
+        },
+        "e2": {
+          "n": "27",
+          "h": 276
+        }
+      }
+    ]
+  }
+}

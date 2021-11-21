@@ -1,0 +1,74 @@
+{
+  "H19": {
+    "e": 879,
+    "n": "Bowling Green Mun",
+    "mv": -0.8,
+    "c": "Bowling Green",
+    "freqs": [
+      {
+        "t": "CTR",
+        "f": 135.525,
+        "n": "KANSASCITY"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "BOWLINGGREENMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "BOWLINGGREENMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3195,
+        "w": 44,
+        "e1": {
+          "n": "31",
+          "h": 315
+        },
+        "e2": {
+          "n": "13",
+          "h": 135
+        }
+      }
+    ]
+  },
+  "H17": {
+    "e": 1148,
+    "n": "Buffalo Mun",
+    "mv": 0.59,
+    "c": "Buffalo",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "BUFFALOMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "BUFFALOMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "B",
+        "l": 3220,
+        "w": 46,
+        "e1": {
+          "n": "04",
+          "h": 34,
+          "o": 278
+        },
+        "e2": {
+          "n": "22",
+          "h": 214
+        }
+      }
+    ]
+  }
+}

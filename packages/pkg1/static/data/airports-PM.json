@@ -1,0 +1,56 @@
+{
+  "PMDY": {
+    "e": 9,
+    "n": "Henderson Field",
+    "mv": 7.26,
+    "c": "Midway Atoll, Sand I",
+    "freqs": [
+      {
+        "t": "AWOS",
+        "f": 118.325,
+        "n": null
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "HENDERSONFIELD"
+      }
+    ],
+    "runways": [
+      {
+        "s": "B",
+        "l": 7792,
+        "w": 142,
+        "e1": {
+          "n": "06",
+          "h": 61
+        },
+        "e2": {
+          "n": "24",
+          "h": 241
+        }
+      }
+    ]
+  },
+  "PMM": {
+    "e": 161,
+    "n": "Phanom Sarakham Airport",
+    "mv": -0.79,
+    "c": "Phanom Sarakham",
+    "runways": [
+      {
+        "s": "A",
+        "l": 2368,
+        "w": 75,
+        "e1": {
+          "n": "28",
+          "h": 279
+        },
+        "e2": {
+          "n": "10",
+          "h": 99
+        }
+      }
+    ]
+  }
+}

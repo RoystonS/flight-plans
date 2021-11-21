@@ -1,0 +1,183 @@
+{
+  "3Y7": {
+    "e": 2384,
+    "n": "Isabel Muni",
+    "mv": 6.22,
+    "c": "Isabel",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "ISABELMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "ISABELMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 3039,
+        "w": 150,
+        "e1": {
+          "n": "13",
+          "h": 136
+        },
+        "e2": {
+          "n": "31",
+          "h": 316
+        }
+      }
+    ]
+  },
+  "3Y0": {
+    "e": 1225,
+    "n": "Wall Lake Mun",
+    "mv": 2.08,
+    "c": "Wall Lake",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "WALLLAKEMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "WALLLAKEMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 2873,
+        "w": 82,
+        "e1": {
+          "n": "18",
+          "h": 178
+        },
+        "e2": {
+          "n": "36",
+          "h": -2
+        }
+      }
+    ]
+  },
+  "3Y4": {
+    "e": 1068,
+    "n": "Woodbine Mun",
+    "mv": 2.02,
+    "c": "Woodbine",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "WOODBINEMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "WOODBINEMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 2065,
+        "w": 82,
+        "e1": {
+          "n": "36",
+          "h": 358
+        },
+        "e2": {
+          "n": "18",
+          "h": 178
+        }
+      }
+    ]
+  },
+  "3Y3": {
+    "e": 1104,
+    "n": "Winterset Muni",
+    "mv": 1.33,
+    "c": "Winterset",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 135.2,
+        "n": "DESMOINES"
+      },
+      {
+        "t": "D",
+        "f": 135.2,
+        "n": "DESMOINES"
+      },
+      {
+        "t": "UC",
+        "f": 122.7,
+        "n": "WINTERSET-MADISONCO"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.7,
+        "n": "WINTERSET-MADISONCO"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3000,
+        "w": 44,
+        "e1": {
+          "n": "14",
+          "h": 141,
+          "o": 173
+        },
+        "e2": {
+          "n": "32",
+          "h": 321
+        }
+      }
+    ]
+  },
+  "3Y2": {
+    "e": 1214,
+    "n": "George L Scott Muni",
+    "mv": -0.93,
+    "c": "West Union",
+    "freqs": [
+      {
+        "t": "CTR",
+        "f": 118.85,
+        "n": "MINNEAPOLIS"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "SCOTTMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "SCOTTMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 4211,
+        "w": 58,
+        "e1": {
+          "n": "35",
+          "h": 354
+        },
+        "e2": {
+          "n": "17",
+          "h": 174
+        }
+      }
+    ]
+  }
+}

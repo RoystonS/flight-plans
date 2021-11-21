@@ -1,0 +1,304 @@
+{
+  "C08": {
+    "e": 8256,
+    "n": "Silver West",
+    "mv": 8.03,
+    "c": "Westcliffe",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "SILVERWEST"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "SILVERWEST"
+      }
+    ],
+    "runways": [
+      {
+        "s": "B",
+        "l": 6924,
+        "w": 49,
+        "e1": {
+          "n": "13",
+          "h": 140
+        },
+        "e2": {
+          "n": "31",
+          "h": 320
+        }
+      }
+    ]
+  },
+  "C00": {
+    "e": 730,
+    "n": "Mercer Co",
+    "mv": -1.85,
+    "c": "Aledo",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "MERCERCO"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "MERCERCO"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 2478,
+        "w": 52,
+        "e1": {
+          "n": "17",
+          "h": 176
+        },
+        "e2": {
+          "n": "35",
+          "h": 356
+        }
+      }
+    ]
+  },
+  "C04": {
+    "e": 902,
+    "n": "Oceana Co",
+    "mv": -5.2,
+    "c": "Hart/Shelby",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "OCEANACO"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "OCEANACO"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3471,
+        "w": 66,
+        "e1": {
+          "n": "27",
+          "h": 268
+        },
+        "e2": {
+          "n": "09",
+          "h": 88
+        }
+      },
+      {
+        "s": "G",
+        "l": 2266,
+        "w": 97,
+        "e1": {
+          "n": "15",
+          "h": 148
+        },
+        "e2": {
+          "n": "33",
+          "h": 328
+        }
+      }
+    ]
+  },
+  "C02": {
+    "e": 835,
+    "n": "Grand Geneva Resort",
+    "mv": -3.48,
+    "c": "Lake Geneva",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 120.15,
+        "n": "MILWAUKEE"
+      },
+      {
+        "t": "D",
+        "f": 120.15,
+        "n": "MILWAUKEE"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "GRANDGENEVARESORT"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "GRANDGENEVARESORT"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3876,
+        "w": 73,
+        "e1": {
+          "n": "05",
+          "h": 56,
+          "c": true
+        },
+        "e2": {
+          "n": "23",
+          "h": 236
+        }
+      }
+    ]
+  },
+  "C09": {
+    "e": 574,
+    "n": "Morris Mun-Washburn",
+    "mv": -3.3,
+    "c": "Morris",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 119.35,
+        "n": "CHICAGO"
+      },
+      {
+        "t": "AWOS",
+        "f": 118.175,
+        "n": null
+      },
+      {
+        "t": "D",
+        "f": 119.35,
+        "n": "CHICAGO"
+      },
+      {
+        "t": "FSS",
+        "f": 122.1,
+        "n": "KANKAKEE"
+      },
+      {
+        "t": "FSS",
+        "f": 122.5,
+        "n": "KANKAKEE"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "MORRISMUN-WASHBURN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "MORRISMUN-WASHBURN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "B",
+        "l": 5466,
+        "w": 73,
+        "e1": {
+          "n": "18",
+          "h": 182
+        },
+        "e2": {
+          "n": "36",
+          "h": 362
+        }
+      }
+    ]
+  },
+  "C03": {
+    "e": 857,
+    "n": "Nappanee Mun",
+    "mv": -5.61,
+    "c": "Nappanee",
+    "freqs": [
+      {
+        "t": "CTR",
+        "f": 135.9,
+        "n": "CHICAGO"
+      },
+      {
+        "t": "A",
+        "f": 132.05,
+        "n": "SOUTHBEND"
+      },
+      {
+        "t": "D",
+        "f": 132.05,
+        "n": "SOUTHBEND"
+      },
+      {
+        "t": "FSS",
+        "f": 122.1,
+        "n": "TERREHAUTE"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "NAPPANEEMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "NAPPANEEMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3663,
+        "w": 42,
+        "e1": {
+          "n": "09",
+          "h": 95,
+          "o": 200
+        },
+        "e2": {
+          "n": "27",
+          "h": 275,
+          "o": 183
+        }
+      }
+    ]
+  },
+  "C01": {
+    "e": 145,
+    "n": "Southern Cross",
+    "mv": -11.8,
+    "c": "Williamstown",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "SOUTHERNCROSS"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "SOUTHERNCROSS"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 2063,
+        "w": 82,
+        "e1": {
+          "n": "12",
+          "h": 115
+        },
+        "e2": {
+          "n": "30",
+          "h": 295
+        }
+      }
+    ]
+  }
+}

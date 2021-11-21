@@ -1,0 +1,36 @@
+{
+  "B21": {
+    "e": 869,
+    "n": "Sugarloaf Rgnl",
+    "mv": -15.09,
+    "c": "Carrabassett",
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "SUGARLOAFREGL"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "SUGARLOAFREGL"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 2801,
+        "w": 79,
+        "e1": {
+          "n": "17",
+          "h": 165
+        },
+        "e2": {
+          "n": "35",
+          "h": 345,
+          "o": 91
+        }
+      }
+    ]
+  }
+}

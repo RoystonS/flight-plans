@@ -1,0 +1,205 @@
+{
+  "3JC": {
+    "e": 1093,
+    "n": "Freeman Field",
+    "mv": 2.5,
+    "c": "Junction City",
+    "freqs": [
+      {
+        "t": "CTR",
+        "f": 127.35,
+        "n": "KANSASCITY"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "FREEMAN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "FREEMAN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3489,
+        "w": 58,
+        "e1": {
+          "n": "18",
+          "h": 191
+        },
+        "e2": {
+          "n": "36",
+          "h": 11
+        }
+      }
+    ]
+  },
+  "3J4": {
+    "e": 396,
+    "n": "Bald Eagle Air Park",
+    "mv": -1.68,
+    "c": "Nesbit",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1491,
+        "w": 82,
+        "e1": {
+          "n": "36",
+          "h": 2
+        },
+        "e2": {
+          "n": "18",
+          "h": 182
+        }
+      }
+    ]
+  },
+  "3J7": {
+    "e": 683,
+    "n": "Greene County Rgnl",
+    "mv": -5.96,
+    "c": "Greensboro",
+    "freqs": [
+      {
+        "t": "CTR",
+        "f": 127.5,
+        "n": "ATLANTA"
+      },
+      {
+        "t": "RCD",
+        "f": 121.725,
+        "n": "MACONRADIO"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "GREENECOREGL"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "GREENECOREGL"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 5464,
+        "w": 54,
+        "e1": {
+          "n": "07",
+          "h": 70,
+          "o": 111
+        },
+        "e2": {
+          "n": "25",
+          "h": 250
+        }
+      }
+    ]
+  },
+  "3J0": {
+    "e": 106,
+    "n": "Hampton-Varnville",
+    "mv": -7.3,
+    "c": "Hampton",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "HAMPTON-VARNVILLE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "HAMPTON-VARNVILLE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3602,
+        "w": 54,
+        "e1": {
+          "n": "11",
+          "h": 118
+        },
+        "e2": {
+          "n": "29",
+          "h": 298
+        }
+      }
+    ]
+  },
+  "3J1": {
+    "e": 80,
+    "n": "Ridgeland-Claude Dean",
+    "mv": -7.69,
+    "c": "Ridgeland",
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 122.7,
+        "n": "RIDGELAND"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.7,
+        "n": "RIDGELAND"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 2623,
+        "w": 70,
+        "e1": {
+          "n": "03",
+          "h": 37
+        },
+        "e2": {
+          "n": "21",
+          "h": 217
+        }
+      }
+    ]
+  },
+  "3J6": {
+    "e": 68,
+    "n": "Davis",
+    "mv": -6.38,
+    "c": "Folkston",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "DAVIS"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "DAVIS"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 2495,
+        "w": 45,
+        "e1": {
+          "n": "36",
+          "h": 8,
+          "o": 633
+        },
+        "e2": {
+          "n": "18",
+          "h": 188
+        }
+      }
+    ]
+  }
+}

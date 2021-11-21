@@ -1,11 +1,16 @@
+import { roundNumber } from "./utils";
+
 export interface IFlightPlan {
   waypoints: IWaypoint[];
 }
 
-export enum WaypointType {
-  Airport,
-  User,
-}
+export type WaypointType = "airport" | "intersection" | "user";
+
+const WaypointTypeMappings: Record<string, WaypointType> = {
+  Airport: "airport",
+  Intersection: "intersection",
+  User: "user",
+};
 
 export interface IWaypoint {
   id: string;
@@ -20,22 +25,9 @@ export interface ILatLong {
   lng: number;
 }
 
-/*
-        <ATCWaypoint id="PFYU">
-            <ATCWaypointType>Airport</ATCWaypointType>
-            <WorldPosition>N66° 34' 20.71",W145° 14' 46.82",+000447.00</WorldPosition>
-            <ICAO>
-                <ICAOIdent>PFYU</ICAOIdent>
-            </ICAO>
-        </ATCWaypoint>
-        <ATCWaypoint id="WP1">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N65° 49' 49.24",W145° 24' 18.27",+002000.00</WorldPosition>
-        </ATCWaypoint>
-*/
-
 export function parseFlightPlan(content: string): IFlightPlan {
   const parser = new DOMParser();
+  content = handleUTF8(content);
   const doc = parser.parseFromString(content, "text/xml");
   const rawWaypoints = doc.querySelectorAll("ATCWaypoint");
   const outputWaypoints: IWaypoint[] = [];
@@ -44,12 +36,21 @@ export function parseFlightPlan(content: string): IFlightPlan {
     const rawPosition =
       rawWaypoint.querySelector("WorldPosition")!.textContent!;
 
+    const waypointType =
+      WaypointTypeMappings[
+        rawWaypoint.querySelector("ATCWaypointType")!.textContent || ""
+      ];
+    if (!waypointType) {
+      throw new Error(
+        `Unknown waypoint type: ${
+          rawWaypoint.querySelector("ATCWaypointType")!.textContent
+        }`
+      );
+    }
+
     outputWaypoints.push({
       id: rawWaypoint.getAttribute("id")!,
-      type:
-        rawWaypoint.querySelector("ATCWaypointType")!.textContent === "Airport"
-          ? WaypointType.Airport
-          : WaypointType.User,
+      type: waypointType,
       rawPosition,
       position: parseLatLongDMS(rawPosition),
       icao: rawWaypoint.querySelector("ICAO ICAOIdent")?.textContent!,
@@ -66,21 +67,31 @@ export function parseFlightPlan(content: string): IFlightPlan {
 // Output: ILatLong
 function parseLatLongDMS(text: string): ILatLong {
   const match = text.match(
-    /([NS])(\d+)°\s+(\d+)'\s+(\d+\.\d+)",([EW])(\d+)°\s+(\d+)'\s+(\d+\.\d+)"/
+    /([NS])(\d+)\u00B0\s+(\d+)'\s+(\d+\.\d+)",([EW])(\d+)\u00B0\s+(\d+)'\s+(\d+\.\d+)"/
   );
   if (match) {
     const [, ns, nsD, nsM, nsS, ew, ewD, ewM, ewS] = match;
-    // console.log(ns, nsD, nsM, nsS, ew, ewD, ewM, ewS);
-    const rawLat =
+    let rawLat =
       parseFloat(nsD) + parseFloat(nsM) / 60 + parseFloat(nsS) / 3600;
-    const rawLong =
+    let rawLong =
       parseFloat(ewD) + parseFloat(ewM) / 60 + parseFloat(ewS) / 3600;
+
+    rawLat = roundNumber(rawLat, 5);
+    rawLong = roundNumber(rawLong, 5);
 
     return {
       lat: ns === "N" ? rawLat : -rawLat,
       lng: ew === "E" ? rawLong : -rawLong,
     };
   } else {
+    debugger;
     throw new Error("TODO");
   }
+}
+
+function handleUTF8(text: string) {
+  return text.replaceAll(/&#x([0-9A-Fa-f][0-9A-Fa-f])/g, (sub, ...rest) => {
+    console.log("sub", sub);
+    return String.fromCharCode(parseInt(rest[0], 16));
+  });
 }

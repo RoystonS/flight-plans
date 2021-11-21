@@ -1,0 +1,120 @@
+{
+  "TIST": {
+    "e": 18,
+    "n": "Cyril E King",
+    "mv": -14.04,
+    "c": "St Thomas I/Charlotte Am",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 128.65,
+        "n": "SANJUANCERAP"
+      },
+      {
+        "t": "ASOS",
+        "f": 124,
+        "n": "TIST"
+      },
+      {
+        "t": "ATIS",
+        "f": 124,
+        "n": "TIST"
+      },
+      {
+        "t": "D",
+        "f": 128.65,
+        "n": "SANJUANCERAP"
+      },
+      {
+        "t": "G",
+        "f": 121.9,
+        "n": "SAINTTHOMAS"
+      },
+      {
+        "t": "T",
+        "f": 118.1,
+        "n": "SAINTTHOMAS"
+      },
+      {
+        "t": "T",
+        "f": 118.8,
+        "n": "SAINTTHOMAS"
+      },
+      {
+        "t": "UC",
+        "f": 122.95,
+        "n": "CYRILEKING"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 6995,
+        "w": 150,
+        "e1": {
+          "n": "10",
+          "h": 101
+        },
+        "e2": {
+          "n": "28",
+          "h": 281,
+          "o": 2299
+        }
+      }
+    ]
+  },
+  "TISX": {
+    "e": 50,
+    "n": "Henry E Rohlsen",
+    "mv": -13.92,
+    "c": "St Croix I",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 128.65,
+        "n": "SANJUAN"
+      },
+      {
+        "t": "ATIS",
+        "f": 135.65,
+        "n": "TISX"
+      },
+      {
+        "t": "D",
+        "f": 128.65,
+        "n": "SANJUAN"
+      },
+      {
+        "t": "G",
+        "f": 121.7,
+        "n": "HENRYEROHLSEN"
+      },
+      {
+        "t": "T",
+        "f": 118.6,
+        "n": "STCROIX"
+      },
+      {
+        "t": "UC",
+        "f": 123,
+        "n": "HENRYEROHLSEN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 9984,
+        "w": 150,
+        "e1": {
+          "n": "10",
+          "h": 98
+        },
+        "e2": {
+          "n": "28",
+          "h": 278,
+          "o": 1000
+        }
+      }
+    ]
+  }
+}

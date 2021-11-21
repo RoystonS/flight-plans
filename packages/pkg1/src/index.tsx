@@ -1,6 +1,6 @@
 import { render } from "react-dom";
-import { Hello } from "./Hello";
+import { Main } from "./Main";
 
 const root = document.getElementById("root");
 
-render(<Hello name="World" />, root);
+render(<Main name="World" />, root);

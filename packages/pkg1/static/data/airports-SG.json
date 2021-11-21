@@ -1,0 +1,2116 @@
+{
+  "SGCT": {
+    "e": 728,
+    "n": "Estancia El Dorado Airport",
+    "mv": -13,
+    "c": "Capitan Pablo Lagerenza",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4275,
+        "w": 72,
+        "e1": {
+          "n": "19",
+          "h": 190
+        },
+        "e2": {
+          "n": "01",
+          "h": 370
+        }
+      }
+    ]
+  },
+  "SGFI": {
+    "e": 449,
+    "n": "Fernhein",
+    "mv": -13.59,
+    "c": "Filadelfia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4264,
+        "w": 114,
+        "e1": {
+          "n": "19",
+          "h": 192
+        },
+        "e2": {
+          "n": "01",
+          "h": 372
+        }
+      }
+    ]
+  },
+  "SGME": {
+    "e": 551,
+    "n": "Prof Dr Pac Luis Maria Argana",
+    "mv": -13.51,
+    "c": "Mariscal Estigarribia",
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 118.8,
+        "n": "MARISCAL"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 11473,
+        "w": 183,
+        "e1": {
+          "n": "19",
+          "h": 191
+        },
+        "e2": {
+          "n": "01",
+          "h": 371
+        }
+      }
+    ]
+  },
+  "SGPG": {
+    "e": 685,
+    "n": "Pelayo Prats Gill Airstrip",
+    "mv": -12.63,
+    "c": "General Enrique Mosconi",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3654,
+        "w": 113,
+        "e1": {
+          "n": "36",
+          "h": 360
+        },
+        "e2": {
+          "n": "18",
+          "h": 180
+        }
+      }
+    ]
+  },
+  "SGCF": {
+    "e": 437,
+    "n": "Colonia Neuland Airport",
+    "mv": -13.28,
+    "c": "Colonia Neuland",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4444,
+        "w": 94,
+        "e1": {
+          "n": "21",
+          "h": 208
+        },
+        "e2": {
+          "n": "03",
+          "h": 28
+        }
+      }
+    ]
+  },
+  "SGFE": {
+    "e": 278,
+    "n": "Bahía Negra Airport",
+    "mv": -15.74,
+    "c": "Fuerte Olimpo",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2847,
+        "w": 41,
+        "e1": {
+          "n": "21",
+          "h": 208
+        },
+        "e2": {
+          "n": "03",
+          "h": 28
+        }
+      }
+    ]
+  },
+  "SGFR": {
+    "e": 274,
+    "n": "Fuerte Olimpo Airport",
+    "mv": -15.89,
+    "c": "Fuerte Olimpo",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3452,
+        "w": 98,
+        "e1": {
+          "n": "23",
+          "h": 228
+        },
+        "e2": {
+          "n": "05",
+          "h": 48
+        }
+      }
+    ]
+  },
+  "SGFT": {
+    "e": 271,
+    "n": "Puerto Leda Airport",
+    "mv": -16.41,
+    "c": "Fuerte Olimpo",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2861,
+        "w": 45,
+        "e1": {
+          "n": "18",
+          "h": 178
+        },
+        "e2": {
+          "n": "36",
+          "h": 358
+        }
+      }
+    ]
+  },
+  "SGCD": {
+    "e": 411,
+    "n": "Gnadenheim Airport",
+    "mv": -14.22,
+    "c": "Colonia Menno",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3216,
+        "w": 64,
+        "e1": {
+          "n": "19",
+          "h": 194
+        },
+        "e2": {
+          "n": "01",
+          "h": 14
+        }
+      }
+    ]
+  },
+  "SGCM": {
+    "e": 424,
+    "n": "Loma Plata Airport",
+    "mv": -14.21,
+    "c": "Colonia Menno",
+    "runways": [
+      {
+        "s": "D",
+        "l": 5623,
+        "w": 89,
+        "e1": {
+          "n": "01",
+          "h": 372
+        },
+        "e2": {
+          "n": "19",
+          "h": 192
+        }
+      }
+    ]
+  },
+  "SGFL": {
+    "e": 438,
+    "n": "Filadelfia Airport",
+    "mv": -14.17,
+    "c": "Filadelfia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3325,
+        "w": 60,
+        "e1": {
+          "n": "19",
+          "h": 194
+        },
+        "e2": {
+          "n": "01",
+          "h": 14
+        }
+      }
+    ]
+  },
+  "SGFU": {
+    "e": 266,
+    "n": "Puerto Guaraní Airport",
+    "mv": -15.94,
+    "c": "Fuerte Olimpo",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2537,
+        "w": 48,
+        "e1": {
+          "n": "20",
+          "h": 199
+        },
+        "e2": {
+          "n": "02",
+          "h": 19
+        }
+      }
+    ]
+  },
+  "SG65": {
+    "e": 265,
+    "n": "Dr Juan Plate",
+    "mv": -15.62,
+    "runways": [
+      {
+        "s": "A",
+        "l": 3706,
+        "w": 59,
+        "e1": {
+          "n": "35",
+          "h": 355
+        },
+        "e2": {
+          "n": "17",
+          "h": 175
+        }
+      }
+    ]
+  },
+  "SGBV": {
+    "e": 695,
+    "n": "Bella Vista Airport",
+    "mv": -16.54,
+    "c": "Bella Vista",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3233,
+        "w": 56,
+        "e1": {
+          "n": "21",
+          "h": 212
+        },
+        "e2": {
+          "n": "03",
+          "h": 32
+        }
+      }
+    ]
+  },
+  "SGCG": {
+    "e": 352,
+    "n": "Colonia Menno Airport",
+    "mv": -14.62,
+    "c": "Colonia Menno",
+    "runways": [
+      {
+        "s": "G",
+        "l": 5162,
+        "w": 135,
+        "e1": {
+          "n": "18",
+          "h": 184
+        },
+        "e2": {
+          "n": "36",
+          "h": 364
+        }
+      }
+    ]
+  },
+  "SGCH": {
+    "e": 295,
+    "n": "Concepcion Airport",
+    "mv": -14.61,
+    "c": "Concepcion",
+    "runways": [
+      {
+        "s": "A",
+        "l": 3739,
+        "w": 29,
+        "e1": {
+          "n": "19",
+          "h": 187
+        },
+        "e2": {
+          "n": "01",
+          "h": 367
+        }
+      }
+    ]
+  },
+  "SGPC": {
+    "e": 324,
+    "n": "Pozo Colorado Airport",
+    "mv": -14.69,
+    "c": "Concepcion",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3551,
+        "w": 142,
+        "e1": {
+          "n": "16",
+          "h": 162
+        },
+        "e2": {
+          "n": "34",
+          "h": 342
+        }
+      }
+    ]
+  },
+  "SGCC": {
+    "e": 244,
+    "n": "Puerto Max Airport",
+    "mv": -15.75,
+    "c": "Concepcion",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3075,
+        "w": 98,
+        "e1": {
+          "n": "17",
+          "h": 174
+        },
+        "e2": {
+          "n": "35",
+          "h": 354
+        }
+      }
+    ]
+  },
+  "SGCI": {
+    "e": 243,
+    "n": "Puerto Abente Airport",
+    "mv": -15.79,
+    "c": "Concepcion",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3059,
+        "w": 82,
+        "e1": {
+          "n": "20",
+          "h": 200
+        },
+        "e2": {
+          "n": "02",
+          "h": 20
+        }
+      },
+      {
+        "s": "G",
+        "l": 3347,
+        "w": 117,
+        "e1": {
+          "n": "18",
+          "h": 180
+        },
+        "e2": {
+          "n": "36",
+          "h": 360
+        }
+      }
+    ]
+  },
+  "SGCJ": {
+    "e": 262,
+    "n": "Concepcion Airport",
+    "mv": -14.67,
+    "c": "Concepcion",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4280,
+        "w": 180,
+        "e1": {
+          "n": "17",
+          "h": 169
+        },
+        "e2": {
+          "n": "35",
+          "h": 349
+        }
+      }
+    ]
+  },
+  "SGCP": {
+    "e": 270,
+    "n": "Puerto Itapucu Airport",
+    "mv": -15.79,
+    "c": "Concepcion",
+    "runways": [
+      {
+        "s": "A",
+        "l": 3266,
+        "w": 43,
+        "e1": {
+          "n": "18",
+          "h": 181
+        },
+        "e2": {
+          "n": "36",
+          "h": 361
+        }
+      }
+    ]
+  },
+  "SGCW": {
+    "e": 453,
+    "n": "Concepcion Airport",
+    "mv": -15.71,
+    "c": "Concepcion",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4690,
+        "w": 160,
+        "e1": {
+          "n": "21",
+          "h": 206
+        },
+        "e2": {
+          "n": "03",
+          "h": 26
+        }
+      }
+    ]
+  },
+  "SGCX": {
+    "e": 251,
+    "n": "Concepcion Airport",
+    "mv": -15.82,
+    "c": "Concepcion",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1956,
+        "w": 90,
+        "e1": {
+          "n": "19",
+          "h": 196
+        },
+        "e2": {
+          "n": "01",
+          "h": 376
+        }
+      }
+    ]
+  },
+  "SGPO": {
+    "e": 240,
+    "n": "Puerto Pinasco Airport",
+    "mv": -15.76,
+    "c": "Concepcion",
+    "runways": [
+      {
+        "s": "G",
+        "l": 5590,
+        "w": 124,
+        "e1": {
+          "n": "02",
+          "h": 26
+        },
+        "e2": {
+          "n": "20",
+          "h": 206
+        }
+      }
+    ]
+  },
+  "SGST": {
+    "e": 582,
+    "n": "Santa Teresa",
+    "mv": -16.43,
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 118.5,
+        "n": "SANTATERESA"
+      },
+      {
+        "t": "MC",
+        "f": 130.4,
+        "n": "SANTATERESA"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 5900,
+        "w": 54,
+        "e1": {
+          "n": "20",
+          "h": 203
+        },
+        "e2": {
+          "n": "02",
+          "h": 23
+        }
+      }
+    ]
+  },
+  "SGBL": {
+    "e": 836,
+    "n": "Bella Vista Airport",
+    "mv": -15.7,
+    "c": "Bella Vista",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3109,
+        "w": 164,
+        "e1": {
+          "n": "22",
+          "h": 218
+        },
+        "e2": {
+          "n": "04",
+          "h": 38
+        }
+      }
+    ]
+  },
+  "SGHO": {
+    "e": 512,
+    "n": "Estancia Trementina Airport",
+    "mv": -16.49,
+    "c": "Horqueta",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3061,
+        "w": 115,
+        "e1": {
+          "n": "01",
+          "h": 374
+        },
+        "e2": {
+          "n": "19",
+          "h": 194
+        }
+      }
+    ]
+  },
+  "SGCO": {
+    "e": 251,
+    "n": "Ten. Crl. Carmelo Peralta",
+    "mv": -15.46,
+    "c": "Concepcion",
+    "freqs": [
+      {
+        "t": "T",
+        "f": 118.4,
+        "n": "MARISCALLOPEZ"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 6065,
+        "w": 147,
+        "e1": {
+          "n": "03",
+          "h": 31
+        },
+        "e2": {
+          "n": "21",
+          "h": 211
+        }
+      },
+      {
+        "s": "G",
+        "l": 4214,
+        "w": 82,
+        "e1": {
+          "n": "03L",
+          "h": 31
+        },
+        "e2": {
+          "n": "21R",
+          "h": 211
+        }
+      }
+    ]
+  },
+  "SGBE": {
+    "e": 240,
+    "n": "Belen Airport",
+    "mv": -15.27,
+    "c": "Belen",
+    "runways": [
+      {
+        "s": "G",
+        "l": 826,
+        "w": 82,
+        "e1": {
+          "n": "12",
+          "h": 120
+        },
+        "e2": {
+          "n": "30",
+          "h": 300
+        }
+      }
+    ]
+  },
+  "SGCS": {
+    "e": 236,
+    "n": "Concepcion Airport",
+    "mv": -15.36,
+    "c": "Concepcion",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1979,
+        "w": 44,
+        "e1": {
+          "n": "19",
+          "h": 190
+        },
+        "e2": {
+          "n": "01",
+          "h": 370
+        }
+      }
+    ]
+  },
+  "SGSF": {
+    "e": 247,
+    "n": "San Pedro De Ycuamandiyu Airport",
+    "mv": -15.21,
+    "c": "San Pedro De Ycuamandiyu",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3138,
+        "w": 126,
+        "e1": {
+          "n": "17",
+          "h": 168
+        },
+        "e2": {
+          "n": "35",
+          "h": 348
+        }
+      }
+    ]
+  },
+  "SGSY": {
+    "e": 223,
+    "n": "San Pedro De Ycuamandiyu Airport",
+    "mv": -15.27,
+    "c": "San Pedro De Ycuamandiyu",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2305,
+        "w": 73,
+        "e1": {
+          "n": "19",
+          "h": 189
+        },
+        "e2": {
+          "n": "01",
+          "h": 369
+        }
+      }
+    ]
+  },
+  "SGSI": {
+    "e": 405,
+    "n": "San Pedro De Ycuamandiyu Airport",
+    "mv": -15.2,
+    "c": "San Pedro De Ycuamandiyu",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3920,
+        "w": 103,
+        "e1": {
+          "n": "22",
+          "h": 215
+        },
+        "e2": {
+          "n": "04",
+          "h": 35
+        }
+      }
+    ]
+  },
+  "SGTA": {
+    "e": 994,
+    "n": "Tacuati Airport",
+    "mv": -16.13,
+    "c": "Tacuati",
+    "runways": [
+      {
+        "s": "D",
+        "l": 5506,
+        "w": 76,
+        "e1": {
+          "n": "21",
+          "h": 214
+        },
+        "e2": {
+          "n": "03",
+          "h": 34
+        }
+      }
+    ]
+  },
+  "SGAE": {
+    "e": 238,
+    "n": "Antequera Airport",
+    "mv": -15.17,
+    "c": "Antequera",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3181,
+        "w": 127,
+        "e1": {
+          "n": "13",
+          "h": 132
+        },
+        "e2": {
+          "n": "31",
+          "h": 312
+        }
+      }
+    ]
+  },
+  "SGAN": {
+    "e": 222,
+    "n": "Puerto Michi Airport",
+    "mv": -15.35,
+    "c": "Antequera",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2295,
+        "w": 113,
+        "e1": {
+          "n": "02",
+          "h": 23
+        },
+        "e2": {
+          "n": "20",
+          "h": 203
+        }
+      }
+    ]
+  },
+  "SGAQ": {
+    "e": 229,
+    "n": "Antequera Airport",
+    "mv": -15.3,
+    "c": "Antequera",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2483,
+        "w": 78,
+        "e1": {
+          "n": "23",
+          "h": 232
+        },
+        "e2": {
+          "n": "05",
+          "h": 52
+        }
+      }
+    ]
+  },
+  "SGCB": {
+    "e": 253,
+    "n": "Estancia Coeyu Airport",
+    "mv": -15.45,
+    "c": "Concepcion",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4186,
+        "w": 61,
+        "e1": {
+          "n": "17",
+          "h": 169
+        },
+        "e2": {
+          "n": "35",
+          "h": 349
+        }
+      }
+    ]
+  },
+  "SGSC": {
+    "e": 233,
+    "n": "San Pedro De Ycuamandiyu Airport",
+    "mv": -15.29,
+    "c": "San Pedro De Ycuamandiyu",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1948,
+        "w": 69,
+        "e1": {
+          "n": "05",
+          "h": 48
+        },
+        "e2": {
+          "n": "23",
+          "h": 228
+        }
+      }
+    ]
+  },
+  "SGSD": {
+    "e": 250,
+    "n": "San Pedro De Ycuamandiyu Airport",
+    "mv": -15.09,
+    "c": "San Pedro De Ycuamandiyu",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2063,
+        "w": 48,
+        "e1": {
+          "n": "19",
+          "h": 189
+        },
+        "e2": {
+          "n": "01",
+          "h": 369
+        }
+      }
+    ]
+  },
+  "SGSE": {
+    "e": 245,
+    "n": "San Pedro De Ycuamandiyu Airport",
+    "mv": -15.2,
+    "c": "San Pedro De Ycuamandiyu",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4481,
+        "w": 123,
+        "e1": {
+          "n": "20",
+          "h": 200
+        },
+        "e2": {
+          "n": "02",
+          "h": 20
+        }
+      }
+    ]
+  },
+  "SGAT": {
+    "e": 382,
+    "n": "Colonia Volendam Airport",
+    "mv": -15.33,
+    "c": "Antequera",
+    "runways": [
+      {
+        "s": "D",
+        "l": 4558,
+        "w": 129,
+        "e1": {
+          "n": "01",
+          "h": 371
+        },
+        "e2": {
+          "n": "19",
+          "h": 191
+        }
+      }
+    ]
+  },
+  "SGIA": {
+    "e": 282,
+    "n": "Itacurubi Del Rosario Airport",
+    "mv": -15.84,
+    "c": "Itacurubi Del Rosario",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2926,
+        "w": 157,
+        "e1": {
+          "n": "04",
+          "h": 42
+        },
+        "e2": {
+          "n": "22",
+          "h": 222
+        }
+      }
+    ]
+  },
+  "SGNE": {
+    "e": 493,
+    "n": "Nueva Germania Airport",
+    "mv": -16.06,
+    "c": "Nueva Germania",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2764,
+        "w": 62,
+        "e1": {
+          "n": "22",
+          "h": 215
+        },
+        "e2": {
+          "n": "04",
+          "h": 35
+        }
+      }
+    ]
+  },
+  "SGPR": {
+    "e": 219,
+    "n": "Rosario South 1 Airport",
+    "mv": -15.13,
+    "c": "Puerto Rosario",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3347,
+        "w": 82,
+        "e1": {
+          "n": "03",
+          "h": 29
+        },
+        "e2": {
+          "n": "21",
+          "h": 209
+        }
+      }
+    ]
+  },
+  "SGPS": {
+    "e": 232,
+    "n": "Rosario South 3 Airport",
+    "mv": -15.12,
+    "c": "Puerto Rosario",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2902,
+        "w": 119,
+        "e1": {
+          "n": "05",
+          "h": 54
+        },
+        "e2": {
+          "n": "23",
+          "h": 234
+        }
+      }
+    ]
+  },
+  "SGPT": {
+    "e": 222,
+    "n": "Rosario South 2 Airport",
+    "mv": -15.12,
+    "c": "Puerto Rosario",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3762,
+        "w": 163,
+        "e1": {
+          "n": "18",
+          "h": 180
+        },
+        "e2": {
+          "n": "36",
+          "h": 360
+        }
+      }
+    ]
+  },
+  "SGRO": {
+    "e": 221,
+    "n": "Rosario Airport",
+    "mv": -15.17,
+    "c": "Puerto Rosario",
+    "runways": [
+      {
+        "s": "G",
+        "l": 1510,
+        "w": 28,
+        "e1": {
+          "n": "19",
+          "h": 186
+        },
+        "e2": {
+          "n": "01",
+          "h": 366
+        }
+      }
+    ]
+  },
+  "SGSP": {
+    "e": 272,
+    "n": "San Pedro Airport",
+    "mv": -15.5,
+    "c": "San Pedro De Ycuamandiyu",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3866,
+        "w": 43,
+        "e1": {
+          "n": "20",
+          "h": 199
+        },
+        "e2": {
+          "n": "02",
+          "h": 19
+        }
+      }
+    ]
+  },
+  "SGAS": {
+    "e": 269,
+    "n": "Silvio Pettirossi Intl",
+    "mv": -14.84,
+    "c": "Asuncion",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 119.7,
+        "n": "ASUNCION"
+      },
+      {
+        "t": "A",
+        "f": 120,
+        "n": "ASUNCION"
+      },
+      {
+        "t": "ATIS",
+        "f": 127.6,
+        "n": "SGAS"
+      },
+      {
+        "t": "G",
+        "f": 121.9,
+        "n": "ASUNCION"
+      },
+      {
+        "t": "FSS",
+        "f": 126.9,
+        "n": "ASUNCION"
+      },
+      {
+        "t": "T",
+        "f": 118.1,
+        "n": "ASUNCION"
+      },
+      {
+        "t": "T",
+        "f": 118.8,
+        "n": "ASUNCION"
+      }
+    ],
+    "runways": [
+      {
+        "s": "B",
+        "l": 11018,
+        "w": 145,
+        "e1": {
+          "n": "02",
+          "h": 27
+        },
+        "e2": {
+          "n": "20",
+          "h": 207
+        }
+      }
+    ]
+  },
+  "SGNB": {
+    "e": 216,
+    "n": "Sargento De Aviacion Nicolo Bo",
+    "mv": -14.85,
+    "c": "Villa Hayes",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3213,
+        "w": 65,
+        "e1": {
+          "n": "19",
+          "h": 188
+        },
+        "e2": {
+          "n": "01",
+          "h": 368
+        }
+      }
+    ]
+  },
+  "SGPE": {
+    "e": 222,
+    "n": "Villa Rey Airport",
+    "mv": -14.97,
+    "c": "Puerto Rosario",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3209,
+        "w": 79,
+        "e1": {
+          "n": "03",
+          "h": 27
+        },
+        "e2": {
+          "n": "21",
+          "h": 207
+        }
+      }
+    ]
+  },
+  "SGPU": {
+    "e": 221,
+    "n": "Estancia Lomas Airport",
+    "mv": -15,
+    "c": "Puerto Rosario",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3977,
+        "w": 71,
+        "e1": {
+          "n": "19",
+          "h": 187
+        },
+        "e2": {
+          "n": "01",
+          "h": 367
+        }
+      }
+    ]
+  },
+  "SGNU": {
+    "e": 207,
+    "n": "Santa Clara Airport",
+    "mv": -14.73,
+    "c": "Nueva Italia",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2809,
+        "w": 43,
+        "e1": {
+          "n": "22",
+          "h": 217
+        },
+        "e2": {
+          "n": "04",
+          "h": 37
+        }
+      }
+    ]
+  },
+  "SGSO": {
+    "e": 227,
+    "n": "San Antonio Airport",
+    "mv": -14.76,
+    "c": "San Antonio",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1312,
+        "w": 32,
+        "e1": {
+          "n": "20",
+          "h": 199
+        },
+        "e2": {
+          "n": "02",
+          "h": 19
+        }
+      }
+    ]
+  },
+  "SGYP": {
+    "e": 272,
+    "n": "Ypacarai Airport",
+    "mv": -14.86,
+    "c": "Ypacarai",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2725,
+        "w": 95,
+        "e1": {
+          "n": "08",
+          "h": 79
+        },
+        "e2": {
+          "n": "26",
+          "h": 259
+        }
+      }
+    ]
+  },
+  "SGCL": {
+    "e": 361,
+    "n": "Hugo Stroessner Airport",
+    "mv": -15.52,
+    "c": "Coronel Oviedo",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1175,
+        "w": 18,
+        "e1": {
+          "n": "36",
+          "h": 363
+        },
+        "e2": {
+          "n": "18",
+          "h": 183
+        }
+      }
+    ]
+  },
+  "SGCN": {
+    "e": 484,
+    "n": "Coronel Oviedo Airport",
+    "mv": -15.48,
+    "c": "Coronel Oviedo",
+    "runways": [
+      {
+        "s": "A",
+        "l": 5253,
+        "w": 82,
+        "e1": {
+          "n": "03",
+          "h": 44
+        },
+        "e2": {
+          "n": "21",
+          "h": 224
+        }
+      }
+    ]
+  },
+  "SGCV": {
+    "e": 332,
+    "n": "Nueva Australia Airport",
+    "mv": -15.51,
+    "c": "Coronel Oviedo",
+    "runways": [
+      {
+        "s": "G",
+        "l": 985,
+        "w": 50,
+        "e1": {
+          "n": "21",
+          "h": 207
+        },
+        "e2": {
+          "n": "03",
+          "h": 27
+        }
+      }
+    ]
+  },
+  "SGCY": {
+    "e": 456,
+    "n": "Coronel Oviedo Airport",
+    "mv": -15.49,
+    "c": "Coronel Oviedo",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3509,
+        "w": 82,
+        "e1": {
+          "n": "02",
+          "h": 24
+        },
+        "e2": {
+          "n": "20",
+          "h": 204
+        }
+      }
+    ]
+  },
+  "SGVI": {
+    "e": 442,
+    "n": "Villarrica Airport",
+    "mv": -15.39,
+    "c": "Villarrica",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2754,
+        "w": 137,
+        "e1": {
+          "n": "17",
+          "h": 168
+        },
+        "e2": {
+          "n": "35",
+          "h": 348
+        }
+      }
+    ]
+  },
+  "SGCZ": {
+    "e": 470,
+    "n": "Caazapa Airport",
+    "mv": -15.32,
+    "c": "Caazapa",
+    "runways": [
+      {
+        "s": "A",
+        "l": 5207,
+        "w": 95,
+        "e1": {
+          "n": "19",
+          "h": 192
+        },
+        "e2": {
+          "n": "01",
+          "h": 372
+        }
+      }
+    ]
+  },
+  "SGIT": {
+    "e": 334,
+    "n": "Iturbe Airport",
+    "mv": -15.3,
+    "c": "Iturbe",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3185,
+        "w": 68,
+        "e1": {
+          "n": "18",
+          "h": 177
+        },
+        "e2": {
+          "n": "36",
+          "h": 357
+        }
+      }
+    ]
+  },
+  "SGSJ": {
+    "e": 324,
+    "n": "San Juan Bautista Airport",
+    "mv": -14.23,
+    "c": "San Juan Bautista",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2534,
+        "w": 110,
+        "e1": {
+          "n": "32",
+          "h": 317
+        },
+        "e2": {
+          "n": "14",
+          "h": 137
+        }
+      }
+    ]
+  },
+  "SGSU": {
+    "e": 232,
+    "n": "Estancia Buena Vista Airport",
+    "mv": -14.31,
+    "c": "San Juan Bautista",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3746,
+        "w": 87,
+        "e1": {
+          "n": "25",
+          "h": 251
+        },
+        "e2": {
+          "n": "07",
+          "h": 71
+        }
+      }
+    ]
+  },
+  "SGPI": {
+    "e": 249,
+    "n": "Carlos Miguel Gimenez",
+    "mv": -13.33,
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 122,
+        "n": "DONCARLOSMIGUELJIMENEZ"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 4927,
+        "w": 55,
+        "e1": {
+          "n": "20",
+          "h": 198
+        },
+        "e2": {
+          "n": "02",
+          "h": 18
+        }
+      }
+    ]
+  },
+  "SGCE": {
+    "e": 229,
+    "n": "Dinaluca S.A. Airport",
+    "mv": -13.99,
+    "c": "Cerrito",
+    "runways": [
+      {
+        "s": "A",
+        "l": 2685,
+        "w": 82,
+        "e1": {
+          "n": "20",
+          "h": 205
+        },
+        "e2": {
+          "n": "02",
+          "h": 25
+        }
+      }
+    ]
+  },
+  "SGAY": {
+    "e": 223,
+    "n": "Juan De Ayolas",
+    "mv": -14.71,
+    "runways": [
+      {
+        "s": "A",
+        "l": 6057,
+        "w": 135,
+        "e1": {
+          "n": "02",
+          "h": 25
+        },
+        "e2": {
+          "n": "20",
+          "h": 205
+        }
+      }
+    ]
+  },
+  "SGSB": {
+    "e": 500,
+    "n": "Cabaña La Escondida Airport",
+    "mv": -14.1,
+    "c": "San Juan Bautista",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4566,
+        "w": 159,
+        "e1": {
+          "n": "30",
+          "h": 300
+        },
+        "e2": {
+          "n": "12",
+          "h": 120
+        }
+      }
+    ]
+  },
+  "SGSR": {
+    "e": 529,
+    "n": "Santa Maria Airport",
+    "mv": -15.21,
+    "c": "Santa Maria",
+    "runways": [
+      {
+        "s": "D",
+        "l": 1508,
+        "w": 26,
+        "e1": {
+          "n": "20",
+          "h": 200
+        },
+        "e2": {
+          "n": "02",
+          "h": 20
+        }
+      }
+    ]
+  },
+  "SGSS": {
+    "e": 276,
+    "n": "San Cosme Y Damian Airport",
+    "mv": -14.84,
+    "c": "San Cosme Y Damian",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3201,
+        "w": 105,
+        "e1": {
+          "n": "01",
+          "h": 367
+        },
+        "e2": {
+          "n": "19",
+          "h": 187
+        }
+      }
+    ]
+  },
+  "SGPJ": {
+    "e": 1845,
+    "n": "Augusto Roberto Fuster Intl",
+    "mv": -17.15,
+    "c": "Pedro Juan Caballero",
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 120.5,
+        "n": "PEDROJUANAFIS"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 5902,
+        "w": 98,
+        "e1": {
+          "n": "03",
+          "h": 32
+        },
+        "e2": {
+          "n": "21",
+          "h": 212
+        }
+      }
+    ]
+  },
+  "SGPA": {
+    "e": 1229,
+    "n": "Pedro Juan Caballero Airport",
+    "mv": -17.12,
+    "c": "Pedro Juan Caballero",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4537,
+        "w": 84,
+        "e1": {
+          "n": "04",
+          "h": 38
+        },
+        "e2": {
+          "n": "22",
+          "h": 218
+        }
+      }
+    ]
+  },
+  "SGPD": {
+    "e": 913,
+    "n": "Cerro Corá Airport",
+    "mv": -16.31,
+    "c": "Pedro Juan Caballero",
+    "runways": [
+      {
+        "s": "D",
+        "l": 3226,
+        "w": 140,
+        "e1": {
+          "n": "08",
+          "h": 76
+        },
+        "e2": {
+          "n": "26",
+          "h": 256
+        }
+      }
+    ]
+  },
+  "SGTC": {
+    "e": 891,
+    "n": "Tacuati Airport",
+    "mv": -16.45,
+    "c": "Tacuati",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2966,
+        "w": 111,
+        "e1": {
+          "n": "17",
+          "h": 171
+        },
+        "e2": {
+          "n": "35",
+          "h": 351
+        }
+      }
+    ]
+  },
+  "SG67": {
+    "e": 758,
+    "n": "Estancia Pai Quara",
+    "mv": -16.76,
+    "runways": [
+      {
+        "s": "A",
+        "l": 4734,
+        "w": 59,
+        "e1": {
+          "n": "04",
+          "h": 37
+        },
+        "e2": {
+          "n": "22",
+          "h": 217
+        }
+      }
+    ]
+  },
+  "SGCR": {
+    "e": 1196,
+    "n": "Fazenda Piray Airport",
+    "mv": -16.5,
+    "c": "Corpus Christi",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2918,
+        "w": 110,
+        "e1": {
+          "n": "06",
+          "h": 56
+        },
+        "e2": {
+          "n": "24",
+          "h": 236
+        }
+      },
+      {
+        "s": "G",
+        "l": 3289,
+        "w": 94,
+        "e1": {
+          "n": "16",
+          "h": 158
+        },
+        "e2": {
+          "n": "34",
+          "h": 338
+        }
+      }
+    ]
+  },
+  "SGCU": {
+    "e": 708,
+    "n": "Curuguaty Airport",
+    "mv": -16.54,
+    "c": "San Isidro De Curuguaty",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3156,
+        "w": 103,
+        "e1": {
+          "n": "14",
+          "h": 142
+        },
+        "e2": {
+          "n": "32",
+          "h": 322
+        }
+      }
+    ]
+  },
+  "SGYA": {
+    "e": 635,
+    "n": "Ygatimi Airport",
+    "mv": -16.85,
+    "c": "Ygatimi",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4515,
+        "w": 75,
+        "e1": {
+          "n": "17",
+          "h": 170
+        },
+        "e2": {
+          "n": "35",
+          "h": 350
+        }
+      }
+    ]
+  },
+  "SGYG": {
+    "e": 745,
+    "n": "Ygatimi Airport",
+    "mv": -16.42,
+    "c": "Ygatimi",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3948,
+        "w": 142,
+        "e1": {
+          "n": "28",
+          "h": 285
+        },
+        "e2": {
+          "n": "10",
+          "h": 105
+        }
+      }
+    ]
+  },
+  "SGDB": {
+    "e": 1170,
+    "n": "Colonia Catuete Airport",
+    "mv": -17.21,
+    "c": "Colonia Catuete",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3017,
+        "w": 60,
+        "e1": {
+          "n": "21",
+          "h": 207
+        },
+        "e2": {
+          "n": "03",
+          "h": 27
+        }
+      }
+    ]
+  },
+  "SGDA": {
+    "e": 965,
+    "n": "Ciudad Del Este Airport",
+    "mv": -16.9,
+    "c": "Ciudad Del Este",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3275,
+        "w": 69,
+        "e1": {
+          "n": "30",
+          "h": 304
+        },
+        "e2": {
+          "n": "12",
+          "h": 124
+        }
+      }
+    ]
+  },
+  "SGDC": {
+    "e": 995,
+    "n": "Colonia Minga Pora Airport",
+    "mv": -17.2,
+    "c": "Colonia Minga Pora",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2761,
+        "w": 80,
+        "e1": {
+          "n": "19",
+          "h": 188
+        },
+        "e2": {
+          "n": "01",
+          "h": 368
+        }
+      }
+    ]
+  },
+  "SGGR": {
+    "e": 1000,
+    "n": "Salto Del Guaira Airport",
+    "mv": -17.44,
+    "c": "Salto Del Guaira",
+    "runways": [
+      {
+        "s": "A",
+        "l": 4595,
+        "w": 93,
+        "e1": {
+          "n": "18",
+          "h": 184
+        },
+        "e2": {
+          "n": "36",
+          "h": 364
+        }
+      }
+    ]
+  },
+  "SGDO": {
+    "e": 739,
+    "n": "Doctor Juan Leon Mallorquin Airport",
+    "mv": -16.19,
+    "c": "Doctor Juan Leon Mallorquin",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3622,
+        "w": 159,
+        "e1": {
+          "n": "19",
+          "h": 188
+        },
+        "e2": {
+          "n": "01",
+          "h": 368
+        }
+      }
+    ]
+  },
+  "SGGE": {
+    "e": 781,
+    "n": "General Higinio Morinigo Airport",
+    "mv": -16.19,
+    "c": "General Higinio Morinigo",
+    "runways": [
+      {
+        "s": "G",
+        "l": 4208,
+        "w": 162,
+        "e1": {
+          "n": "22",
+          "h": 224
+        },
+        "e2": {
+          "n": "04",
+          "h": 44
+        }
+      }
+    ]
+  },
+  "SGES": {
+    "e": 810,
+    "n": "Guarani Intl",
+    "mv": -16.89,
+    "c": "Ciudad Del Este",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 119.3,
+        "n": "GUARANI"
+      },
+      {
+        "t": "A",
+        "f": 120.6,
+        "n": "GUARANI"
+      },
+      {
+        "t": "ATIS",
+        "f": 127.9,
+        "n": "SGES"
+      },
+      {
+        "t": "G",
+        "f": 118.1,
+        "n": "GUARANI"
+      },
+      {
+        "t": "G",
+        "f": 119.3,
+        "n": "GUARANI"
+      },
+      {
+        "t": "G",
+        "f": 121.7,
+        "n": "GUARANI"
+      },
+      {
+        "t": "T",
+        "f": 118.1,
+        "n": "GUARANI"
+      },
+      {
+        "t": "T",
+        "f": 119.3,
+        "n": "GUARANI"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 11122,
+        "w": 141,
+        "e1": {
+          "n": "05",
+          "h": 58
+        },
+        "e2": {
+          "n": "23",
+          "h": 238
+        }
+      }
+    ]
+  },
+  "SGIB": {
+    "e": 733,
+    "n": "Itaipu Intl",
+    "mv": -16.91,
+    "c": "Hernandarias",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 120.3,
+        "n": "FOZ"
+      },
+      {
+        "t": "MC",
+        "f": 118.5,
+        "n": "ITAIPU"
+      },
+      {
+        "t": "T",
+        "f": 118.5,
+        "n": "ITAIPU"
+      }
+    ],
+    "runways": [
+      {
+        "s": "B",
+        "l": 4999,
+        "w": 99,
+        "e1": {
+          "n": "03",
+          "h": 36
+        },
+        "e2": {
+          "n": "21",
+          "h": 216
+        }
+      }
+    ]
+  },
+  "SGSG": {
+    "e": 490,
+    "n": "San Juan Nepomuceno Airport",
+    "mv": -15.75,
+    "c": "San Juan Nepomuceno",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2580,
+        "w": 67,
+        "e1": {
+          "n": "03",
+          "h": 33
+        },
+        "e2": {
+          "n": "21",
+          "h": 213
+        }
+      }
+    ]
+  },
+  "SGEN": {
+    "e": 634,
+    "n": "Quiteria",
+    "mv": -15.44,
+    "c": "Encarnacion",
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 123.3,
+        "n": "ENCARNACIONAFIS"
+      },
+      {
+        "t": "UC",
+        "f": 123.5,
+        "n": "ENCARNACIONAFIS"
+      }
+    ],
+    "runways": [
+      {
+        "s": "B",
+        "l": 6554,
+        "w": 130,
+        "e1": {
+          "n": "20",
+          "h": 208
+        },
+        "e2": {
+          "n": "02",
+          "h": 28
+        }
+      }
+    ]
+  },
+  "SGBA": {
+    "e": 647,
+    "n": "Bella Vista Sur Airport",
+    "mv": -15.59,
+    "c": "Bella Vista",
+    "runways": [
+      {
+        "s": "D",
+        "l": 2375,
+        "w": 41,
+        "e1": {
+          "n": "06",
+          "h": 59
+        },
+        "e2": {
+          "n": "24",
+          "h": 239
+        }
+      }
+    ]
+  },
+  "SGNA": {
+    "e": 892,
+    "n": "Natalio Airport",
+    "mv": -15.62,
+    "c": "Natalio",
+    "runways": [
+      {
+        "s": "G",
+        "l": 2969,
+        "w": 104,
+        "e1": {
+          "n": "21",
+          "h": 213
+        },
+        "e2": {
+          "n": "03",
+          "h": 33
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "N86": {
+    "e": 4589,
+    "n": "Spanish Springs",
+    "mv": 13.12,
+    "c": "Reno",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "SPANISHSPRINGS"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "SPANISHSPRINGS"
+      }
+    ],
+    "runways": [
+      {
+        "s": "D",
+        "l": 3630,
+        "w": 77,
+        "e1": {
+          "n": "17",
+          "h": 170
+        },
+        "e2": {
+          "n": "35",
+          "h": -10
+        }
+      }
+    ]
+  },
+  "N83": {
+    "e": 950,
+    "n": "Ds Butler Farm And Airfield",
+    "mv": -8.03,
+    "c": "Oak Ridge",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "DSBUTLERFARMANDAIRFIE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "DSBUTLERFARMANDAIRFIE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 1782,
+        "w": 67,
+        "e1": {
+          "n": "19",
+          "h": 193
+        },
+        "e2": {
+          "n": "01",
+          "h": 13
+        }
+      }
+    ]
+  },
+  "N88": {
+    "e": 724,
+    "n": "Keck's",
+    "mv": -8.73,
+    "c": "Julian",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "KECK'S"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "KECK'S"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 748,
+        "w": 82,
+        "e1": {
+          "n": "06",
+          "h": 61
+        },
+        "e2": {
+          "n": "24",
+          "h": 241
+        }
+      }
+    ]
+  },
+  "N89": {
+    "e": 287,
+    "n": "Resnick",
+    "mv": -12.68,
+    "c": "Ellenville",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 132.75,
+        "n": "NEWYORK"
+      },
+      {
+        "t": "D",
+        "f": 132.75,
+        "n": "NEWYORK"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "RESNICK"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "RESNICK"
+      }
+    ],
+    "runways": [
+      {
+        "s": "B",
+        "l": 3805,
+        "w": 64,
+        "e1": {
+          "n": "04",
+          "h": 46
+        },
+        "e2": {
+          "n": "22",
+          "h": 226,
+          "o": 305
+        }
+      }
+    ]
+  },
+  "N87": {
+    "e": 107,
+    "n": "Trenton-Robbinsville",
+    "mv": -12.36,
+    "c": "Robbinsville",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 120.25,
+        "n": "MCGUIRE"
+      },
+      {
+        "t": "D",
+        "f": 120.25,
+        "n": "MCGUIRE"
+      },
+      {
+        "t": "FSS",
+        "f": 122.1,
+        "n": "MILLVILLE"
+      },
+      {
+        "t": "MC",
+        "f": 123.3,
+        "n": "ACTIVATELIGHTSONLY"
+      },
+      {
+        "t": "UC",
+        "f": 123,
+        "n": "TRENTON-ROBBINSVILLE"
+      },
+      {
+        "t": "CTAF",
+        "f": 123,
+        "n": "TRENTON-ROBBINSVILLE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 4269,
+        "w": 75,
+        "e1": {
+          "n": "11",
+          "h": 108,
+          "o": 396
+        },
+        "e2": {
+          "n": "29",
+          "h": 288,
+          "o": 298
+        }
+      }
+    ]
+  },
+  "N81": {
+    "e": 61,
+    "n": "Hammonton Mun",
+    "mv": -12.19,
+    "c": "Hammonton",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 134.25,
+        "n": "ATLANTICCITY"
+      },
+      {
+        "t": "D",
+        "f": 134.25,
+        "n": "ATLANTICCITY"
+      },
+      {
+        "t": "MC",
+        "f": 123.5,
+        "n": "ACTIVATELIGHTSONLY"
+      },
+      {
+        "t": "UC",
+        "f": 122.7,
+        "n": "HAMMONTONMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.7,
+        "n": "HAMMONTONMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3559,
+        "w": 74,
+        "e1": {
+          "n": "21",
+          "h": 208
+        },
+        "e2": {
+          "n": "03",
+          "h": 28
+        }
+      }
+    ]
+  }
+}

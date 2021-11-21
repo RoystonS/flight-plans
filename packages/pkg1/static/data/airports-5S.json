@@ -1,0 +1,264 @@
+{
+  "5S9": {
+    "e": 735,
+    "n": "Valley View",
+    "mv": 14.95,
+    "c": "Estacada",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "ESTACADA"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "ESTACADA"
+      }
+    ],
+    "runways": [
+      {
+        "s": "B",
+        "l": 3722,
+        "w": 29,
+        "e1": {
+          "n": "16",
+          "h": 165,
+          "o": 433
+        },
+        "e2": {
+          "n": "34",
+          "h": -15
+        }
+      }
+    ]
+  },
+  "5S4": {
+    "e": 11,
+    "n": "Toledo State",
+    "mv": 14.95,
+    "c": "Toledo",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "TOLEDOSTATE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "TOLEDOSTATE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 1685,
+        "w": 40,
+        "e1": {
+          "n": "13",
+          "h": 140
+        },
+        "e2": {
+          "n": "31",
+          "h": 320
+        }
+      }
+    ]
+  },
+  "5S6": {
+    "e": 201,
+    "n": "Cape Blanco State",
+    "mv": 14.68,
+    "c": "Denmark",
+    "freqs": [
+      {
+        "t": "FSS",
+        "f": 122.4,
+        "n": "MCMINNVILLE"
+      },
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "DENMARK"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "DENMARK"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 5080,
+        "w": 153,
+        "e1": {
+          "n": "32",
+          "h": 324
+        },
+        "e2": {
+          "n": "14",
+          "h": 144
+        }
+      }
+    ]
+  },
+  "5S0": {
+    "e": 1380,
+    "n": "Oakridge State",
+    "mv": 14.58,
+    "c": "Oakridge",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "OAKRIDGESTATE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "OAKRIDGESTATE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3625,
+        "w": 52,
+        "e1": {
+          "n": "27",
+          "h": 269
+        },
+        "e2": {
+          "n": "09",
+          "h": 89
+        }
+      }
+    ]
+  },
+  "5S5": {
+    "e": 2695,
+    "n": "Lake Billy Chinook State",
+    "mv": 14.57,
+    "c": "Culver",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "LAKEBILLYCHINOOKSTATE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "LAKEBILLYCHINOOKSTATE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "B",
+        "l": 2583,
+        "w": 37,
+        "e1": {
+          "n": "17",
+          "h": 165,
+          "o": 659
+        },
+        "e2": {
+          "n": "35",
+          "h": 345
+        }
+      }
+    ]
+  },
+  "5S1": {
+    "e": 423,
+    "n": "Felt",
+    "mv": 14.63,
+    "c": "Roseburg",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "FELT"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "FELT"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 2214,
+        "w": 78,
+        "e1": {
+          "n": "10",
+          "h": 106
+        },
+        "e2": {
+          "n": "28",
+          "h": 286
+        }
+      }
+    ]
+  },
+  "5S2": {
+    "e": 4795,
+    "n": "Crescent Lake State",
+    "mv": 14.36,
+    "c": "Crescent Lake",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "CRESCENTLAKESTATE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "CRESCENTLAKESTATE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3890,
+        "w": 34,
+        "e1": {
+          "n": "31",
+          "h": 313,
+          "c": true,
+          "o": 278
+        },
+        "e2": {
+          "n": "13",
+          "h": 133,
+          "c": true
+        }
+      }
+    ]
+  },
+  "5SD3": {
+    "e": 1961,
+    "n": "Bowdle Muni",
+    "mv": 4.8,
+    "c": "Bowdle",
+    "runways": [
+      {
+        "s": "G",
+        "l": 3596,
+        "w": 128,
+        "e1": {
+          "n": "13",
+          "h": 138
+        },
+        "e2": {
+          "n": "31",
+          "h": 318
+        }
+      }
+    ]
+  }
+}

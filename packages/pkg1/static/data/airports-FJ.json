@@ -1,0 +1,40 @@
+{
+  "FJDG": {
+    "e": 13,
+    "n": "Diego Garcia Navy",
+    "mv": -6.56,
+    "c": "Diego Garcia",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 134.1,
+        "n": "DIEGOGARCIA"
+      },
+      {
+        "t": "G",
+        "f": 118.4,
+        "n": "DIEGOGARCIA"
+      },
+      {
+        "t": "T",
+        "f": 126.2,
+        "n": "DIEGOGARCIA"
+      }
+    ],
+    "runways": [
+      {
+        "s": "CE",
+        "l": 12010,
+        "w": 194,
+        "e1": {
+          "n": "13",
+          "h": 128
+        },
+        "e2": {
+          "n": "31",
+          "h": 308
+        }
+      }
+    ]
+  }
+}

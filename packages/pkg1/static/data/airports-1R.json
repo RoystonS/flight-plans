@@ -1,0 +1,198 @@
+{
+  "1RL": {
+    "e": 9,
+    "n": "Point Roberts Airpark",
+    "mv": 15.91,
+    "c": "Point Roberts",
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "POINTROBERTSAIRPARK"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "POINTROBERTSAIRPARK"
+      }
+    ],
+    "runways": [
+      {
+        "s": "D",
+        "l": 2443,
+        "w": 105,
+        "e1": {
+          "n": "16",
+          "h": 164
+        },
+        "e2": {
+          "n": "34",
+          "h": -16
+        }
+      }
+    ]
+  },
+  "1R1": {
+    "e": 214,
+    "n": "Jena",
+    "mv": 0.21,
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.8,
+        "n": "ACTIVATELIGHTSONLY"
+      },
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "JENA"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "JENA"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 4892,
+        "w": 71,
+        "e1": {
+          "n": "18",
+          "h": 179,
+          "o": 1099
+        },
+        "e2": {
+          "n": "36",
+          "h": 359
+        }
+      }
+    ]
+  },
+  "1R4": {
+    "e": 140,
+    "n": "Woodworth",
+    "mv": 0.31,
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.8,
+        "n": "ACTIVATELIGHTSONLY"
+      },
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "WOODWORTH"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "WOODWORTH"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3093,
+        "w": 61,
+        "e1": {
+          "n": "19",
+          "h": 196
+        },
+        "e2": {
+          "n": "01",
+          "h": 16
+        }
+      }
+    ]
+  },
+  "1R7": {
+    "e": 486,
+    "n": "Brookhaven-Lincoln County Airport",
+    "mv": -1.03,
+    "c": "Brookhaven",
+    "freqs": [
+      {
+        "t": "CTR",
+        "f": 133.5,
+        "n": "HOUSTON"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "BROOKHAVEN-LINCOLNCO"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "BROOKHAVEN-LINCOLNCO"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 4967,
+        "w": 70,
+        "e1": {
+          "n": "04",
+          "h": 49,
+          "o": 610
+        },
+        "e2": {
+          "n": "22",
+          "h": 229,
+          "o": 984
+        }
+      }
+    ]
+  },
+  "1R8": {
+    "e": 228,
+    "n": "Bay Minette Muni",
+    "mv": -2.78,
+    "c": "Bay Minette",
+    "freqs": [
+      {
+        "t": "CTR",
+        "f": 127.65,
+        "n": "HOUSTON"
+      },
+      {
+        "t": "A",
+        "f": 118.5,
+        "n": "MOBILE"
+      },
+      {
+        "t": "D",
+        "f": 118.5,
+        "n": "MOBILE"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "BAYMINETTEMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "BAYMINETTEMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 5492,
+        "w": 73,
+        "e1": {
+          "n": "26",
+          "h": 269
+        },
+        "e2": {
+          "n": "08",
+          "h": 89
+        }
+      }
+    ]
+  }
+}

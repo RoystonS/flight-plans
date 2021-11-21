@@ -1,0 +1,109 @@
+{
+  "X13": {
+    "e": 20,
+    "n": "Carrabelle-Thompson",
+    "mv": -4.7,
+    "c": "Carrabelle",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "CARRABELLE-THOMPSON"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "CARRABELLE-THOMPSON"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 4029,
+        "w": 72,
+        "e1": {
+          "n": "23",
+          "h": 241
+        },
+        "e2": {
+          "n": "05",
+          "h": 61
+        }
+      }
+    ]
+  },
+  "X14": {
+    "e": 19,
+    "n": "La Belle Mun",
+    "mv": -6.32,
+    "c": "La Belle",
+    "freqs": [
+      {
+        "t": "FSS",
+        "f": 122.1,
+        "n": "MIAMI"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "LABELLEMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "LABELLEMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 5256,
+        "w": 75,
+        "e1": {
+          "n": "14",
+          "h": 143,
+          "o": 347
+        },
+        "e2": {
+          "n": "32",
+          "h": 323,
+          "o": 127
+        }
+      }
+    ]
+  },
+  "X10": {
+    "e": 12,
+    "n": "Belle Glade State",
+    "mv": -6.87,
+    "c": "Belle Glade",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "BELLEGLADESTATE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "BELLEGLADESTATE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3693,
+        "w": 47,
+        "e1": {
+          "n": "09",
+          "h": 97,
+          "o": 226
+        },
+        "e2": {
+          "n": "27",
+          "h": 277
+        }
+      }
+    ]
+  }
+}

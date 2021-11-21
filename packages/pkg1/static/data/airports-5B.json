@@ -1,0 +1,335 @@
+{
+  "5BL": {
+    "e": 25,
+    "n": "Homer-Beluga Lake",
+    "mv": 14.64,
+    "c": "Homer",
+    "runways": [
+      {
+        "s": "W",
+        "l": 2974,
+        "w": 197,
+        "e1": {
+          "n": "NE",
+          "h": 49
+        },
+        "e2": {
+          "n": "SW",
+          "h": 229
+        }
+      }
+    ]
+  },
+  "5BK": {
+    "e": 2125,
+    "n": "Black Rapids",
+    "mv": 17.07,
+    "freqs": [
+      {
+        "t": "A",
+        "f": 125.3,
+        "n": "EIELSONRANGE"
+      },
+      {
+        "t": "FSS",
+        "f": 122.4,
+        "n": "FAIRBANKS"
+      },
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "BLACKRAPIDS"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "BLACKRAPIDS"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 2164,
+        "w": 65,
+        "e1": {
+          "n": "33",
+          "h": 330
+        },
+        "e2": {
+          "n": "15",
+          "h": 150
+        }
+      }
+    ]
+  },
+  "5B4": {
+    "e": 1953,
+    "n": "Bowbells Muni",
+    "mv": 6.94,
+    "c": "Bowbells",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "BOWBELLSMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "BOWBELLSMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 2408,
+        "w": 200,
+        "e1": {
+          "n": "26",
+          "h": 263
+        },
+        "e2": {
+          "n": "08",
+          "h": 83
+        }
+      }
+    ]
+  },
+  "5B5": {
+    "e": 1969,
+    "n": "Napoleon Mun",
+    "mv": 4.83,
+    "c": "Napoleon",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "NAPOLEONMUN"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "NAPOLEONMUN"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 3193,
+        "w": 65,
+        "e1": {
+          "n": "12",
+          "h": 124
+        },
+        "e2": {
+          "n": "30",
+          "h": 304
+        }
+      }
+    ]
+  },
+  "5B1": {
+    "e": 1183,
+    "n": "John H Boylan State (Island Pond) Airport",
+    "mv": -14.64,
+    "c": "Island Pond",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.9,
+        "n": "BOYLANSTATE"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.9,
+        "n": "BOYLANSTATE"
+      }
+    ],
+    "runways": [
+      {
+        "s": "G",
+        "l": 2693,
+        "w": 120,
+        "e1": {
+          "n": "14",
+          "h": 138
+        },
+        "e2": {
+          "n": "32",
+          "h": 318
+        }
+      }
+    ]
+  },
+  "5B9": {
+    "e": 563,
+    "n": "Dean Memorial",
+    "mv": -13.94,
+    "c": "Haverhill",
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "DEANMEML"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "DEANMEML"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 2475,
+        "w": 50,
+        "e1": {
+          "n": "01",
+          "h": 366,
+          "o": 183
+        },
+        "e2": {
+          "n": "19",
+          "h": 186
+        }
+      }
+    ]
+  },
+  "5B2": {
+    "e": 430,
+    "n": "Saratoga Co",
+    "mv": -13.57,
+    "c": "Saratoga Springs",
+    "freqs": [
+      {
+        "t": "A",
+        "f": 118.05,
+        "n": "ALBANY"
+      },
+      {
+        "t": "AWOS",
+        "f": 132.025,
+        "n": null
+      },
+      {
+        "t": "D",
+        "f": 118.05,
+        "n": "ALBANY"
+      },
+      {
+        "t": "RCD",
+        "f": 118.125,
+        "n": "ALBANYCLEARANCEDELIVERY"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "SARATOGACO"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "SARATOGACO"
+      }
+    ],
+    "runways": [
+      {
+        "s": "B",
+        "l": 4681,
+        "w": 82,
+        "e1": {
+          "n": "05",
+          "h": 52
+        },
+        "e2": {
+          "n": "23",
+          "h": 232
+        }
+      },
+      {
+        "s": "B",
+        "l": 3999,
+        "w": 100,
+        "e1": {
+          "n": "14",
+          "h": 142
+        },
+        "e2": {
+          "n": "32",
+          "h": 322
+        }
+      }
+    ]
+  },
+  "5B7": {
+    "e": 437,
+    "n": "Rensselaer County",
+    "mv": -13.33,
+    "c": "Troy",
+    "freqs": [
+      {
+        "t": "UC",
+        "f": 122.7,
+        "n": "RENSSELAERCO"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.7,
+        "n": "RENSSELAERCO"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 2578,
+        "w": 35,
+        "e1": {
+          "n": "18",
+          "h": 175
+        },
+        "e2": {
+          "n": "36",
+          "h": 355
+        }
+      }
+    ]
+  },
+  "5B6": {
+    "e": 39,
+    "n": "Falmouth Airpark",
+    "mv": -14.33,
+    "c": "Falmouth",
+    "freqs": [
+      {
+        "t": "MC",
+        "f": 122.7,
+        "n": "ACTIVATELIGHTSONLY"
+      },
+      {
+        "t": "UC",
+        "f": 122.8,
+        "n": "FALMOUTH"
+      },
+      {
+        "t": "CTAF",
+        "f": 122.8,
+        "n": "FALMOUTH"
+      }
+    ],
+    "runways": [
+      {
+        "s": "A",
+        "l": 2288,
+        "w": 39,
+        "e1": {
+          "n": "07",
+          "h": 66
+        },
+        "e2": {
+          "n": "25",
+          "h": 246
+        }
+      }
+    ]
+  }
+}

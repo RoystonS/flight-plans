@@ -11,20 +11,60 @@
 
 .root li {
   list-style-type: none;
+  padding: 0 8px;
 }
 
 .root li:nth-child(2n) {
-  background-color: #f0f0f0;
+  background-color: #e0e0e0;
 }
 
 .root li:nth-child(2n + 1) {
-  background-color: #f8f8f8;
+  background-color: #f0f0f0;
 }
 
 .waypointId {
   display: inline-block;
 }
 
+.airport {
+  margin-left: 8px;
+}
+
 .airportName {
   display: inline-block;
+}
+
+.runway {
+  margin-left: 8px;
+}
+.runwayName {
+  font-size: 14px;
+  font-weight: 600;
+}
+.runwaySizeAndPos {
+  text-align: right;
+}
+.runwaySize {
+  display: inline-block;
+  font-size: small;
+}
+.runwayElevation {
+  display: inline-block;
+  font-size: small;
+}
+
+.runwayEnds {
+  columns: 2;
+}
+.runwayEnd {
+  font-size: 12px;
+  margin-bottom: 4px;
+}
+.runwayEndName {
+  font-weight: 500;
+}
+.runwayEndClosed {
+  text-decoration: line-through;
+}
+.runwayEndDisplaced {
 }

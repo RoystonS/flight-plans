@@ -14,7 +14,8 @@ export function FlightHeader(props: IFlightHeaderProps) {
 
   return (
     <h1 className={styles.header}>
-      <WaypointDisplay point={start} /> to <WaypointDisplay point={end} />
+      Group Flight: <WaypointDisplay point={start} /> to{" "}
+      <WaypointDisplay point={end} /> [East USA Server]
     </h1>
   );
 }

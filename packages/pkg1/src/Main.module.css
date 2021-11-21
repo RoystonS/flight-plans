@@ -8,6 +8,24 @@
   margin: 0;
   height: 100%;
 }
+:global(h1),
+:global(h2),
+:global(h3),
+:global(h4),
+:global(h5),
+:global(h6) {
+  font-size: 1em;
+}
+:global(h1),
+:global(h2),
+:global(h3),
+:global(h4),
+:global(h5),
+:global(h6),
+:global(div),
+:global(span) {
+  margin: 0;
+}
 
 .root {
   height: 100%;

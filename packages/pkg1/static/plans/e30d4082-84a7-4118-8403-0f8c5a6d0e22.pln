@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>NZTZ to NZMO</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>5000</CruisingAlt>
+        <DepartureID>NZTZ</DepartureID>
+        <DepartureLLA>S45° 27' 32.45",E167° 42' 3.89",+000784.00</DepartureLLA>
+        <DestinationID>NZMO</DestinationID>
+        <DestinationLLA>S45° 31' 59.00",E167° 38' 59.98",+000683.00</DestinationLLA>
+        <Descr>NZTZ, NZMO</Descr>
+        <DeparturePosition>16</DeparturePosition>
+        <DepartureName>Te Anau</DepartureName>
+        <DestinationName>Manapouri</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="NZTZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S45° 27' 44.21",E167° 42' 3.83",+000784.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZTZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 30' 9.00",E167° 41' 20.66",+001598.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 29' 43.00",E167° 22' 16.76",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 32' 25.82",E167° 13' 32.71",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 27' 49.47",E167° 9' 37.88",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 26' 16.70",E167° 7' 26.87",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 22' 48.46",E167° 6' 0.35",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 21' 3.39",E167° 3' 25.88",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 21' 42.46",E167° 1' 16.08",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 24' 32.61",E167° 1' 35.86",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP10">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 24' 8.74",E166° 58' 44.69",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP11">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 26' 17.99",E166° 53' 26.41",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP12">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 25' 13.82",E166° 52' 29.56",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP13">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 23' 41.84",E166° 48' 45.88",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP14">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 23' 28.82",E166° 45' 5.27",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP15">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 34' 55.52",E166° 38' 42.73",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP16">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 36' 43.62",E166° 42' 52.39",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP17">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 42' 1.53",E166° 43' 51.72",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP18">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 43' 45.09",E166° 44' 51.05",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP19">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 43' 52.85",E166° 54' 54.20",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP20">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 42' 9.30",E167° 2' 14.20",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP21">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 40' 42.10",E167° 5' 8.44",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP22">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 40' 21.80",E167° 8' 10.76",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP23">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 40' 52.02",E167° 8' 42.89",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP24">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 42' 8.01",E167° 8' 50.91",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP25">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 42' 49.65",E167° 9' 24.31",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP26">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 46' 48.78",E167° 8' 34.27",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP27">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 48' 3.75",E167° 9' 28.65",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP28">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 50' 20.70",E167° 8' 50.31",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP29">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 54' 31.12",E167° 11' 24.17",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP30">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 55' 20.99",E167° 16' 28.22",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP31">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 59' 16.43",E167° 19' 31.80",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP32">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 59' 11.28",E167° 24' 3.71",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP33">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 55' 35.17",E167° 24' 18.49",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP34">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 51' 34.74",E167° 21' 17.16",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP35">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 47' 48.24",E167° 20' 1.14",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP36">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 45' 44.98",E167° 18' 30.88",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP37">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 42' 49.00",E167° 20' 25.85",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP38">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 40' 10.14",E167° 20' 15.97",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP39">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 35' 56.07",E167° 21' 53.58",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP40">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 32' 4.17",E167° 24' 52.82",+003987.36</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP41">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 31' 28.67",E167° 27' 17.13",+003397.74</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZMO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S45° 31' 59.00",E167° 38' 59.98",+000683.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZMO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

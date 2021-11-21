@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>FMNN to FMNV</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2000</CruisingAlt>
+        <DepartureID>FMNN</DepartureID>
+        <DepartureLLA>S13° 19' 8.65",E48° 18' 29.07",+000019.00</DepartureLLA>
+        <DestinationID>FMNV</DestinationID>
+        <DestinationLLA>S13° 22' 22.00",E49° 59' 56.00",+000019.00</DestinationLLA>
+        <Descr>FMNN, FMNV</Descr>
+        <DeparturePosition>5</DeparturePosition>
+        <DepartureName>Fascene</DepartureName>
+        <DestinationName>Vohimarina</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="FMNN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S13° 19' 5.00",E48° 18' 33.00",+000019.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>FMNN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="FMNZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S13° 29' 5.37",E48° 37' 57.69",+002000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>FMNZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="FMNE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S13° 11' 18.00",E48° 59' 15.00",+002000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>FMNE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="FMNV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S13° 22' 22.00",E49° 59' 56.00",+000019.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>FMNV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

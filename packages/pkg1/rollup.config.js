@@ -8,6 +8,7 @@ import typescript from "rollup-plugin-typescript2";
 import external from "rollup-plugin-peer-deps-external";
 import postcss from "rollup-plugin-postcss";
 import copy from "rollup-plugin-copy";
+import { terser } from "rollup-plugin-terser";
 import autoprefixer from "autoprefixer";
 
 const packageJson = require("./package.json");
@@ -16,7 +17,7 @@ dotenv.config({
   path: path.resolve(__dirname, ".env." + process.env.NODE_ENV),
 });
 
-export default {
+const config = {
   input: "src/index.tsx",
   output: {
     file: packageJson.main,
@@ -26,6 +27,10 @@ export default {
     copy({
       targets: [
         { src: "static/*", dest: "dist/" },
+        {
+          src: "static/plans/*.pln",
+          dest: "dist/plans/",
+        },
         {
           src: "static/data/*.json",
           dest: "dist/data",
@@ -49,3 +54,9 @@ export default {
     }),
   ],
 };
+
+if (process.env.NODE_ENV === "production") {
+  config.plugins.push(terser());
+}
+
+export default config;

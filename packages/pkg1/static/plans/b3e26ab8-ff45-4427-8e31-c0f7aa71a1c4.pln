@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>EGSC to Perlan</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>2500.000</CruisingAlt>
+        <DepartureID>EGSC</DepartureID>
+        <DepartureLLA>N52° 12' 18.00",E0° 10' 30.00",+000038.75</DepartureLLA>
+        <DestinationID>CUSTA</DestinationID>
+        <DestinationLLA>N64° 7' 45.24",W21° 55' 7.87",+000340.33</DestinationLLA>
+        <Descr>EGSC to Perlan</Descr>
+        <DeparturePosition>23</DeparturePosition>
+        <DepartureName>EGSC</DepartureName>
+        <DestinationName>Perlan</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="EGSC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N52° 12' 18.00",E0° 10' 30.00",+000038.75</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <RunwayNumberFP>23</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>EGSC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Waddington AB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N53° 9' 58.18",W0° 31' 25.82",+002500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>EGXW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lincoln Cathedral">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N53° 14' 3.50",W0° 32' 10.66",+002500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="High Flats Farm Airstrip">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N54° 52' 10.63",W1° 35' 46.60",+002500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>EGQP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Barra">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N57° 1' 25.00",W7° 26' 30.00",+002500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>EGPR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mosfellshei&#xC3;&#xB0;i">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N64° 7' 7.83",W21° 21' 40.99",+002500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>BI65</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mosfellsbaer Airport">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N64° 8' 15.72",W21° 44' 52.23",+002500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>BIMO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Hallgr&#xC3;&#xAD;mskirkja Church">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N64° 8' 30.96",W21° 55' 36.88",+002500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="CUSTA">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N64° 7' 45.24",W21° 55' 7.87",+002500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>CUSTA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,5 +1,12 @@
-:global(html, body) {
+:global(html) {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+:global(html),
+:global(body),
+:global(#root) {
   margin: 0;
+  height: 100%;
 }
 
 .root {
@@ -25,7 +32,6 @@
 }
 
 .waypointList {
-  min-width: 400px;
   grid-row: 2;
   grid-column: 2;
   overflow-y: auto;

@@ -4,11 +4,12 @@ export interface IFlightPlan {
   waypoints: IWaypoint[];
 }
 
-export type WaypointType = "airport" | "intersection" | "user";
+export type WaypointType = "airport" | "intersection" | "ndb" | "user";
 
 const WaypointTypeMappings: Record<string, WaypointType> = {
   Airport: "airport",
   Intersection: "intersection",
+  NDB: "ndb",
   User: "user",
 };
 

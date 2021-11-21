@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>PFYU to 5AK2</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2000</CruisingAlt>
+        <DepartureID>PFYU</DepartureID>
+        <DepartureLLA>N66° 34' 3.32",W145° 15' 38.78",+000447.00</DepartureLLA>
+        <DestinationID>5AK2</DestinationID>
+        <DestinationLLA>N64° 43' 50.48",W147° 20' 51.67",+000490.00</DestinationLLA>
+        <Descr>PFYU, 5AK2</Descr>
+        <DeparturePosition>PARKING 1</DeparturePosition>
+        <DepartureName>Fort Yukon</DepartureName>
+        <DestinationName>Howards</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PFYU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N66° 34' 20.71",W145° 14' 46.82",+000447.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PFYU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 49' 49.24",W145° 24' 18.27",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 37' 42.74",W145° 40' 58.69",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 33' 14.10",W145° 44' 2.87",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 32' 51.06",W145° 49' 5.65",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 31' 23.55",W145° 49' 29.17",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 31' 22.01",W145° 58' 4.53",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 32' 32.66",W146° 1' 40.85",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 31' 31.74",W146° 3' 50.44",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 28' 6.70",W146° 3' 44.23",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP10">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 26' 48.15",W146° 4' 33.67",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP11">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 26' 17.33",W146° 7' 57.80",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP12">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 25' 48.55",W146° 9' 46.56",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP13">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 26' 13.21",W146° 12' 18.61",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP14">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 25' 19.77",W146° 14' 39.46",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP15">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 23' 51.30",W146° 16' 28.22",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP16">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 22' 14.01",W146° 16' 51.73",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP17">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 20' 27.31",W146° 17' 26.34",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP18">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 18' 54.97",W146° 21' 34.74",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP19">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 17' 36.47",W146° 22' 4.40",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP20">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 17' 41.14",W146° 20' 27.83",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP21">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 16' 12.76",W146° 19' 33.45",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP22">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 14' 41.71",W146° 21' 27.16",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP23">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 11' 48.18",W146° 35' 20.20",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP24">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 5' 52.36",W146° 41' 13.35",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP25">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 4' 39.46",W146° 52' 35.60",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP26">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N64° 47' 12.66",W147° 17' 18.76",+001709.63</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="5AK2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N64° 43' 50.48",W147° 20' 51.67",+000490.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>5AK2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

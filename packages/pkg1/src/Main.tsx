@@ -20,8 +20,6 @@ import { WaypointList } from "./WaypointList";
 import { Upload } from "./Upload";
 import { FlightHeader } from "./FlightHeader";
 
-const MAPBOX_TOKEN = process.env.MAPBOX_TOKEN;
-
 const airportDb = new AirportDB();
 
 export function Main() {
@@ -36,18 +34,13 @@ export function Main() {
 
     const lmap = map(mapElRef.current!);
 
-    tileLayer(
-      `https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=${MAPBOX_TOKEN}`,
-      {
-        attribution:
-          'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-        maxZoom: 18,
-        id: "mapbox/satellite-v9",
-        tileSize: 512,
-        zoomOffset: -1,
-        accessToken: MAPBOX_TOKEN,
-      }
-    ).addTo(lmap);
+    tileLayer(`https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg`, {
+      attribution:
+        'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.',
+      maxZoom: 18,
+      tileSize: 512,
+      zoomOffset: -1,
+    }).addTo(lmap);
 
     const points = plan.waypoints.map((wp) => wp.position);
 

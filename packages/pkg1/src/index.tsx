@@ -3,4 +3,4 @@ import { Main } from "./Main";
 
 const root = document.getElementById("root");
 
-render(<Main name="World" />, root);
+render(<Main />, root);

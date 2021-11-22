@@ -20,17 +20,14 @@ import { WaypointList } from "./WaypointList";
 import { Upload } from "./Upload";
 import { FlightHeader } from "./FlightHeader";
 
-export interface IMainProps {
-  name: string;
-}
-
 const MAPBOX_TOKEN = process.env.MAPBOX_TOKEN;
 
 const airportDb = new AirportDB();
 
-export function Main(props: IMainProps) {
+export function Main() {
   const mapElRef = useRef<HTMLDivElement>(null);
   const [plan, setPlan] = useState<IFlightPlan | undefined>();
+  const [error, setError] = useState<string | undefined>();
 
   useEffect(() => {
     if (!plan) {
@@ -114,21 +111,28 @@ export function Main(props: IMainProps) {
     );
   }, [plan]);
 
+  if (error) {
+    return <div className={styles.error}>{error}</div>;
+  }
+
   if (!plan) {
     const sparams = new URLSearchParams(window.location.search);
     const planId = sparams.get("plan");
     if (planId && planId.match(/^[-A-Z0-9]+$/i)) {
-      fetch(`./plans/${planId}.pln`)
-        .then((request) => {
-          // TODO: error handling
-          return request.arrayBuffer();
-        })
-        .then((buffer) => {
+      async function fetchPlan() {
+        const request = await fetch(`./plans/${planId}.pln`);
+
+        if (request.status === 200) {
+          const buffer = await request.arrayBuffer();
           const decoder = new TextDecoder("utf8");
           const text = decoder.decode(buffer);
           const newPlan = parseFlightPlan(text);
           setPlan(newPlan);
-        });
+        } else {
+          setError("Could not load specified flight plan");
+        }
+      }
+      void fetchPlan();
       return <div>Loading...</div>;
     } else {
       function handleUpload(text: string) {
@@ -157,12 +161,4 @@ export function Main(props: IMainProps) {
       </div>
     </AirportDBContext.Provider>
   );
-}
-
-async function tryFlightPlan() {
-  const request = await fetch("./plan5.pln");
-  const buffer = await request.arrayBuffer();
-  const decoder = new TextDecoder("utf8");
-  const text = decoder.decode(buffer);
-  return parseFlightPlan(text);
 }
